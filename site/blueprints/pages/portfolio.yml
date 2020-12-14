@@ -1,0 +1,15 @@
+title: Portfolio
+preset: page
+
+fields:
+  Headline:
+    type: text
+  Text:
+    type: text
+  Textarea:
+    type: textarea
+  cover:
+    type: files 
+    headline: Cover
+    layout: cards
+    template: image

@@ -1,0 +1,19 @@
+Title: Info-Grafiken
+
+----
+
+Headline: Info-Grafiken
+
+----
+
+Text: Text zu Info Grafiken
+
+----
+
+Textarea: Noch mehr Text zu Infografiken
+
+----
+
+Cover:
+
+- k2b_6806_blockgrafik_geo.jpg

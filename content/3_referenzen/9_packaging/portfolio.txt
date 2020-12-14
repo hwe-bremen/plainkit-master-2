@@ -1,0 +1,19 @@
+Title: Packaging
+
+----
+
+Headline: Von Schwertlilien
+
+----
+
+Text: Blindtext zu Von Schwertlilien und Lasercuttern
+
+----
+
+Textarea: Noch mehr Blindtext komtt hier geschwind
+
+----
+
+Cover:
+
+- dasbuch.jpg

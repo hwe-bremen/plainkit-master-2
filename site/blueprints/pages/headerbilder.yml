@@ -1,0 +1,29 @@
+title: Headerbilder
+preset: page
+
+fields:
+  Header_Bilder:  
+      label: Headerbilder
+      type: files 
+      layout: cards
+      template: image 
+      image:
+        cover: true  
+  
+
+
+
+
+
+
+
+      
+    
+  
+
+
+
+
+
+
+

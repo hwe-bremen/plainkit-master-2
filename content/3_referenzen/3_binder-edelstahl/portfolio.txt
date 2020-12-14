@@ -1,0 +1,19 @@
+Title: Binder Edelstahl
+
+----
+
+Headline: Binder Edelstahl
+
+----
+
+Text: Beispieltext Binder Edelstahl
+
+----
+
+Textarea: Noch mehr Text zum Thema
+
+----
+
+Cover:
+
+- web_binder.jpg

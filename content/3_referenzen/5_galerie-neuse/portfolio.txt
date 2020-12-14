@@ -1,0 +1,19 @@
+Title: Galerie Neuse
+
+----
+
+Headline: Galerie Neuse
+
+----
+
+Text: Blindtext zu Galerie Neuse
+
+----
+
+Textarea: Noch mehr Blindtext
+
+----
+
+Cover:
+
+- neuse-cd-briefpapier.jpg

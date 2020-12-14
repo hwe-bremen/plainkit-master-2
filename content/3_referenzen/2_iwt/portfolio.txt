@@ -1,0 +1,19 @@
+Title: IWT
+
+----
+
+Headline: IWT
+
+----
+
+Text: Beispieltext IWT
+
+----
+
+Textarea: Noch mehr Text steht hier
+
+----
+
+Cover:
+
+- kleine-bilder-iwt.jpg

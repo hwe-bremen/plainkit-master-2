@@ -1,0 +1,49 @@
+Header-headline: TOUCHPOINT
+
+----
+
+Headertext: Ein Moment der berührt – Wahrnehmung einfängt, den Kontakt herstellt und das Tor öffnet: Kommunikation beginnt.
+
+----
+
+Headline: Kommunikation für Unternehmen und Institutionen
+
+----
+
+Introtext: Mit unserem Know-how in den Bereichen Design, Webentwicklung und Marketing stärken wir Ihr Unternehmen in seinem Marktumfeld.
+
+----
+
+Selbstdarstellung:
+
+<b>Wir kreieren, entwickeln, planen uns setzen für Sie professionell um:</b><br> Mit zielgruppengerechten Unternehmenspräsentation, einem E-Commerce-Shops oder auf ihr Unternehmen zugeschnittene Internetlösungen.<br><br>
+Sprechen Sie uns daher gerne an, wenn es um Konzepte, Corporate Design, Packaging oder Webentwicklung geht: Das Team der Spezialisten kann Sie breit aufgestellt unterstützen.
+
+----
+
+Selbstdarstellung-bild:
+
+- amsterdam_5.jpg
+
+----
+
+Team-headline: Das Team der Kompetenzen
+
+----
+
+Team-bodytext: Lorumque quam quatia dolupta tiorestibus aut doluptaseiumini aut quia vel molupta quatios simolupta poruntem con perumendam, te laboremquod millorp oratese recatiberit optatur, iur mo iumqui ipsae nonse nis moluptatem am, apis qui arum et ut eum volor. Lorumque quam quatia dolupta tiorestibus aut doluptas eium ini aut quia vel molupta quatios simolupta poruntem con perumendam, te laboremquod millorp oratese recatiberit optatur, iur mo iumqui ipsae nonse nis moluptatem am, apis qui arum et ut eum volor s
+
+----
+
+Team-bild:
+
+- gondel.jpg
+
+----
+
+Header-bilder:
+
+- 01_schaufenster_amsterdam.jpg
+- 02_atomium_bruessel.jpg
+- 03_schaufenster_amsterdam.jpg
+- 04_schaufenster_florenz.jpg

@@ -1,0 +1,19 @@
+Title: 01_Corporate Design
+
+----
+
+Headline: 01_Corporate Design
+
+----
+
+Text: Die visuelle Identität schärft das Profil – auch im Umfeld wandelnder Markenidentitäten. Wir begleiten den gesamten Entwicklungsprozess.
+
+----
+
+Textarea: Lsapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo.
+
+----
+
+Cover:
+
+- bild_portfolio_1.jpg

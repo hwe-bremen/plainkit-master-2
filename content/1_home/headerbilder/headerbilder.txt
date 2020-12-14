@@ -1,0 +1,26 @@
+Title: Headerbilder
+
+----
+
+Header-bilder:
+
+- 01_schaufenster_amsterdam.jpg
+- 02_atomium_bruessel.jpg
+- 03_schaufenster_amsterdam.jpg
+- 04_schaufenster_florenz.jpg
+
+----
+
+Headline: Header-Images
+
+----
+
+Text: 
+
+----
+
+Textarea: 
+
+----
+
+Cover: 

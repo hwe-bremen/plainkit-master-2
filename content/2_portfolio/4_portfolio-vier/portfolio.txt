@@ -1,0 +1,19 @@
+Title: 04_Medienkompetenz
+
+----
+
+Headline: 04_Medienkompetenz
+
+----
+
+Text: Vom barrierefreiem PDF der Druckvorlage einer Becherplatine bis zur Betreuung Ihrer Instagram-Präzens: WIr setzen Ihre Projekte um.
+
+----
+
+Textarea: Lorem Ipsum Dolores steht hier oder irgend ein anderer Quatsch. Das ist ja auch nur Blindtext, Reiner Loren ipsum Text als. So ist das nun mal.
+
+----
+
+Cover:
+
+- bild_portfolio_4.jpg

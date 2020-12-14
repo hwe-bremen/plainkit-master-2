@@ -1,0 +1,19 @@
+Title: Henne Verpackung
+
+----
+
+Headline: Henne Verpackung
+
+----
+
+Text: Bodytext zu Henne Verpackung
+
+----
+
+Textarea: Noch mehr Text der hier unnütz herumsteht
+
+----
+
+Cover:
+
+- planung_messeauftritt.jpg

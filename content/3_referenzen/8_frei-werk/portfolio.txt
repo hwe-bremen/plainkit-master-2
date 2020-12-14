@@ -1,0 +1,19 @@
+Title: Frei:Werk
+
+----
+
+Headline: Freiwerk
+
+----
+
+Text: Blindtext zu Freiwerk
+
+----
+
+Textarea: Freiwerk steht hier mit ner Menge Blindtext
+
+----
+
+Cover:
+
+- logogestaltung.jpg

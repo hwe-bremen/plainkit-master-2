@@ -1,0 +1,57 @@
+title: Home
+preset: page
+
+fields:  
+  Header_Headline:
+    label: Header Headline
+    type: text
+    width: 1/2
+  Headertext :
+    type: textarea
+    width: 1/2
+  Headline:
+    type: text
+    width: 1
+  Introtext:
+    type: textarea
+  Selbstdarstellung:
+    type: textarea
+  Selbstdarstellung_Bild:
+    label: Selbstdarstellung Bild
+    type: files 
+    layout: cards
+    template: image 
+    image:
+      cover: true
+  Team_headline:
+      label: Team headline
+      type: text 
+      width: 1/2
+  Team_Bodytext:
+      label: Team Bodytext
+      type: textarea 
+      width: 1/2 
+  Team_Bild:
+      label: Team Bild
+      type: files 
+      layout: cards
+      template: image 
+      image:
+        cover: true     
+
+
+
+
+
+
+
+      
+    
+  
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Title: ZMT
+
+----
+
+Headline: ZMT
+
+----
+
+Text: Beispieltext ZMT
+
+----
+
+Textarea: Noch mehr Text ZMT
+
+----
+
+Cover:
+
+- web_zmt.jpg
