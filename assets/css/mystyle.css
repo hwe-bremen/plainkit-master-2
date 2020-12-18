@@ -88,6 +88,7 @@ img {
      position: sticky;
      top: 0;
      z-index: 50;
+     box-shadow: 0 1px 1px gray;
  }
  .logo_image {
      overflow: hidden;
@@ -119,10 +120,10 @@ img {
      font-weight: 700; 
  }
 nav li:last-child a {
-  padding: 2px;
+  padding: 0.3rem;
   color: white;
   background-color: var(--corporate_color);
-  ;
+  border-radius: 3px;
 }
  
  /* HEADERBEREICH HOME___________________________________________*/

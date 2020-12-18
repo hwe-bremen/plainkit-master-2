@@ -17,10 +17,9 @@
   grid-row: 1;
   grid-column: 1 / 2;
   font-size: var(--paragraph_zwei);
-  letter-spacing: 0.1em;
-  font-weight: 200;
-  align-self: end;
-  margin: 0;
+  letter-spacing: 0.2blogem;
+
+  margin-bottom: 1rem;
 }
 
 article h2 {
@@ -58,6 +57,6 @@ article a {
   grid-column: 1 / 1;
 }
 
-h2::after {
+#blog h2::after {
   margin: 1.5em 0 0 -6.65em;
 }
