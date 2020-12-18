@@ -16,8 +16,8 @@ Introtext: Mit unserem Know-how in den Bereichen Design, Webentwicklung und Mark
 
 Selbstdarstellung:
 
-<b>Wir kreieren, entwickeln, planen uns setzen für Sie professionell um:</b><br> Mit zielgruppengerechten Unternehmenspräsentation, einem E-Commerce-Shops oder auf ihr Unternehmen zugeschnittene Internetlösungen.<br><br>
-Sprechen Sie uns daher gerne an, wenn es um Konzepte, Corporate Design, Packaging oder Webentwicklung geht: Das Team der Spezialisten kann Sie breit aufgestellt unterstützen.
+**Wir kreieren, entwickeln, planen und setzen für Sie professionell um:**<br> Mit zielgruppengerechten Unternehmenspräsentation, einem E-Commerce-Shops oder auf ihr Unternehmen zugeschnittene Internetlösungen.<br><br>
+Sprechen Sie uns daher gerne an, wenn es um **Konzepte, Corporate Design, Packaging oder Webentwicklung** geht: Das Team der Spezialisten kann Sie breit aufgestellt unterstützen.
 
 ----
 

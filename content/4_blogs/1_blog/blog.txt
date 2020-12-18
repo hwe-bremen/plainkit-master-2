@@ -1,0 +1,27 @@
+Title: du:BLOG
+
+----
+
+Headline: Designkonzept fürs das IWT fertig gestellt!
+
+----
+
+Introtext: du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.
+
+----
+
+Textarea: du projekt hat den kompletten Corporate Design Prozess für das **Bremer Leibniz Institut für Werkstofforientierte Technologien** umgesetzt. Vom Re-Design des neuen Logos über die Website bis hin zur Gestaltung des Außen- und Eingangsbereiches haben wir das Institut bei allen wichtigen Schritten begleitet. Wir bedanken uns für die tolle Zusammenarbeit und freuen uns auf viel weitere spannende Projekte. du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt. Vom Re-Design des neuen Logos über die Website bis hin zur Gestaltung des Außen- und Eingangsbereiches haben wir das Institut bei allen wichtigen Schritten begleitet. Wir bedanken uns für die tolle Zusammenarbeit und freuen uns auf viel weitere spannende Projekte.
+
+----
+
+Cover:
+
+- iwt_aussenansicht.jpg
+
+----
+
+Published: 2020-12-17
+
+----
+
+Text: Blog Artikel der erste

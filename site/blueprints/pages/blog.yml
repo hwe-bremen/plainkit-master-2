@@ -1,0 +1,15 @@
+title: blog
+preset: page
+
+fields:
+  Headline:
+    type: text
+  Introtext:
+    type: textarea
+  Textarea:
+    type: textarea
+  cover:
+    type: files 
+    headline: Cover
+    layout: cards
+    template: image

@@ -8,6 +8,8 @@ Header-bilder:
 - 02_atomium_bruessel.jpg
 - 03_schaufenster_amsterdam.jpg
 - 04_schaufenster_florenz.jpg
+- 05_tulpen.jpg
+- 06_florenz_brunnen.jpg
 
 ----
 
