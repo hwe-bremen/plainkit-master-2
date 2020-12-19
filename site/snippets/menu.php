@@ -9,7 +9,7 @@
   <meta name="author" content="SitePoint">
 
   <?= css('assets/css/mystyle.css') ?>
-  <?= css('assets/css/basic-page.css') ?>
+  <?= css('assets/css/basicpage.css') ?>
   <?= css('assets/css/header_unterseiten.css') ?>
   <?= css('assets/css/blog.css') ?>
   <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">

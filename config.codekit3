@@ -41,23 +41,23 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/assets/basic-bage-min.css": {
+	"/assets/basicpage-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/assets/basic-bage-min-min.css",
+		"oAP": "/assets/basicpage-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/assets/basic-bage.css": {
+	"/assets/basicpage.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/assets/basic-bage-min.css",
+		"oAP": "/assets/basicpage-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -8266,12 +8266,12 @@
 		"oAP": "/site/accounts/XbmZotBv/user.txt",
 		"oF": 0
 		},
-	"/site/blueprints/pages/basic-page.yml": {
+	"/site/blueprints/pages/basicpage.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/blueprints/pages/basic-page.yml",
+		"oAP": "/site/blueprints/pages/basicpage.yml",
 		"oF": 0
 		},
 	"/site/blueprints/pages/blog.yml": {
@@ -8352,14 +8352,6 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1608409650.7d8e515b94f5ceb7cd07.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1608409650.7d8e515b94f5ceb7cd07.sess",
-		"oF": 0
-		},
 	"/site/sessions/1608413254.1645eb0f9e7d2f0f16fc.sess": {
 		"cB": 0,
 		"ft": 8192,
@@ -8382,6 +8374,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1608417444.bffce54997ad2e42dc21.sess",
+		"oF": 0
+		},
+	"/site/sessions/1608417744.2a904efb4751314c2a83.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1608417744.2a904efb4751314c2a83.sess",
+		"oF": 0
+		},
+	"/site/sessions/1608417744.fd5546781a9fda8693e7.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1608417744.fd5546781a9fda8693e7.sess",
 		"oF": 0
 		},
 	"/site/sessions/1609425115.5642fe3ac30f771d5b0b.sess": {
@@ -8480,12 +8488,12 @@
 		"oAP": "/site/snippets/menu.php",
 		"oF": 0
 		},
-	"/site/templates/basic-page.php": {
+	"/site/templates/basicpage.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/templates/basic-page.php",
+		"oAP": "/site/templates/basicpage.php",
 		"oF": 0
 		},
 	"/site/templates/blog.php": {
