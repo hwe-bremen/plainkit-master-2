@@ -1,16 +1,11 @@
-title: Portfolio
+title: blog
 preset: page
-options:
-  changeTemplate:
-    - blog
-    - portfolio
-    - basic-page
 
 fields:
   Headline:
     type: text
-  Text:
-    type: text
+  Introtext:
+    type: textarea
   Textarea:
     type: textarea
   cover:
@@ -18,4 +13,3 @@ fields:
     headline: Cover
     layout: cards
     template: image
-  
