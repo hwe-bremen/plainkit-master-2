@@ -4,7 +4,7 @@
             <?php snippet('header_unterseiten') ?>
 
 
-<section id="basic-page" >
+<section id="basic-page">
 
   <article class="grid-blog">
   <p class="datum"><?= $page->published()->toDate('d.m.Y') ?></p>

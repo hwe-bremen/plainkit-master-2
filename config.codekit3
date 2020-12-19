@@ -411,12 +411,12 @@
 		"oAP": "/content/2_portfolio/portfolio.txt",
 		"oF": 0
 		},
-	"/content/3_referenzen/1_zmt/portfolio.txt": {
+	"/content/3_referenzen/1_zmt/basic-page.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/3_referenzen/1_zmt/portfolio.txt",
+		"oAP": "/content/3_referenzen/1_zmt/basic-page.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/1_zmt/web_zmt.jpg": {
@@ -8030,6 +8030,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/46aea327f4-1608397774/web_zmt.jpg": {
+		"ft": 16384,
+		"iS": 261683,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/46aea327f4-1608397774/web_zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/d05e3e850f-1608397774/.jobs/web-zmt-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8353,6 +8366,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1608413254.1645eb0f9e7d2f0f16fc.sess",
+		"oF": 0
+		},
+	"/site/sessions/1608417144.105a5d281a0b1a7a2945.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1608417144.105a5d281a0b1a7a2945.sess",
+		"oF": 0
+		},
+	"/site/sessions/1608417444.bffce54997ad2e42dc21.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1608417444.bffce54997ad2e42dc21.sess",
 		"oF": 0
 		},
 	"/site/sessions/1609425115.5642fe3ac30f771d5b0b.sess": {

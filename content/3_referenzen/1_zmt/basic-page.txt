@@ -6,7 +6,7 @@ Headline: ZMT
 
 ----
 
-Text: Beispieltext ZMT
+Introtext: Einstiegstext zum ZMT
 
 ----
 
@@ -17,3 +17,7 @@ Textarea: Noch mehr Text ZMT
 Cover:
 
 - web_zmt.jpg
+
+----
+
+Text: Beispieltext ZMT
