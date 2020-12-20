@@ -6,7 +6,7 @@ Headline: Freiwerk
 
 ----
 
-Text: Blindtext zu Freiwerk
+Introtext: Blindtext zu Freiwerk
 
 ----
 
@@ -17,3 +17,7 @@ Textarea: Freiwerk steht hier mit ner Menge Blindtext
 Cover:
 
 - logogestaltung.jpg
+
+----
+
+Text: Blindtext zu Freiwerk

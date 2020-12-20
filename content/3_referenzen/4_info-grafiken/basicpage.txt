@@ -6,7 +6,7 @@ Headline: Info-Grafiken
 
 ----
 
-Text: Text zu Info Grafiken
+Introtext: Noch mehr Text zu Infografiken
 
 ----
 
@@ -17,3 +17,7 @@ Textarea: Noch mehr Text zu Infografiken
 Cover:
 
 - k2b_6806_blockgrafik_geo.jpg
+
+----
+
+Text: Text zu Info Grafiken

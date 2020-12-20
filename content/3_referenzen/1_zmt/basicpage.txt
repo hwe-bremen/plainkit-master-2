@@ -2,12 +2,18 @@ Title: ZMT
 
 ----
 
-Introtext: 
+Headline: Vom Corporate-Design bis zur Website
 
 ----
 
-Textarea: 
+Introtext: Hier steht ein Introtext zum ZMT
 
 ----
 
-Cover: 
+Textarea: Hier steht ganz viel mehr Text
+
+----
+
+Cover:
+
+- web_zmt.jpg

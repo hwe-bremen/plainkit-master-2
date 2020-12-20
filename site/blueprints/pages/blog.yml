@@ -1,5 +1,10 @@
 title: blog
 preset: page
+options:
+  changeTemplate:
+    - blog
+    - portfolio
+    - basicpage
 
 fields:
   Headline:

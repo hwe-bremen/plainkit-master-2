@@ -1,5 +1,12 @@
 title: Default Page
 preset: page
+options:
+  changeTemplate:
+    - blog
+    - portfolio
+    - basicpage
+
+    
 fields:
   text:
     label: Text

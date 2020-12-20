@@ -6,7 +6,7 @@ Headline: Bremer Box
 
 ----
 
-Text: Blindtext zur Bremer Box
+Introtext: Blindtext zur Bremer Box
 
 ----
 
@@ -17,3 +17,7 @@ Textarea: Noch mehr Text zur Bremer Box steht hier.
 Cover:
 
 - e1_bremer_box_composing2.jpg
+
+----
+
+Text: Blindtext zur Bremer Box

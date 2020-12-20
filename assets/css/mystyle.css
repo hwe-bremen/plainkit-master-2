@@ -88,7 +88,7 @@ img {
      position: sticky;
      top: 0;
      z-index: 50;
-     box-shadow: 0 0px 1px gray;
+     box-shadow: 0 1px 0 gray;
  }
  .logo_image {
      overflow: hidden;

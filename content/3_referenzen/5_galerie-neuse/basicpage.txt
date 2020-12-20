@@ -6,7 +6,7 @@ Headline: Galerie Neuse
 
 ----
 
-Text: Blindtext zu Galerie Neuse
+Introtext: CVorporate Design Galerie Neuse
 
 ----
 
@@ -17,3 +17,7 @@ Textarea: Noch mehr Blindtext
 Cover:
 
 - neuse-cd-briefpapier.jpg
+
+----
+
+Text: Blindtext zu Galerie Neuse
