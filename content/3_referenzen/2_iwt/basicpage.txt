@@ -1,0 +1,23 @@
+Title: :Referenzen
+
+----
+
+Headline: IWT mit neuer Hompage
+
+----
+
+Introtext: Noch mehr Text steht hier
+
+----
+
+Textarea: Noch mehr Text steht hier
+
+----
+
+Cover:
+
+- kleine-bilder-iwt.jpg
+
+----
+
+Text: Beispieltext IWT
