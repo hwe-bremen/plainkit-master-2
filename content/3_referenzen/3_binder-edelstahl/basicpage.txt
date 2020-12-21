@@ -2,15 +2,19 @@ Title: Binder Edelstahl
 
 ----
 
+Tags: Webentwicklung, Printdesign
+
+----
+
 Headline: Binder Edelstahl
 
 ----
 
-Introtext: Intro Binder Edelstahl
+Introtext: Mailings die der Kunde nicht übersieht. In einem anspruchsvollen Nischenmarkt gehört Binder Edelstahl zu den High-Level-Playern. Ein Markt, in dem trotz des Internetbusiness noch immer der persönliche Kontakt ein entscheidender Erfolgsfaktor bleibt. Aufwendig gestaltete und umgesetzte Mailings mit wiedererkennbarer Anmutung und einer besonders humorvollen Note garantieren nun schon seit Jahren eine gleichbleibend hohe Aufmerksamkeit für das Unternehmen.
 
 ----
 
-Textarea: Noch mehr Text zum Thema
+Textarea: In diesem High-End Bereich ist das einzelne Produkt der Hauptträger der Werbebotschaft. So wurde in der Gestaltung der Schwerpunkt auf die Darstellung der Produkte gelegt. Die Imagebroschüre sollte als großzügige Plattform für besondere Bauteile gestaltet werden. Teilfreisteller mit jeweils einer Person vermitteln eine Größe von der jeweiligen Schweißkonstruktion. Die halbseitig sichtbare Hallenansicht in der Seitengestaltung gibt eine Vorstellung von den Ausmaßen der Fertigungshalle. Dieses visuelle Gestaltungskonzept wurde auf alle Werbeprodukte übertragen. Inbesondere im Messebereich als auch in der Internetpräsenz.
 
 ----
 

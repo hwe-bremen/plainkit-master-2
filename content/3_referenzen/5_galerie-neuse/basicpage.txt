@@ -2,15 +2,19 @@ Title: Galerie Neuse
 
 ----
 
+Tags: Corporate Design, Webentwicklung
+
+----
+
 Headline: Galerie Neuse
 
 ----
 
-Introtext: CVorporate Design Galerie Neuse
+Introtext: Mit der neuen Website für die Galerie Neuse werden die Kunstobjekte auf jedem Endgerät großzügig präsentiert. Klare, zurückgenommene Gestaltung mit Fokus auf große Bilddarstellung sowie eindeutige Bedienbarkeit unterstützen die optimale Inszenierung der Objekte.
 
 ----
 
-Textarea: Noch mehr Blindtext
+Textarea: Ein Refresh des Corporate Designs für die Geschäftsaustattung unterstreicht die Exklusivität der Objekte. Die kunstvoll von innen bedruckten Briefumschläge und rückseitig bedruckten Briefbögen sind zugleich schlicht und edel.<br>Bei der gestalterischen Lösung wurde bei dem Logo angesetzt und eine klare, plakative Bildmarke entwickelt, die sich von der serifenbetonten ursprünglichen Schrift verabschiedete. Eine klare serifenlose Schrift in Verbindung mit einem kräftigen, poppigem Farbton vermittelt einen frischen, zeitgemäßen Auftritt vor den Hintergrund traditionsreicher Kunstobjekte.<br>Der klare und reduzierte Auftritt wurde so ins Internet übertragen und stellt einen umfangreichen Katalog der zu erwerbender Kunstobjekte vor. Die Website kann über das CMS Joomla! von den Galerieangestellten eigenständig gepflegt werden.
 
 ----
 
