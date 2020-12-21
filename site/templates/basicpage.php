@@ -12,7 +12,7 @@
         <?= $page->image()->crop(800, 600) ?>
         <h3><?= $page->introtext()->html() ?> </h3>
      
-       <?= $page->textarea()->kirbytext() ?>
+       <p><?= $page->textarea()->kirbytext() ?></p>
 
     </article> 
 </section> 

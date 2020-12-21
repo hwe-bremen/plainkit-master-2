@@ -2,15 +2,23 @@ Title: :Referenzen
 
 ----
 
+Tags: Corporate Design, Webentwicklung, Workshop
+
+----
+
 Headline: IWT mit neuer Hompage
 
 ----
 
-Introtext: Noch mehr Text steht hier
+Introtext: Ein erfolgreiches Produkt wird nicht nur über seine Qualität definiert. Öffentliche Institutionen, Non-Profit-Organisationen sowie Kultur- und Wissenschaftseinrichtungen stehen in einem Wettbewerb um die öffentliche Aufmerksamkeit und somit auch ganz direkt um Fördergelder, um finanzelle Zuwendungen und um fähige MitarbeiterInnen. In diesem Umfeld bewegt sich auch das IWT. Die Aufnahme in die Leibniz-Gemeinschaft stößt dabei einen grundlegenden Change-Prozess an. Ein Ergebnis dieses Prozesses soll auch eine größere Wirksamkeit bzw. Sichtbarkeit im Bereich der öffentlichen Wahrnehmung sein. Der Relaunch des Corporate Designs war daher ein fester Bestandteil dieses Prozesses.
 
 ----
 
-Textarea: Noch mehr Text steht hier
+Textarea:
+
+Das bisherige Logo visualisierte die drei Hauptfachabteilungen (Fertigungstechnik, Verfahrenstechnik und Werkstofftechnik) gleichgewichtig nebeneinander – drei Würfel, die sich berühren, aber keinen Austausch haben und klar abgegrenzt für sich stehen. Die Farbgebung und Form erinnerten an das in den 70er Jahren von Ernö Rubik entwickelte, bekannte Puzzlespiel »Zauberwürfel «. Bei der Lösungsfindung wurde ein Ansatz favorisiert, der das vorhandene Logo aufgriff und weiterentwickelte zu einer stärkeren Aussage in Richtung einer interdisziplinären Forschungsausrichtung.<br>Nach einem vorausgehenden gemeinsamen Workshop und einer intensiven Auseinandersetzung mit dem IWT entstand 2019 ein einheitliches visuelles Erscheinungsbild, das die drei Würfel zu einem interdisziplinären, vernetzten und innovativen Ganzen verschmelzen und sichtbar werden ließ. Während des gesamten Prozesses wurden die Grundlagen für eine visuelle Klammer des IWT gemeinsam entwickelt. Neben der Überarbeitung von Logo, Farben und Typografie (inklusive Leitfaden und Gestaltungshilfen für alle Anwenderinnen und Anwender) wurde die Geschäftsausstattung (Visitenkarten, Briefbogen), diverse Kommunikationsmittel (Flyer, Broschüren, wissenschaftliche Plakate, Jahresbericht, PowerPoint-Templates, Messegestaltung, Werbemittel, Screendesign) der gesamte Internet-Auftritt sowie die Außenbeschilderung überarbeitet und modernisiert.
+
+Weitere Informationen finden Sie auch unter: https://ideen-bewegen.du-projekt.de/
 
 ----
 

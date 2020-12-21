@@ -39,7 +39,7 @@ article img {
 
 }
 
-article p {
+#basic-page article p {
   position: relative;
   grid-row: 4;
   grid-column: 1 / span 6;

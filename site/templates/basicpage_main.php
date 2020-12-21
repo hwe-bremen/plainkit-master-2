@@ -17,8 +17,8 @@
 <article>
 <?php if ($cover = $referenzen->cover()): ?><?= $cover->resize(400) ?>
   <?php endif ?>
-
-  <p><?= $referenzen->introtext()->html()->excerpt(250) ?></p>
+  <p><?= $referenzen->headline()->html() ?></p>
+  <p class="card_text--groesse"><?= $referenzen->introtext()->html()->excerpt(250) ?></p>
   <button class="button_standard"> <a class="button_standard--link" href="<?= $referenzen->url() ?>"> mehr </a> </button>
     
 
