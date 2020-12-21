@@ -1,0 +1,21 @@
+Title: Referenzen
+
+----
+
+Headline: Referenzen Übersicht
+
+----
+
+Introtext: so dies und das
+
+----
+
+Text: 
+
+----
+
+Textarea: 
+
+----
+
+Cover: 

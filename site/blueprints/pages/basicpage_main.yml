@@ -1,4 +1,4 @@
-title: Default Page
+title: basicpage_main
 preset: page
 options:
   changeTemplate:
@@ -7,10 +7,8 @@ options:
     - basicpage
     - basicpage_main
 
-    
 fields:
-  text:
-    label: Text
+  Headline:
+    type: text
+  Introtext:
     type: textarea
-    size: large
-

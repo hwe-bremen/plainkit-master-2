@@ -2,15 +2,29 @@ Title: ZMT
 
 ----
 
+Tags: Corporate Design, Workshop, Webentwicklung
+
+----
+
 Headline: Vom Corporate-Design bis zur Website
 
 ----
 
-Introtext: Hier steht ein Introtext zum ZMT
+Introtext: Wissenschaftliche Institute müssen sich einem starken Wettbewerb um Projektgelder und Forschungsaufträgen stellen. Um so stärker trat in den letzten Jahren die Kommunikation zu allen Stakeholdern in den Fokus der Öffentlichkeitsarbeit. Ein professioneller Kommunikationsauftritt gehört heute selbstverständlich zur Grundausstattung. Wie Unternehmen aus der Wirtschaft sind sie gefordert ihre Corporate Identity durch einen starken visuellen Auftritt nach außen zu tragen.
 
 ----
 
-Textarea: Hier steht ganz viel mehr Text
+Textarea:
+
+Das Leibniz Institut für Marine und Tropenforschung (ZMT) entschied sich daher 2015 zu einem Redesign seines über 20 Jahre alten Logos. Zeitgleich wurde dies mit der Entwicklung und Umsetzung eines Corporate Designs für das Institut verbunden. Damit zusammenhängend musste der in die Jahre gekommene Internetauftritt neu gestaltet und technologisch auf dem neuesten Stand gebracht werden. du projekt initiierte zu Beginn des Prozesses einen gemeinsamen Workshop mit dem CD-Leitungsteam des ZMT.
+
+Kreativitätstechniken und Gruppenarbeit standen im Mittelpunkt des Workshops. Mit deren Hilfe konnte der Blick auf die Fokus-Zielgruppen geschärft und durch Visualisierungen (Collagen) ein Einstieg in die Erarbeitung von Wunsch-Positionierungen gefunden werden. Eine so entstandene ZMT-Tag-Cloud zeigte die ersten Wege für die Profilierung des zukünftigen Corporate-Designs.
+
+Der Designprozess war Teil eines Change-Prozesses der zum Ziel hatte das Institut an die neuen Herausforderungen aktiv heranzuführen. Dieser Prozess wurde extern von dem Coach und Unternehmensberater Marcel Bernard (www.do-what-you-say.de) begleitet. Zusammen mit ihm konnten wir während des Entwicklungsprozesses das CD-Leitungsteam davon überzeugen, dass das bisherige Logo nicht mehr deckungsgleich mit dem im Workshop erarbeiteten Profil war. So wurde gemeinsam die Entscheidung getroffen, den Weg eines einfachen Re-Designs zu verlassen und in die komplette Neuausrichtung der Institutsdarstellung einzusteigen.
+
+Während des über zwei Jahre laufenden Prozesses wurden alle Kommunikationsmittel von Word- und Powerpoint-Templats, InDesign-Vorlagen, Merchandisingartikel, Broschüren sowie das Screendesign bis hin zur Beschilderung überarbeitet und finalisiert.
+
+Weitere Informationen finden Sie auch unter: https://ideen-bewegen.du-projekt.de/
 
 ----
 

@@ -13,7 +13,7 @@
         <h3><?= $page->introtext()->html() ?> </h3>
      
        <?= $page->textarea()->kirbytext() ?>
-      <a href="<?= url('blog') ?>">Back…</a>
+
     </article> 
 </section> 
 

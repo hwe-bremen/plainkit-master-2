@@ -12,6 +12,7 @@
   <?= css('assets/css/header_unterseiten.css') ?>
   <?= css('assets/css/blog.css') ?>
   <?= css('assets/css/basicpage.css') ?>
+  <?= css('assets/css/basicpage_main.css') ?>
   <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">
 
 </head>
