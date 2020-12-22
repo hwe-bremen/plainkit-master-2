@@ -2,11 +2,11 @@ Title: Referenzen
 
 ----
 
-Headline: Referenzen Übersicht
+Headline: Von der Konzeption zum Design bis zur Webentwicklung
 
 ----
 
-Introtext: so dies und das
+Introtext: Unsere Kunden suchen nach ästhetischen Lösungen, aber nicht um den Preis der Eindeutigkeit und Zugänglichkeit. Design soll also etwas bewirken – aber dazu bedarf es auch den Zauber visueller Kraft.
 
 ----
 

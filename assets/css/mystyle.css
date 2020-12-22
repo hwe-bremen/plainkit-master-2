@@ -55,11 +55,10 @@ p.card_text--groesse {
   padding: 0 1.5em;
   line-height: 2em;
   font-size: 1rem;
-  background-color: white;
-  border: solid 1px black;
-  border-style: solid;
+  background-color: var(--corporate_color);
+  border: solid 1px var(--corporate_color);
   border-radius: 0.2em;
-  box-shadow: 3px 3px 5px black;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.644);
   transform: scale(1, 1) translate(0px, 0px);
   transition: transform 0.5s ease-in-out;
 }
@@ -71,7 +70,7 @@ p.card_text--groesse {
 }
 .button_standard--link {
   text-decoration: none;
-  color: black;
+  color: white;
 }
 img {
   object-fit: cover;
@@ -225,19 +224,31 @@ nav li:last-child a {
 
 .grid-0 {
   display: grid;
-  grid-template-columns: 1fr 1fr 40%;
+  grid-template-columns: repeat(12, minmax(50px, 1fr));
 }
 #inhalt {
-  margin-top: 60%;
+  margin-top: 65%;
   margin-bottom: 15%;
   background-color: white;
   z-index: 5;
 }
 .grid-inhalt {
-  grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column: 1 / span 8;
 }
-h2::before {
+
+.zierbalken-gruen {
+  display: inline-block;
+  background-color: var( --corporate_color);
+  height: calc(3px + (100vw - 99.6vw));
+  width: calc(80px + (100vw - 95vw));
+}
+
+.hero_head {
+  margin-top: 4%;
+  margin-bottom: 5%;
+}
+
+/*h2::before {
   margin: -0.3em 0 0 0;
   content: '';
   position: absolute;
@@ -252,10 +263,9 @@ h2::after {
   background-color: var( --corporate_color);
   height: calc(3px + (100vh - 99.2vh));
   width: calc(80px + (100vw - 95vw));
-}
+}*/
 h3.grid-inhalt {
-  grid-column-start: 1;
-  grid-column-end: 3;
+  grid-column: 1 / span 8;
   margin-bottom: 6rem;
   text-decoration: underline var( --corporate_color);
   -webkit-text-decoration: underline var( --corporate_color);
@@ -359,7 +369,7 @@ opacity: 0.95;
 }
 
 .section_container--home {
-  grid-column: 1 / span 2;
+  grid-column: 1 / span 8;
   display: flex;
   flex-flow: row;
   align-items: center;

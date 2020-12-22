@@ -23,6 +23,7 @@ fields:
       - Barrierefreiheit
       - Printdesign
       - Infografiken
+      - Fotografie
   Headline:
     type: text
     width: 2/3

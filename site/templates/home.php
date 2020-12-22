@@ -9,7 +9,14 @@
 
 <section id="inhalt">
     <div class="grid-0">
-          <h2 class="grid-inhalt"><?= $page->headline()->html() ?></h2>
+
+        <div class="grid-inhalt">
+                <span class="zierbalken-gruen"></span>
+                        <h2 class="hero_head"><?= $page->headline()->html() ?></h2>
+                <span class="zierbalken-gruen"></span>
+        </div>
+
+
           <h3 class="grid-inhalt"><?= $page->introtext()->html() ?> </h3>      
     </div>  
 

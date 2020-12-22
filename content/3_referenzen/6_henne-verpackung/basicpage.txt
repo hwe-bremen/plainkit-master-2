@@ -2,15 +2,19 @@ Title: Henne Verpackung
 
 ----
 
+Tags: Corporate Design, Webentwicklung, Printdesign
+
+----
+
 Headline: Henne Verpackung
 
 ----
 
-Introtext: Bodytext zu Henne Verpackung
+Introtext: Im vielfältigen Markt des Verpackungsgeschäftes bewegt sich das Unternehmen Henne Verpackung. Versandverpackungen, Flaschenversandkartonagen und Geschenkverpackung sind das Haupttätigkeitsfeld. Der Kontrast zwischen der sinnlichen Präsentverpackung und dem nüchternen Versandkarton erfordert immer wieder einen Spagat in der Kommunikation.
 
 ----
 
-Textarea: Noch mehr Text der hier unnütz herumsteht
+Textarea: Hier die farbigen und edlen Oberflächen und dort der pragmatische Bereich der Versandkartons. Dennoch sollte ein einheitliches Erscheinungsbild gefunden werden, innerhalb dessen sich beide Welten fassen lassen. Zudem sollte über Farbigkeit und Piktogramme eine Differenzierung und Zuordnung erfolgen können. Im Weiteren wurden diverse Kataloge und Printmedien entwickelt.<br>Die Freude am Schenken immer neu zu interpretieren bleibt bei Henne Verpackung die große Kommunikationsaufgabe. Umfangreiche Kataloge sind ein wesentliches Verkaufsinstrument. Insbesondere im Bereich der bunten Welt kommt es darauf an, über ansprechende Produktdarstellungen Farbigkeit, Oberflächenmaterialität und spezielle Druckveredelungen sichtbar werden zu lassen.<br>Die mit diesem Geschäft verbundene Emotionalität lässt sich pointiert nur mit Stillleben wiedergeben, die mit Lichtstimmung und Perspektive den Blick fesseln können. Eine anschließende Lithobearbeitung, die eine korrekte Druckwiedergabe der Farben ermöglicht, bleibt dabei unverzichtbar.<br>du-projekt verantwortet vom Layout bis zum Satz auch die gesamte Fotoproduktion und Nachbearbeitung. Eine termingerechte Druckproduktion mit anschließendem Versand gehört dabei selbstverständlich auch zum Aufgabengebiet. Zudem müssen alle Bilddaten in den E-Commerce-Shop eingepflegt werden.<br>Die Pflege und Einrichtung des Internetauftritts schließt Auswertungen über Google-Analytics ein. Optimierungsmaßnahmen hinsichtlich des Suchmaschinenrankings werden OnePage laufend durchgeführt.
 
 ----
 
