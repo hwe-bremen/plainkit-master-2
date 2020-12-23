@@ -1,4 +1,4 @@
-Title: Packaging
+Title: Printdesign
 
 ----
 
@@ -18,9 +18,7 @@ Textarea: (link: https://www.bod.de/buchshop/of-irises-and-laser-cutters-karsten
 
 ----
 
-Cover:
-
-- dasbuch.jpg
+Cover: - dasbuch.jpg
 
 ----
 

@@ -1,14 +1,19 @@
 <body>
 
-            <?php snippet('menu') ?>
-            <?php snippet('header_unterseiten') ?>
+                <?php snippet('menu') ?>
+                <?php snippet('header_unterseiten') ?>
+                <?php
 
-            <?php 
-                $referenzen = $page
-                        ->children()
-                        ->listed()
-     
-          ?> 
+                $filterBy = get('filter');
+                $unfiltered = $page->children()->listed();
+                $referenzen = $unfiltered
+                        ->when($filterBy, function($filterBy) {
+                          return $this->filterBy('tags', $filterBy);
+                        }); 
+                  
+                        $filters = $unfiltered->pluck('tags', null, true);                        
+                       
+                ?> 
 
 
 <section id="basic-page-main" class="grid-0">
@@ -19,16 +24,19 @@
                 <span class="zierbalken-gruen"></span>
         </div>
         <h3 class="grid-inhalt"><?= $page->introtext()->html() ?></h3>
-
-
        
-        
 </section> 
 
+
+<nav class="nav_filter">
+        <a href="<?= $page->url() ?>">All</a>
+        <?php foreach ($filters as $filter): ?>
+        <a href="<?= $page->url() ?>?filter=<?= $filter ?>"><?= $filter ?></a>
+        <?php endforeach ?>
+</nav>
+
+
 <section id="card_liste">
-      
-
-
                         <?php foreach ($referenzen as $referenzen): ?>
 <article>
 
@@ -36,6 +44,7 @@
          <?php endif ?>
             <p><?= $referenzen->headline()->html() ?></p>
                <p class="card_text--groesse"><?= $referenzen->introtext()->html()->excerpt(250) ?></p>
+               <small><?= $referenzen->tags()->html() ?></small>
                 
   <button class="button_standard"> <a class="button_standard--link" href="<?= $referenzen->url() ?>"> mehr </a> </button>
     

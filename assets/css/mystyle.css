@@ -7,6 +7,7 @@
   --paragraph_zwei_zeile: calc(1.2rem + (20 - 17) * (100vw - 400px) / (800 - 400));
   --paragraph: calc(0.8rem + (16 - 14) * (100vw - 400px) / (800 - 400));
   --paragraph_zeile: calc(1rem + (19 - 16) * (100vw - 400px) / (800 - 400));
+  --paragraph_zeile_filter: calc(1.5rem + (28 - 24) * (100vw - 400px) / (800 - 400));
   --corporate_color: rgba(80, 155, 80, 1);
 }
 body {
@@ -182,42 +183,6 @@ nav li:last-child a {
      line-height: 3vh;
      text-shadow: 2px 2px 3px rgba(99, 158, 5, 0.911);
  }
-/* HEADERBEREICH PORTFOLIO___________________________________________*/
-
-#header_bereich_portfolio {
-  z-index: -20;
-  width: 98vw;
-  position: relative;
-  margin: 0 auto;
-}
-#divbild_portfolio {
-  padding: 1em;
-  margin: 0 auto;
-  position: absolute;
-
-}
-.headerbild_portfolio {
-  margin: 0 auto;
-  width: 100% !important;
-  height: auto !important;
-}
-#head_line_portfolio {
-  width: 100vW;
-  height: 2000px;
-  position: absolute;
-  background-image: linear-gradient(90deg, white 50%, transparent 0%),
-    linear-gradient(white 0%, transparent 0%);
-  background-size: 2vw 1vw;
-  color: black;
-  mix-blend-mode: screen;
-  box-shadow: 0.2rem;
-}
-#head_header_portfolio {
-  padding-top: 15%;
-  font-size: 5rem;
-  text-align: center;
-}
-
 
 /* Home INHALT ___________________________________________*/
 

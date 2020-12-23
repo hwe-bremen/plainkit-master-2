@@ -1,19 +1,31 @@
 #basic-page-main {
     margin-top: 34%;
-    margin-bottom: 10%;
+    margin-bottom: 5%;
 }
   
-.tags {
-  grid-column: 1 / span 8;
-}
-
-
 /* BEREICH CARDS ___________________________________________*/
 
+.nav_filter {
+  display: flex;
+  flex-flow: row wrap;
+  justify-items: flex-start;
+  margin-bottom: 1rem;
+  
+}
+.nav_filter a {
+  background-color: black;
+  color: white;
+  font-size: var(--paragraph);
+  line-height: var(--paragraph_zeile_filter);
+  padding: 0 1rem;
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  text-decoration: none;
+}
 
 #card_liste {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-column-gap: 3%;
     column-gap: 3%;
     row-gap: 5%;
@@ -23,6 +35,7 @@
 #card_liste article {
     display: flex;
     flex-flow: wrap;
+    max-width: 600px;
     padding-bottom: 3%;
    /* padding-top: 3%;
     border-top: 0.2rem solid var(--corporate_color);*/
@@ -45,28 +58,21 @@
     margin: 1.5rem 0 0 0;
 }
 
+#card_liste article small:nth-child(4) {
+  align-self: flex-start;
+  font-size: 1rem;
+  color: var(--corporate_color);
+  margin: 1.5rem 0 0 0;
+  width: 100%;
+}
 
-#card_liste article .button_standard:nth-child(4) {
+
+#card_liste article .button_standard:last-child  {
   margin: 1.5rem 0 0 0;
 }
 
 /* Media Screens ___________________________________________*/
 
-
-
-@media screen and (max-width: 1250px) {
-
-  /* Zusätzliche Regeln für kleinere Monitore  */
-
-  #card_liste {
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    grid-row-gap: 2%;
-    row-gap: 2%;
-
-}
-
-
-}
 
 
 @media screen and (max-width: 780px) {
