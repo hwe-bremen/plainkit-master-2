@@ -8,12 +8,15 @@
   <meta name="description" content="p2">
   <meta name="author" content="SitePoint">
 
-  <?= css('assets/css/mystyle.css') ?>
-  <?= css('assets/css/header_unterseiten.css') ?>
-  <?= css('assets/css/blog.css') ?>
-  <?= css('assets/css/basicpage.css') ?>
-  <?= css('assets/css/basicpage_main.css') ?>
-  <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">
+<?= css([
+        'assets/css/mystyle-min.css',
+        'assets/css/header_unterseiten-min.css', 
+        'assets/css/blog-min.css', 
+        'assets/css/basicpage_main-min.css',
+        'assets/css/basicpage-min.css',   
+ ])  ?>
+
+<link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">
 
 </head>
 <body>

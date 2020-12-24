@@ -28,25 +28,51 @@ article h2 {
 
 article img {
   grid-row: 3;
-  grid-column: 7 / span 6;
+  grid-column: 9 / span 4;
 }
 
 .grid-blog h3 {
   text-decoration: underline var(--corporate_color);
   -webkit-text-decoration: underline var(--corporate_color);
   grid-row: 3;
-  grid-column: 1 / span 5;
+  grid-column: 1 / span 7 ;
 
 }
 
 #basic-page article p {
   position: relative;
   grid-row: 4;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 7;
   align-self: start;
   margin-bottom: 5rem;
   margin-inline-end: 2rem;
 }
+
+ul {
+  display: contents;
+}
+
+#basic-page article ul li {
+  position: relative;
+  grid-row: 5;
+  grid-column: 1 / span 6;
+  width: 100%;
+  height: auto;
+  list-style: none;
+}
+
+#basic-page article ul li img{
+ height: none;
+}
+
+#basic-page article ul li:nth-child(3) {
+  position: relative;
+  grid-row: 5;
+  grid-column: 7 / span 6;
+  width: 100%;
+  height: auto;
+}
+
 
 article a {
   color: var(--corporate_color);

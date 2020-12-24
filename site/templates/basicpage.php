@@ -16,7 +16,16 @@
         <?= $page->image()->crop(800, 600) ?>
         <h3><?= $page->introtext()->html() ?> </h3>
      
-       <p><?= $page->textarea()->kirbytext() ?></p>
+       <p><?= $page->haupttext()->kirbytext() ?></p>
+     
+       <ul>
+       <?php foreach ($page->images() as $file): ?> 
+        <li>
+        <img class="gallery" src="<?= $file->url()?>" alt=""> 
+       </li>  
+       <?php endforeach ?>  
+       </ul>
+       <p><?= $page->abschluss()->kirbytext() ?></p>
 
     </article> 
 </section> 

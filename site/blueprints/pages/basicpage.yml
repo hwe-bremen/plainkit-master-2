@@ -30,10 +30,22 @@ fields:
     width: 2/3
   Introtext:
     type: textarea
-  Textarea:
-    type: textarea
   cover:
     type: files 
     headline: Cover
     layout: cards
     template: image
+    image:
+        cover: true 
+  Haupttext:
+    type: textarea
+    label: Haupttext
+  gallery:
+    type: files
+    layout: cards
+    template: image 
+      image:
+        cover: true 
+  Abschluss:
+    type: textarea
+    label: Abschluss

@@ -198,7 +198,7 @@ nav li:last-child a {
   z-index: 5;
 }
 .grid-inhalt {
-  grid-column: 1 / span 8;
+  grid-column: 1 / span 7;
 }
 
 .zierbalken-gruen {
