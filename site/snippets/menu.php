@@ -13,13 +13,20 @@
         'assets/css/header_unterseiten-min.css', 
         'assets/css/blog-min.css', 
         'assets/css/basicpage_main-min.css',
-        'assets/css/basicpage-min.css',   
- ])  ?>
+        'assets/css/basicpage-min.css', 
+        'assets/css/slick-min.css',   
+ ])  ?> 
 
 <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">
 
+
+
+
 </head>
 <body>
+
+
+
 <nav class="menu">
     <a class="logo" href="<?= $site->url() ?>"><image class="logo_image" src="<?= $site->image()->url() ?>"></a>
     <input type="checkbox" id="hamburger-menu">

@@ -10,17 +10,33 @@ Headline: Info-Grafiken
 
 ----
 
-Introtext: Infografiken helfen dabei, vielschichtige Informationen attraktiv zu präsentieren. Sei es bei Evaluierungen, Projektanträgen oder Präsentationen – immer wieder geht es darum, komplexe Informationen so zu präsentieren, dass sie den Betrachter beim Verständnis unterstützen. Hier bieten Infografiken ein breites Spektrum an Möglichkeiten – von der illustrativ aufwendigen Ausarbeitung bis zur stark reduzierten grafischen Umsetzung.
-
-----
-
-Textarea: Besonders hervorzuheben sind natürlich auch die vielfältigen Möglichkeiten, Infografiken dem firmeneigenen Corporate-Design anzupassen. Insbesondere mittels den Standardmöglichkeiten der gängigen Office Programme erstellte Grafiken wirken in der Regel austauschbar oder grafisch unprofessionell. Aber auch uneinheitliche Farbgebung und nur eingeschränkt vorhandene typografische Mittel und Kenntnisse schmälern den möglichen Nutzen einer Grafik, die gut umgesetzt einen wesentlich höheren Mehrwert erreichen kann.<br>Von der Konzeption bis zur Auswahl eines passenden illustrativen Stils bieten wir Ihnen das gesamte notwendige Know-How für die Umsetzung. Wir achten auf eine klare Bildsprache und eine einheitliche Form. So fällt es leichter Zusammenhänge und Ergebnisse klar zu erfassen. Für die weitere Verwendung exportieren wir die Grafiken in übliche Formate, so dass diese problemlos in Präsentationen, im Web oder auch in Printprojekten, wie Folder oder Plakaten eingepflegt werden können. Die Verwendung von einheitlichen Grafiken und von Vorlagen für alle gängigen Grafik- und Officeprogramme, führt zu einem stimmigen Gesamtbild der visuellen Kommunikation.
+Introtext: Infografiken helfen dabei, vielschichtige Informationen attraktiv zu präsentieren.
 
 ----
 
 Cover:
 
 - k2b_6806_blockgrafik_geo.jpg
+
+----
+
+Haupttext: **Sei es bei Evaluierungen, Projektanträgen oder Präsentationen** – immer wieder geht es darum, komplexe Informationen so zu präsentieren, dass sie den Betrachter beim Verständnis unterstützen. Hier bieten Infografiken ein breites Spektrum an Möglichkeiten – von der illustrativ aufwendigen Ausarbeitung bis zur stark reduzierten grafischen Umsetzung.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Textarea: Besonders hervorzuheben sind natürlich auch die vielfältigen Möglichkeiten, Infografiken dem firmeneigenen Corporate-Design anzupassen. Insbesondere mittels den Standardmöglichkeiten der gängigen Office Programme erstellte Grafiken wirken in der Regel austauschbar oder grafisch unprofessionell. Aber auch uneinheitliche Farbgebung und nur eingeschränkt vorhandene typografische Mittel und Kenntnisse schmälern den möglichen Nutzen einer Grafik, die gut umgesetzt einen wesentlich höheren Mehrwert erreichen kann.<br>Von der Konzeption bis zur Auswahl eines passenden illustrativen Stils bieten wir Ihnen das gesamte notwendige Know-How für die Umsetzung. Wir achten auf eine klare Bildsprache und eine einheitliche Form. So fällt es leichter Zusammenhänge und Ergebnisse klar zu erfassen. Für die weitere Verwendung exportieren wir die Grafiken in übliche Formate, so dass diese problemlos in Präsentationen, im Web oder auch in Printprojekten, wie Folder oder Plakaten eingepflegt werden können. Die Verwendung von einheitlichen Grafiken und von Vorlagen für alle gängigen Grafik- und Officeprogramme, führt zu einem stimmigen Gesamtbild der visuellen Kommunikation.
 
 ----
 

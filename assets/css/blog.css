@@ -48,14 +48,14 @@ article img {
   margin-inline-end: 2rem;
 }
 
-article a {
+/*article a {
   color: var(--corporate_color);
   font-size: 1.5rem;
   text-decoration: none;
   align-self: end;
   grid-row: 4;
   grid-column: 1 / 1;
-}
+}*/
 
 #blog h2::after {
   margin: 1.5em 0 0 -6.65em;
