@@ -70,13 +70,19 @@
 <?= js('assets/js/siema.min.js') ?>
 
 
-<script>
 
-              const mySiema = new Siema({
-                selector: '.siema',
+
+
+<script>
+const mySiema = new Siema({
+      selector: '.siema',
+	  
   duration: 200,
   easing: 'ease-out',
-  perPage: 2,
+  perPage: {
+	  250: 1,
+	  750: 2,
+  },
   startIndex: 0,
   draggable: true,
   multipleDrag: true,
