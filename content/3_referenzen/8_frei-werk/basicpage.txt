@@ -10,17 +10,33 @@ Headline: Freiwerk
 
 ----
 
-Introtext: Zwei Gartengestalter mit Leib und Seele schließen sich zusammen und suchen nach einer gemeinsamen Unternehmensdarstellung. Es ist ihnen dabei ausgesprochen wichtig, ihr authentisches Auftreten beizubehalten. Mit Ihren beiden Persönlichkeiten stehen sie voll und ganz hinter ihrem Projekt – und das soll auch erlebbar werden. Für den Start soll ein neues Logo, Geschäftspapier, Folder und ein schlanker Internetauftritt realisiert werden.
-
-----
-
-Textarea: In den gemeinsamen Projektgesprächen war schnell spürbar, dass es den Beiden vor allem um die Verwirklichung eines gemeinsamen Projektes ging. Vor allem auch um ein offen bleiben für Randfelder jenseits der reinen Gartengestaltung. Sei es die Realisierung eines anspruchsvollen Feuchtbiotops oder die Fertigung von Objekten für den Gartenbereich mit künstlerischer Ausrichtung.<br>Aus dieser Offenheit konnten wir schnell zusammen den Firmennamen entwickeln: FREIWERK. In der anschließenden Entwurfspräsentation mit Ausarbeitungen von seriöser bis unkonventioneller Anmutung gelang es den Firmengründern eine klare Entscheidung für sich zu treffen. Ein wichtiger Schritt um das bisher noch diffuse Projekt mit großer Klarheit vor sich zu sehen. Ein Effekt der bei jedem Prozess im Bereich Erscheinungsbild festzustellen ist und als wesentlicher Faktor für die innere Motivation bei Neuanfängen nicht unterschätzt werden sollte.
+Introtext: Zwei Gartengestalter mit Leib und Seele schließen sich zusammen und suchen nach einer gemeinsamen Unternehmensdarstellung.
 
 ----
 
 Cover:
 
 - logogestaltung.jpg
+
+----
+
+Haupttext: **Es ist ihnen dabei ausgesprochen wichtig, ihr authentisches Auftreten beizubehalten.** Mit Ihren beiden Persönlichkeiten stehen sie voll und ganz hinter ihrem Projekt – und das soll auch erlebbar werden. Für den Start soll ein neues Logo, Geschäftspapier, Folder und ein schlanker Internetauftritt realisiert werden.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Textarea: In den gemeinsamen Projektgesprächen war schnell spürbar, dass es den Beiden vor allem um die Verwirklichung eines gemeinsamen Projektes ging. Vor allem auch um ein offen bleiben für Randfelder jenseits der reinen Gartengestaltung. Sei es die Realisierung eines anspruchsvollen Feuchtbiotops oder die Fertigung von Objekten für den Gartenbereich mit künstlerischer Ausrichtung.<br>Aus dieser Offenheit konnten wir schnell zusammen den Firmennamen entwickeln: FREIWERK. In der anschließenden Entwurfspräsentation mit Ausarbeitungen von seriöser bis unkonventioneller Anmutung gelang es den Firmengründern eine klare Entscheidung für sich zu treffen. Ein wichtiger Schritt um das bisher noch diffuse Projekt mit großer Klarheit vor sich zu sehen. Ein Effekt der bei jedem Prozess im Bereich Erscheinungsbild festzustellen ist und als wesentlicher Faktor für die innere Motivation bei Neuanfängen nicht unterschätzt werden sollte.
 
 ----
 

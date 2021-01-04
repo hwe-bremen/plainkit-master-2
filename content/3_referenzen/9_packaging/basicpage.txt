@@ -10,15 +10,33 @@ Headline: Von Schwertlilien
 
 ----
 
-Introtext: Endlich druckfrisch geliefert! Unser erstes Print-on-Demand Projekt liegt vor. Für Karsten Joost konnten wir seinen Essay “Von Schwertlilien und Lasercuttern” gestalten und bei der Produktion unterstützen. Mit diesem Beitrag über digitale Fabrikationstechnologie und multidisziplinäre Zusammenarbeit als Motor für Innovation, reflektiert er seine Erfahrungen in der internationalen Maker bzw. FabLab Szene.
+Introtext: Endlich druckfrisch geliefert! Unser erstes Print-on-Demand Projekt liegt vor. Für Karsten Joost konnten wir seinen Essay “Von Schwertlilien und Lasercuttern” gestalten und bei der Produktion unterstützen.
+
+----
+
+Cover:
+
+- dasbuch.jpg
+
+----
+
+Haupttext: **Mit diesem Beitrag über digitale Fabrikationstechnologie und multidisziplinäre Zusammenarbeit** als Motor für Innovation, reflektiert er seine Erfahrungen in der internationalen Maker bzw. FabLab Szene.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
 
 ----
 
 Textarea: (link: https://www.bod.de/buchshop/of-irises-and-laser-cutters-karsten-joost-9783750421752 text: Bestellt werden kann das Buch direkt über diesen Link)
-
-----
-
-Cover: - dasbuch.jpg
 
 ----
 

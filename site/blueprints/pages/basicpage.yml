@@ -42,10 +42,18 @@ fields:
     label: Haupttext
   gallery:
     type: files
+    label: gallery-1
     layout: cards
-    template: image 
+    template: gallery
       image:
         cover: true 
   Abschluss:
     type: textarea
     label: Abschluss
+  gallery_zwei:
+    type: files
+    label: gallery-2
+    layout: cards
+    template: gallery
+      image:
+        cover: true 
