@@ -11396,14 +11396,6 @@
 		"oAP": "/site/tags/slider.php",
 		"oF": 0
 		},
-	"/site/templates/basicpage.php": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/templates/basicpage.php",
-		"oF": 0
-		},
 	"/site/templates/basicpage_main.php": {
 		"cB": 0,
 		"ft": 8192,

@@ -70,6 +70,12 @@
 <?= js('assets/js/siema.min.js') ?>
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 26e53b74dc3b510400168ff01eddb846fa040714
 <script>
 const mySiema = new Siema({
       selector: '.siema',
@@ -78,7 +84,11 @@ const mySiema = new Siema({
   easing: 'ease-out',
   perPage: {
 	  250: 1,
+<<<<<<< HEAD
 	  600: 2,
+=======
+	  750: 2,
+>>>>>>> 26e53b74dc3b510400168ff01eddb846fa040714
   },
   startIndex: 0,
   draggable: true,
