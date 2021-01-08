@@ -10,7 +10,7 @@ Headline: IWT mit neuer Hompage
 
 ----
 
-Introtext: Ein erfolgreiches Produkt wird nicht nur über seine Qualität definiert. Öffentliche Institutionen, Non-Profit-Organisationen sowie Kultur- und Wissenschaftseinrichtungen stehen in einem Wettbewerb um die öffentliche Aufmerksamkeit,
+Introtext: Ein erfolgreiches Produkt wird nicht nur über seine Qualität definiert. Öffentliche Institutionen, Non-Profit-Organisationen sowie Kultur- und Wissenschaftseinrichtungen stehen in einem Wettbewerb um die öffentliche Aufmerksamkeit.
 
 ----
 
@@ -20,19 +20,26 @@ Cover:
 
 ----
 
-Haupttext: **Somit auch ganz direkt um Fördergelder, finanzelle Zuwendungen und um fähige MitarbeiterInnen.** In diesem Umfeld bewegt sich auch das IWT. Die Aufnahme in die Leibniz-Gemeinschaft stößt dabei einen grundlegenden Change-Prozess an. Ein Ergebnis dieses Prozesses soll auch eine größere Wirksamkeit bzw. Sichtbarkeit im Bereich der öffentlichen Wahrnehmung sein. Der Relaunch des Corporate Designs war daher ein fester Bestandteil dieses Prozesses.
+Haupttext: **Somit stehen sie auch ganz direkt im Wettbewerb um Fördergelder, finanzelle Zuwendungen und um fähige MitarbeiterInnen.** In diesem Umfeld bewegt sich auch das IWT. Die Aufnahme in die Leibniz-Gemeinschaft stößt dabei einen grundlegenden Change-Prozess an. Ein Ergebnis dieses Prozesses soll auch eine größere Wirksamkeit bzw. Sichtbarkeit im Bereich der öffentlichen Wahrnehmung sein. Der Relaunch des Corporate Designs war daher ein fester Bestandteil dieses Prozesses.
 
 ----
 
-Gallery: 
+Gallery:
+
+- 2_iwt_logodesign.jpg
+- 1_iwt_logo.jpg
+- iwt_aussenbeschilderung.jpg
 
 ----
 
-Abschluss: 
+Abschluss: Nach einem vorausgehenden gemeinsamen Workshop und einer intensiven Auseinandersetzung mit dem IWT entstand 2019 ein einheitliches visuelles Erscheinungsbild, das die drei Würfel zu einem interdisziplinären, vernetzten und innovativen Ganzen verschmelzen und sichtbar werden ließ. Während des gesamten Prozesses wurden die Grundlagen für eine visuelle Klammer des IWT gemeinsam entwickelt. Neben der Überarbeitung von Logo, Farben und Typografie (inklusive Leitfaden und Gestaltungshilfen für alle Anwenderinnen und Anwender) wurde die Geschäftsausstattung (Visitenkarten, Briefbogen), diverse Kommunikationsmittel (Flyer, Broschüren, wissenschaftliche Plakate, Jahresbericht, PowerPoint-Templates, Messegestaltung, Werbemittel, Screendesign) der gesamte Internet-Auftritt sowie die Außenbeschilderung überarbeitet und modernisiert.<br><br>Weitere Informationen finden Sie auch unter: https://ideen-bewegen.du-projekt.de/
 
 ----
 
-Gallery-zwei: 
+Gallery-zwei:
+
+- iwt_merch.jpg
+- iwt_webseite.jpg
 
 ----
 

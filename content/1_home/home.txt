@@ -31,7 +31,11 @@ Team-headline: Das Team der Kompetenzen
 
 ----
 
-Team-bodytext: Lorumque quam quatia dolupta tiorestibus aut doluptaseiumini aut quia vel molupta quatios simolupta poruntem con perumendam, te laboremquod millorp oratese recatiberit optatur, iur mo iumqui ipsae nonse nis moluptatem am, apis qui arum et ut eum volor. Lorumque quam quatia dolupta tiorestibus aut doluptas eium ini aut quia vel molupta quatios simolupta poruntem con perumendam, te laboremquod millorp oratese recatiberit optatur, iur mo iumqui ipsae nonse nis moluptatem am, apis qui arum et ut eum volor s
+Team-bodytext:
+
+<b>Gemeinsam Ideen bewegen:</b>
+Dafür steht das <b>du:</b>projekt. Als Bürogemeinschaft bündeln wir seit 1999 unsere Synergien und können so unseren Kunden ein geballtes Know-how zur Verfügung stellen.
+Wir schlossen uns als Gemeinschaft, unterschiedlicher Freiberufler und Firmen aus dem Medienbereich, zu einem Netzwerk für Kommunikation zusammen. Wir wollten so eine Plattform für eine intensive Zusammenarbeit schaffen. Dieses Konzept gab uns die Möglichkeit, ähnlich einer Agentur am Markt zu agieren ohne eine zu sein.
 
 ----
 
