@@ -1,0 +1,39 @@
+Title: 02_Webdesign
+
+----
+
+Tags: 02_Webdesign
+
+----
+
+Headline: 02_Webdesign
+
+----
+
+Introtext: Webanwendung sind das digitale Interface unserer Zeit und wir verbinden visuelles Erleben mit optimaler Zugänglichkeit.
+
+----
+
+Cover:
+
+- bild_portfolio_2.jpg
+
+----
+
+Haupttext: Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Textarea: <b>ZWEI  sidisque</b> - sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem.

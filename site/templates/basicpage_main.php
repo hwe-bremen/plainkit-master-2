@@ -24,6 +24,7 @@
                 <span class="zierbalken-gruen"></span>
         </div>
         <h3 class="grid-inhalt"><?= $page->introtext()->html() ?></h3>
+        <span class="grid-body"><?= $page->bodytext()->kirbytext() ?></span>
        
 </section> 
 

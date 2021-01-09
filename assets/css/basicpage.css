@@ -5,8 +5,8 @@
 }
 
 #basic-page {
-  margin-top: 30%;
-  margin-bottom: 60%;
+  margin-top: 20%;
+  margin-bottom: 30%;
 }
 
 .grid-blog {
@@ -130,16 +130,32 @@ button {
   grid-column: 1 / span 6;
 } 
 
-.gallery_zwei:last-child(3) {
+.gallery_zwei:nth-child(4)  {
   grid-row: 9;
   grid-column: 7 / span 6;
 } 
+
+.gallery_zwei:nth-child(5) {
+  grid-row: 10;
+  grid-column: 1 / span 6;
+} 
+
+.gallery_zwei:nth-child(6) {
+  grid-row: 10;
+  grid-column: 7 / span 6;
+} 
+
+
 
 
 @media screen and (max-width: 770px) {
 
   .grid-blog {
     grid-template-columns: repeat(12, minmax(35px, 1fr));
+  }
+
+  #basic-page {
+    margin-top: 25%;
   }
 
   .grid-inhalt {
@@ -152,6 +168,7 @@ button {
   article img {
     grid-row: 2;
     grid-column: 1 / span 10;
+    margin-top: 2rem;
   }
   /* BODYTEXT___________________________________________*/
 
@@ -164,6 +181,10 @@ button {
   grid-column: 1 / span 10;
 }
 
+#basic-page article p {
+  grid-row: 5;
+  grid-column: 1 / span 10;
+}
 
 /* BODYTEXT Abschluss___________________________________________*/
 
@@ -176,45 +197,53 @@ button {
 
 
 @media screen and (max-width: 550px) {
+
   .grid-blog {
-    grid-template-columns: repeat(6, minmax(50px, 1fr));
+    grid-template-columns: repeat(12, minmax(25px, 1fr));
   }
   .grid-inhalt {
     grid-column-start: 1;
-    grid-column-end: 5;
-}
+    grid-column-end: 12;
+  }
+  #basic-page {
+    margin-bottom: 60%;
+  }
+
   article h2 {
-    grid-column: 1 / span 4;
+    grid-column: 1 / span 8;
   } 
+
   article img {
     grid-row: 2;
-    grid-column: 1 / span 6;
+    grid-column: 1 / span 12;
+    margin-top: 1rem;
   }
+
   /* BODYTEXT___________________________________________*/
 
 .grid-blog h3 {
   grid-row: 3;
-  grid-column: 1 / span 6 ;
+  grid-column: 1 / span 12 ;
 }
 #basic-page article p {
   grid-row: 4;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
 }
 /* SLIDER___________________________________________*/
 
 .siema {
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
 }
 
 .button {
   grid-row: 6;
-  grid-column: 1 /span 6;
+  grid-column: 1 /span 12;
 }
 /* BODYTEXT Abschluss___________________________________________*/
 
 #basic-page article .abschluss {
   grid-row: 7;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
  
 }
 
@@ -222,22 +251,32 @@ button {
 
 .gallery_zwei:first-child {
   grid-row: 8;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
 } 
 
 .gallery_zwei:nth-child(2) {
   grid-row: 9;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
 } 
 
 .gallery_zwei:nth-child(3) {
   grid-row: 10;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
 } 
 
-.gallery_zwei:last-child(3) {
+.gallery_zwei:nth-child(4) {
   grid-row: 11;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 12;
+} 
+
+.gallery_zwei:nth-child(5) {
+  grid-row: 12;
+  grid-column: 1 / span 12;
+} 
+
+.gallery_zwei:nth-child(6) {
+  grid-row: 13;
+  grid-column: 1 / span 12;
 } 
  
 }

@@ -19,7 +19,7 @@
         <!-- BODYTEXT -->
 
 
-        <?= $page->image()->crop(800, 600) ?>
+        <img src="<?= $page->cover()->url() ?>" alt=""> 
           <h3><?= $page->introtext()->html() ?> </h3>   
             <p><?= $page->haupttext()->kirbytext() ?></p>
          
@@ -62,13 +62,12 @@
 
 <footer class="footer"> Hier steht noch nichts</footer>
 
-<!-- ADD BUTTON Slider "siema" -->
+
 
 
 <!-- ADD Slider "siema" -->
 
 <?= js('assets/js/siema.min.js') ?>
-
 
 <script>
 const mySiema = new Siema({

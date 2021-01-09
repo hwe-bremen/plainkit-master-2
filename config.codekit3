@@ -403,6 +403,14 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/content/2_portfolio/1_portfolio-eins/basicpage.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/1_portfolio-eins/basicpage.txt",
+		"oF": 0
+		},
 	"/content/2_portfolio/1_portfolio-eins/bild_portfolio_1.jpg": {
 		"ft": 16384,
 		"iS": 65564,
@@ -416,14 +424,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/content/2_portfolio/1_portfolio-eins/portfolio.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/content/2_portfolio/1_portfolio-eins/portfolio.txt",
-		"oF": 0
-		},
 	"/content/2_portfolio/2_Eisbilder-2_ultraHD.jpg": {
 		"ft": 16384,
 		"iS": 447862,
@@ -436,6 +436,14 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/content/2_portfolio/2_portfolio-zwei/basicpage.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/2_portfolio-zwei/basicpage.txt",
+		"oF": 0
 		},
 	"/content/2_portfolio/2_portfolio-zwei/bild_portfolio_2.jpg": {
 		"ft": 16384,
@@ -458,12 +466,12 @@
 		"oAP": "/content/2_portfolio/2_portfolio-zwei/bild_portfolio_2.jpg.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/2_portfolio-zwei/portfolio.txt": {
+	"/content/2_portfolio/3_portfolio-drei/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/2_portfolio-zwei/portfolio.txt",
+		"oAP": "/content/2_portfolio/3_portfolio-drei/basicpage.txt",
 		"oF": 0
 		},
 	"/content/2_portfolio/3_portfolio-drei/bild_portfolio_3.jpg": {
@@ -487,12 +495,12 @@
 		"oAP": "/content/2_portfolio/3_portfolio-drei/bild_portfolio_3.jpg.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/3_portfolio-drei/portfolio.txt": {
+	"/content/2_portfolio/4_portfolio-vier/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/3_portfolio-drei/portfolio.txt",
+		"oAP": "/content/2_portfolio/4_portfolio-vier/basicpage.txt",
 		"oF": 0
 		},
 	"/content/2_portfolio/4_portfolio-vier/bild_portfolio_4.jpg": {
@@ -508,21 +516,33 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/content/2_portfolio/4_portfolio-vier/portfolio.txt": {
+	"/content/2_portfolio/basicpage_main.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/4_portfolio-vier/portfolio.txt",
+		"oAP": "/content/2_portfolio/basicpage_main.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/portfolio.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/content/2_portfolio/portfolio_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/portfolio.txt",
-		"oF": 0
+		"oAP": "/content/2_portfolio/portfolio_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/content/2_portfolio/portfolio_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/portfolio_main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/content/3_referenzen/1_zmt/basicpage.txt": {
 		"cB": 0,
@@ -874,6 +894,237 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/3_referenzen/2_iwt/iwt_webseite.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 82225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 114337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg": {
+		"ft": 16384,
+		"iS": 59014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg": {
+		"ft": 16384,
+		"iS": 42478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg": {
+		"ft": 16384,
+		"iS": 49671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 35542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg": {
+		"ft": 16384,
+		"iS": 53080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/3_binder-edelstahl/basicpage.txt": {
@@ -6279,6 +6530,26 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/7f5a9ed9e0-1610206808/portfolio_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1610206808/portfolio_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/media/pages/portfolio/9fb042839c-1610206807/portfolio_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/9fb042839c-1610206807/portfolio_main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/media/pages/portfolio/c23622baa7-1608397774/.jobs/2-eisbilder-2-ultrahd-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6413,26 +6684,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6444,6 +6699,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-1408x.jpg": {
+		"ft": 16384,
+		"iS": 165830,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-38x38.jpg": {
 		"ft": 16384,
@@ -6471,26 +6739,36 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-1408x.jpg-min.json",
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3546,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-76x76.jpg",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-800x500.jpg": {
+		"ft": 16384,
+		"iS": 129775,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6502,6 +6780,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-1408x.jpg": {
+		"ft": 16384,
+		"iS": 102478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-38x38.jpg": {
 		"ft": 16384,
@@ -6529,6 +6820,45 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-800x500.jpg": {
+		"ft": 16384,
+		"iS": 138843,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild_portfolio_1.jpg": {
+		"ft": 16384,
+		"iS": 65564,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild_portfolio_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/portfolio/portfolio-eins/884df5f966-1607939801/bild-portfolio-1-550x700.jpg": {
 		"ft": 16384,
 		"iS": 92730,
@@ -6542,26 +6872,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6573,6 +6887,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-1408x.jpg": {
+		"ft": 16384,
+		"iS": 130092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-38x38.jpg": {
 		"ft": 16384,
@@ -6593,6 +6920,32 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-550x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3914,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-800x500.jpg": {
+		"ft": 16384,
+		"iS": 161573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-800x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6626,26 +6979,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6657,6 +6994,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-1408x.jpg": {
+		"ft": 16384,
+		"iS": 169573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-38x38.jpg": {
 		"ft": 16384,
@@ -6677,6 +7027,158 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-550x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3570,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-800x500.jpg": {
+		"ft": 16384,
+		"iS": 129311,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 61164,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 71356,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01_infomappe-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 82225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01_infomappe-gestaltung.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6927,6 +7429,221 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-1408x.jpg": {
+		"ft": 16384,
+		"iS": 76674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-500x500.jpg": {
+		"ft": 16384,
+		"iS": 38599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-800x500.jpg": {
+		"ft": 16384,
+		"iS": 62706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11_messestand-leuchtkubus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-1408x.jpg": {
+		"ft": 16384,
+		"iS": 27805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-76x76.jpg": {
+		"ft": 16384,
+		"iS": 1875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03_give_away_gestaltung_a.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03_give_away_gestaltung_a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-1408x.jpg": {
+		"ft": 16384,
+		"iS": 71103,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2779,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption_imagebroschuere.jpg": {
+		"ft": 16384,
+		"iS": 59014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption_imagebroschuere.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/binder-edelstahl/49ac79637f-1607939801/.jobs/web-binder-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -7099,6 +7816,384 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/binder-edelstahl/8f17986502-1608397774/web-binder-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 57128,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04_gestaltung_aussendung.jpg": {
+		"ft": 16384,
+		"iS": 49671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04_gestaltung_aussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-1408x.jpg": {
+		"ft": 16384,
+		"iS": 63674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2695,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06_seitenlayout_broschre.jpg": {
+		"ft": 16384,
+		"iS": 53080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06_seitenlayout_broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-1408x.jpg": {
+		"ft": 16384,
+		"iS": 131622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-1408x.jpg": {
+		"ft": 16384,
+		"iS": 50729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04_design-broschre.jpg": {
+		"ft": 16384,
+		"iS": 42478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04_design-broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 103241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01_mailing_gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 114337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01_mailing_gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 42485,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2343,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05_mailings-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 35542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05_mailings-gestaltung.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9791,6 +10886,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1_intro-bild-iwt.jpg": {
+		"ft": 16384,
+		"iS": 25576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1_intro-bild-iwt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10292,14 +11400,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10327,6 +11427,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/28f487d340-1609097277/zmt-02-print-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/28f487d340-1609097277/zmt-02-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/28f487d340-1609097277/zmt-02-print-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10605,14 +11718,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10653,6 +11758,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2390,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10731,14 +11849,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10773,6 +11883,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt-03-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3143,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt-03-print-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt_03-print.jpg": {
 		"ft": 16384,
 		"iS": 141551,
@@ -10790,14 +11913,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10842,6 +11957,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2625,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10915,14 +12043,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10957,6 +12077,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt-01-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt-01-print-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt_01-print.jpg": {
 		"ft": 16384,
 		"iS": 110392,
@@ -10974,14 +12107,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -11033,6 +12158,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/ca49330460-1608816923/zmt-01-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/zmt-01-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/ca49330460-1608816923/zmt_01-cd.jpg": {
 		"ft": 16384,
 		"iS": 76768,
@@ -11050,14 +12188,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -11109,6 +12239,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt-05-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 1998,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt-05-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt_05-cd.jpg": {
 		"ft": 16384,
 		"iS": 50624,
@@ -11126,14 +12269,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -11185,6 +12320,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt-04-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt-04-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt_04-cd.jpg": {
 		"ft": 16384,
 		"iS": 57855,
@@ -11202,14 +12350,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -11254,6 +12394,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt-03-cd-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt-03-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt-03-cd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -11536,12 +12689,44 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610146429.2ec241b7f3e20c641ce2.sess": {
+	"/site/sessions/1610207229.d5c1ecad941ec14e5b44.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610146429.2ec241b7f3e20c641ce2.sess",
+		"oAP": "/site/sessions/1610207229.d5c1ecad941ec14e5b44.sess",
+		"oF": 0
+		},
+	"/site/sessions/1610210853.83b3b85022842d7f50e7.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1610210853.83b3b85022842d7f50e7.sess",
+		"oF": 0
+		},
+	"/site/sessions/1610214343.b95642f4e9270762020b.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1610214343.b95642f4e9270762020b.sess",
+		"oF": 0
+		},
+	"/site/sessions/1610214644.a28d01bc21b6179ba47b.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1610214644.a28d01bc21b6179ba47b.sess",
+		"oF": 0
+		},
+	"/site/sessions/1610218250.6c54e13c73d6f55d7d4a.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1610218250.6c54e13c73d6f55d7d4a.sess",
 		"oF": 0
 		},
 	"/site/sessions/1610220740.c512c5e23e69078d1621.sess": {
@@ -11574,6 +12759,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1611348835.dc12f8ef065cc207e2f0.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611402115.6295460f7b26915199fe.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611402115.6295460f7b26915199fe.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611402115.e0f9f71a712c1a721499.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611402115.e0f9f71a712c1a721499.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {

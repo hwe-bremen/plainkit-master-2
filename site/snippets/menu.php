@@ -7,6 +7,10 @@
   <title>du:projekt - gemeinsam ideen bewegen</title>
   <meta name="description" content="p2">
   <meta name="author" content="SitePoint">
+  
+
+<!-- custom css -->
+<?= css($page->files()->filterBy('extension', 'css')->pluck('url')) ?>
 
 <?= css([
         'assets/css/mystyle-min.css',
@@ -14,7 +18,7 @@
         'assets/css/blog-min.css', 
         'assets/css/basicpage_main-min.css',
         'assets/css/basicpage-min.css', 
-        'assets/css/slick-min.css',   
+        'assets/css/slick-min.css',  
  ])  ?> 
 
 <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">

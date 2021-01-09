@@ -1,0 +1,19 @@
+.grid-body {
+    grid-column: 1 / span 8;
+}
+
+.card_text--groesse {
+    display: none;
+}
+
+.card_text--groesse {
+    display: none;
+}
+
+small {
+    display: none;
+}
+    
+#card_liste article p:nth-child(2) {
+   width: 100%;
+}

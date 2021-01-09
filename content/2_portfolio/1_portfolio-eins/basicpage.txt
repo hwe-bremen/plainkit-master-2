@@ -1,0 +1,39 @@
+Title: 01_Corporate Design
+
+----
+
+Tags: 01_Corporate Design
+
+----
+
+Headline: 01_Corporate Design
+
+----
+
+Introtext: Die visuelle Identität schärft das Profil – auch im Umfeld wandelnder Markenidentitäten. Wir begleiten den gesamten Entwicklungsprozess.
+
+----
+
+Cover:
+
+- bild_portfolio_1.jpg
+
+----
+
+Haupttext: Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Textarea: Lsapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo.

@@ -6,7 +6,15 @@ Headline: Von der Konzeption zum Design bis zur Webentwicklung
 
 ----
 
-Introtext: Unsere Kunden suchen nach ästhetischen Lösungen, aber nicht um den Preis von Eindeutigkeit und Zugänglichkeit. Design soll etwas bewirken – und gerade dazu bedarf es der emotionaler Wirkung durch den ästhetischen Sinn.
+Introtext: Unsere Kunden suchen nach ästhetischen Lösungen, aber nicht um den Preis von Eindeutigkeit und Zugänglichkeit. Design soll etwas bewirken – und gerade dazu bedarf es kompetenter Gestaltung.
+
+----
+
+Toggle: false
+
+----
+
+Bodytext: 
 
 ----
 
