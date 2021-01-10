@@ -1,4 +1,4 @@
-Title: 02_Webdesign
+Title: //02_Webdesign
 
 ----
 
@@ -14,9 +14,7 @@ Introtext: Webanwendung sind das digitale Interface unserer Zeit und wir verbind
 
 ----
 
-Cover:
-
-- bild_portfolio_2.jpg
+Cover: - bild_portfolio_2.jpg
 
 ----
 

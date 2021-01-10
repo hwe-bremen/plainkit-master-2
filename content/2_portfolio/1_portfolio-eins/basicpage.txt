@@ -1,4 +1,4 @@
-Title: 01_Corporate Design
+Title: //01_Corporate Design
 
 ----
 
@@ -14,9 +14,7 @@ Introtext: Die visuelle Identität schärft das Profil – auch im Umfeld wandel
 
 ----
 
-Cover:
-
-- bild_portfolio_1.jpg
+Cover: - bild_portfolio_1.jpg
 
 ----
 

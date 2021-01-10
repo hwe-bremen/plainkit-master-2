@@ -1156,12 +1156,159 @@
 		"oAP": "/content/3_referenzen/3_binder-edelstahl/web_binder.jpg.txt",
 		"oF": 0
 		},
+	"/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg": {
+		"ft": 16384,
+		"iS": 62050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 115871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 131092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 87509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg": {
+		"ft": 16384,
+		"iS": 98418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg.txt",
+		"oF": 0
+		},
 	"/content/3_referenzen/4_info-grafiken/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/3_referenzen/4_info-grafiken/basicpage.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg": {
+		"ft": 16384,
+		"iS": 270565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/infografik-laender.jpg": {
+		"ft": 16384,
+		"iS": 68336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/infografik-laender.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/infografik-laender.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/infografik-laender.jpg.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/4_info-grafiken/k2b_6806_blockgrafik_geo.jpg": {
@@ -1183,6 +1330,48 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/3_referenzen/4_info-grafiken/k2b_6806_blockgrafik_geo.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/5_galerie-neuse/basicpage.txt": {
@@ -6530,23 +6719,23 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/7f5a9ed9e0-1610206808/portfolio_main-min.css": {
+	"/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1610206808/portfolio_main-min-min.css",
+		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/media/pages/portfolio/9fb042839c-1610206807/portfolio_main.css": {
+	"/media/pages/portfolio/9fb042839c-1610278317/portfolio_main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/9fb042839c-1610206807/portfolio_main-min.css",
+		"oAP": "/media/pages/portfolio/9fb042839c-1610278317/portfolio_main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -9843,6 +10032,69 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 89601,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3173,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 131092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/3331e577bf-1608397774/.jobs/k2b-6806-blockgrafik-geo-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10099,6 +10351,145 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b_6806_blockgrafik_geo.jpg": {
+		"ft": 16384,
+		"iS": 4654197,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b_6806_blockgrafik_geo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-1408x.jpg": {
+		"ft": 16384,
+		"iS": 98378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2895,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-1408x.jpg": {
+		"ft": 16384,
+		"iS": 66147,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/77fb066131-1608397774/.jobs/k2b-6806-blockgrafik-geo-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10137,6 +10528,69 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/info-grafiken/77fb066131-1608397774/k2b-6806-blockgrafik-geo-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 75339,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 87509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10202,6 +10656,69 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-1408x.jpg": {
+		"ft": 16384,
+		"iS": 89546,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3043,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik_2.jpg": {
+		"ft": 16384,
+		"iS": 98418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/bb008f5f4c-1607939801/.jobs/k2b-6806-blockgrafik-geo-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10253,6 +10770,258 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/info-grafiken/bb008f5f4c-1607939801/k2b-6806-blockgrafik-geo-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 92580,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3215,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 115871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-1408x.jpg": {
+		"ft": 16384,
+		"iS": 57794,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender.jpg": {
+		"ft": 16384,
+		"iS": 68336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-1408x.jpg": {
+		"ft": 16384,
+		"iS": 49112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid_projektbereiche.jpg": {
+		"ft": 16384,
+		"iS": 62050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid_projektbereiche.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-1408x.jpg": {
+		"ft": 16384,
+		"iS": 195121,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen.jpg": {
+		"ft": 16384,
+		"iS": 270565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -12689,60 +13458,36 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610207229.d5c1ecad941ec14e5b44.sess": {
+	"/site/sessions/1610310009.1bd21e576bc5e22e8a5d.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610207229.d5c1ecad941ec14e5b44.sess",
+		"oAP": "/site/sessions/1610310009.1bd21e576bc5e22e8a5d.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610210853.83b3b85022842d7f50e7.sess": {
+	"/site/sessions/1610313613.244870f87aa50211aa94.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610210853.83b3b85022842d7f50e7.sess",
+		"oAP": "/site/sessions/1610313613.244870f87aa50211aa94.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610214343.b95642f4e9270762020b.sess": {
+	"/site/sessions/1610317218.4dfd61dfafd15b25ac51.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610214343.b95642f4e9270762020b.sess",
+		"oAP": "/site/sessions/1610317218.4dfd61dfafd15b25ac51.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610214644.a28d01bc21b6179ba47b.sess": {
+	"/site/sessions/1610320822.7617d4e9e4ab6957fc48.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610214644.a28d01bc21b6179ba47b.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610218250.6c54e13c73d6f55d7d4a.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610218250.6c54e13c73d6f55d7d4a.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610220740.c512c5e23e69078d1621.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610220740.c512c5e23e69078d1621.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610220740.d4c5f824d07856619284.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610220740.d4c5f824d07856619284.sess",
+		"oAP": "/site/sessions/1610320822.7617d4e9e4ab6957fc48.sess",
 		"oF": 0
 		},
 	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {
@@ -12775,6 +13520,38 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1611402115.e0f9f71a712c1a721499.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611484685.00ee7cb2ba1474db9d7b.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611484685.00ee7cb2ba1474db9d7b.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611484685.d5b9de617ae885770d40.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611484685.d5b9de617ae885770d40.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611485571.700224786dded74c1f4b.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611485571.700224786dded74c1f4b.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611485571.f484fc3236a163fa406d.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611485571.f484fc3236a163fa406d.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {

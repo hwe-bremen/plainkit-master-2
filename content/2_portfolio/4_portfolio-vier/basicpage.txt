@@ -1,4 +1,4 @@
-Title: 04_Medienkompetenz
+Title: //04_Medienkompetenz
 
 ----
 
@@ -14,9 +14,7 @@ Introtext: Vom barrierefreiem PDF der Druckvorlage einer Becherplatine bis zur B
 
 ----
 
-Cover:
-
-- bild_portfolio_4.jpg
+Cover: - bild_portfolio_4.jpg
 
 ----
 

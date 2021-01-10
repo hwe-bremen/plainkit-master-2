@@ -1,4 +1,4 @@
-Title: 03_Webentwicklung
+Title: //03_Webentwicklung
 
 ----
 
@@ -14,9 +14,7 @@ Introtext: Die technische Entwicklung stellt höchste Ansprüche – an Funktion
 
 ----
 
-Cover:
-
-- bild_portfolio_3.jpg
+Cover: - bild_portfolio_3.jpg
 
 ----
 
