@@ -1606,16 +1606,6 @@
 		"oAP": "/kirby/.editorconfig",
 		"oF": 0
 		},
-	"/kirby/assets/css/mystyle.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/kirby/assets/css/mystyle-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"/kirby/assets/whoops.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1882,6 +1872,158 @@
 		"oAP": "/kirby/config/api/routes/users.php",
 		"oF": 0
 		},
+	"/kirby/config/blocks/code/code.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/code/code.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/code/code.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/code/code.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/gallery/gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/gallery/gallery.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/gallery/gallery.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/gallery/gallery.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/heading/heading.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/heading/heading.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/heading/heading.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/heading/heading.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/image/image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/image/image.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/image/image.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/image/image.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/list/list.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/list/list.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/list/list.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/list/list.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/markdown/markdown.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/markdown/markdown.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/markdown/markdown.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/markdown/markdown.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/quote/quote.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/quote/quote.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/quote/quote.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/quote/quote.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/table/table.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/table/table.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/text/text.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/text/text.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/text/text.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/text/text.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/video/video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/video/video.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/video/video.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/video/video.yml",
+		"oF": 0
+		},
 	"/kirby/config/blueprints.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1890,20 +2032,76 @@
 		"oAP": "/kirby/config/blueprints.php",
 		"oF": 0
 		},
-	"/kirby/config/blueprints/file.yml": {
+	"/kirby/config/blueprints/blocks/code.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/kirby/config/blueprints/file.yml",
+		"oAP": "/kirby/config/blueprints/blocks/code.yml",
 		"oF": 0
 		},
-	"/kirby/config/blueprints/page.yml": {
+	"/kirby/config/blueprints/blocks/heading.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/kirby/config/blueprints/page.yml",
+		"oAP": "/kirby/config/blueprints/blocks/heading.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/image.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/image.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/quote.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/quote.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/table.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/table.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/text.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/text.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/video.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/video.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/files/default.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/files/default.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/pages/default.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/pages/default.yml",
 		"oF": 0
 		},
 	"/kirby/config/blueprints/site.yml": {
@@ -2000,6 +2198,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/config/fields/line.php",
+		"oF": 0
+		},
+	"/kirby/config/fields/list.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/list.php",
+		"oF": 0
+		},
+	"/kirby/config/fields/mixins/datetime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/mixins/datetime.php",
 		"oF": 0
 		},
 	"/kirby/config/fields/mixins/filepicker.php": {
@@ -2178,6 +2392,14 @@
 		"oAP": "/kirby/config/fields/users.php",
 		"oF": 0
 		},
+	"/kirby/config/fields/writer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/writer.php",
+		"oF": 0
+		},
 	"/kirby/config/helpers.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2338,12 +2560,44 @@
 		"oAP": "/kirby/config/setup.php",
 		"oF": 0
 		},
+	"/kirby/config/snippets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/snippets.php",
+		"oF": 0
+		},
 	"/kirby/config/tags.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/config/tags.php",
+		"oF": 0
+		},
+	"/kirby/config/templates.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates.php",
+		"oF": 0
+		},
+	"/kirby/config/templates/emails/auth/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates/emails/auth/login.php",
+		"oF": 0
+		},
+	"/kirby/config/templates/emails/auth/password-reset.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates/emails/auth/password-reset.php",
 		"oF": 0
 		},
 	"/kirby/config/urls.php": {
@@ -3092,6 +3346,46 @@
 		"oAP": "/kirby/src/Cms/Auth.php",
 		"oF": 0
 		},
+	"/kirby/src/Cms/Auth/Challenge.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Auth/Challenge.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Auth/EmailChallenge.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Auth/EmailChallenge.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Block.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Block.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/BlockConverter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/BlockConverter.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Blocks.php",
+		"oF": 0
+		},
 	"/kirby/src/Cms/Blueprint.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3178,6 +3472,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Cms/Field.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Fieldset.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Fieldset.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Fieldsets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Fieldsets.php",
 		"oF": 0
 		},
 	"/kirby/src/Cms/File.php": {
@@ -3324,6 +3634,22 @@
 		"oAP": "/kirby/src/Cms/Ingredients.php",
 		"oF": 0
 		},
+	"/kirby/src/Cms/Item.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Item.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Items.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Items.php",
+		"oF": 0
+		},
 	"/kirby/src/Cms/KirbyTag.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3378,6 +3704,38 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Cms/Languages.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Layout.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Layout.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/LayoutColumn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/LayoutColumn.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/LayoutColumns.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/LayoutColumns.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Layouts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Layouts.php",
 		"oF": 0
 		},
 	"/kirby/src/Cms/Media.php": {
@@ -3980,6 +4338,30 @@
 		"oAP": "/kirby/src/Form/Field.php",
 		"oF": 0
 		},
+	"/kirby/src/Form/Field/BlocksField.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Field/BlocksField.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Field/LayoutField.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Field/LayoutField.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/FieldClass.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/FieldClass.php",
+		"oF": 0
+		},
 	"/kirby/src/Form/Fields.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3994,6 +4376,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Form/Form.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/EmptyState.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/EmptyState.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/Max.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/Max.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/Min.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/Min.php",
 		"oF": 0
 		},
 	"/kirby/src/Form/Options.php": {
@@ -4268,6 +4674,54 @@
 		"oAP": "/kirby/src/Image/Location.php",
 		"oF": 0
 		},
+	"/kirby/src/Parsley/Element.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Element.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Inline.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Inline.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Parsley.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Parsley.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema/Blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema/Blocks.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema/Plain.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema/Plain.php",
+		"oF": 0
+		},
 	"/kirby/src/Session/AutoSession.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4452,6 +4906,14 @@
 		"oAP": "/kirby/src/Toolkit/Iterator.php",
 		"oF": 0
 		},
+	"/kirby/src/Toolkit/Locale.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Toolkit/Locale.php",
+		"oF": 0
+		},
 	"/kirby/src/Toolkit/Mime.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4610,6 +5072,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/vendor/composer/ClassLoader.php",
+		"oF": 0
+		},
+	"/kirby/vendor/composer/installed.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/composer/installed.php",
+		"oF": 0
+		},
+	"/kirby/vendor/composer/InstalledVersions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/composer/InstalledVersions.php",
 		"oF": 0
 		},
 	"/kirby/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php": {
@@ -4904,6 +5382,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php",
+		"oF": 0
+		},
+	"/kirby/vendor/getkirby/composer-installer/composer.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/getkirby/composer-installer/composer.lock",
 		"oF": 0
 		},
 	"/kirby/vendor/getkirby/composer-installer/src/ComposerInstaller/CmsInstaller.php": {
@@ -5680,14 +6166,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5715,6 +6193,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -13196,11 +13687,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 4115,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -13209,21 +13700,21 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/css/app.css": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/css/app.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/css/app-min.css",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/css/app-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.png": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.png": {
 		"ft": 32768,
 		"iS": 539,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.png",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -13232,55 +13723,55 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.svg": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.svg",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/img/icons.svg": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/img/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/img/icons.svg",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/img/icons.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/app.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/app.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/app-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/app-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/plugins.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/plugins.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/plugins-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/plugins-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/vendor.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/vendor.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/vendor-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/vendor-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -13458,36 +13949,36 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610310009.1bd21e576bc5e22e8a5d.sess": {
+	"/site/sessions/1610486901.672e6670d588fdbcf61b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610310009.1bd21e576bc5e22e8a5d.sess",
+		"oAP": "/site/sessions/1610486901.672e6670d588fdbcf61b.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610313613.244870f87aa50211aa94.sess": {
+	"/site/sessions/1610487586.4534f617aecb85b25233.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610313613.244870f87aa50211aa94.sess",
+		"oAP": "/site/sessions/1610487586.4534f617aecb85b25233.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610317218.4dfd61dfafd15b25ac51.sess": {
+	"/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610317218.4dfd61dfafd15b25ac51.sess",
+		"oAP": "/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610320822.7617d4e9e4ab6957fc48.sess": {
+	"/site/sessions/1610493477.77cc0eabdb01284d604b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610320822.7617d4e9e4ab6957fc48.sess",
+		"oAP": "/site/sessions/1610493477.77cc0eabdb01284d604b.sess",
 		"oF": 0
 		},
 	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {
@@ -13552,6 +14043,54 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1611485571.f484fc3236a163fa406d.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611689307.356a413be7ed8258c494.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611689307.356a413be7ed8258c494.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611689307.7d801bc40b23f86919d3.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611689307.7d801bc40b23f86919d3.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611690662.98c9fdb1de2481c894fb.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611690662.98c9fdb1de2481c894fb.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611690662.eafe5bfa2e3d4f2930d2.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611690662.eafe5bfa2e3d4f2930d2.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611692787.4bed37e1a7ae2eba783e.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611692787.4bed37e1a7ae2eba783e.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611692787.7136c3e5eb7e48ef53e1.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611692787.7136c3e5eb7e48ef53e1.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {
@@ -13667,7 +14206,7 @@
 	"creationDate": 630090942.86176097,
 	"displayValue": "plainkit-master",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png",
+	"iconImageName": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {

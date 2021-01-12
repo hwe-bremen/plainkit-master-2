@@ -11,8 +11,15 @@ fields:
     type: text
   Introtext:
     type: textarea
-  Textarea:
-    type: textarea
+  blocks:
+    type: blocks
+    fieldsets:
+      - heading
+      - text
+      - image
+    
+      
+    
   cover:
     type: files 
     headline: Cover
