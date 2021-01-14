@@ -403,6 +403,14 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/content/2_portfolio/1_portfolio-eins/basicpage.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/1_portfolio-eins/basicpage.txt",
+		"oF": 0
+		},
 	"/content/2_portfolio/1_portfolio-eins/bild_portfolio_1.jpg": {
 		"ft": 16384,
 		"iS": 65564,
@@ -416,14 +424,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/content/2_portfolio/1_portfolio-eins/portfolio.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/content/2_portfolio/1_portfolio-eins/portfolio.txt",
-		"oF": 0
-		},
 	"/content/2_portfolio/2_Eisbilder-2_ultraHD.jpg": {
 		"ft": 16384,
 		"iS": 447862,
@@ -436,6 +436,14 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/content/2_portfolio/2_portfolio-zwei/basicpage.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/2_portfolio-zwei/basicpage.txt",
+		"oF": 0
 		},
 	"/content/2_portfolio/2_portfolio-zwei/bild_portfolio_2.jpg": {
 		"ft": 16384,
@@ -458,12 +466,12 @@
 		"oAP": "/content/2_portfolio/2_portfolio-zwei/bild_portfolio_2.jpg.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/2_portfolio-zwei/portfolio.txt": {
+	"/content/2_portfolio/3_portfolio-drei/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/2_portfolio-zwei/portfolio.txt",
+		"oAP": "/content/2_portfolio/3_portfolio-drei/basicpage.txt",
 		"oF": 0
 		},
 	"/content/2_portfolio/3_portfolio-drei/bild_portfolio_3.jpg": {
@@ -487,12 +495,12 @@
 		"oAP": "/content/2_portfolio/3_portfolio-drei/bild_portfolio_3.jpg.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/3_portfolio-drei/portfolio.txt": {
+	"/content/2_portfolio/4_portfolio-vier/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/3_portfolio-drei/portfolio.txt",
+		"oAP": "/content/2_portfolio/4_portfolio-vier/basicpage.txt",
 		"oF": 0
 		},
 	"/content/2_portfolio/4_portfolio-vier/bild_portfolio_4.jpg": {
@@ -508,21 +516,33 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/content/2_portfolio/4_portfolio-vier/portfolio.txt": {
+	"/content/2_portfolio/basicpage_main.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/4_portfolio-vier/portfolio.txt",
+		"oAP": "/content/2_portfolio/basicpage_main.txt",
 		"oF": 0
 		},
-	"/content/2_portfolio/portfolio.txt": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/content/2_portfolio/portfolio_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
 		"oA": 0,
-		"oAP": "/content/2_portfolio/portfolio.txt",
-		"oF": 0
+		"oAP": "/content/2_portfolio/portfolio_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/content/2_portfolio/portfolio_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/portfolio_main-min.css",
+		"oF": 0,
+		"oS": 3
 		},
 	"/content/3_referenzen/1_zmt/basicpage.txt": {
 		"cB": 0,
@@ -742,6 +762,69 @@
 		"oAP": "/content/3_referenzen/1_zmt/zmt_06-cd.jpg.txt",
 		"oF": 0
 		},
+	"/content/3_referenzen/2_iwt/1_intro-bild-iwt.jpg": {
+		"ft": 16384,
+		"iS": 25576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/1_intro-bild-iwt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/1_intro-bild-iwt.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/1_intro-bild-iwt.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/2_iwt/1_iwt_logo.jpg": {
+		"ft": 16384,
+		"iS": 44100,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/1_iwt_logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/1_iwt_logo.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/1_iwt_logo.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/2_iwt/2_iwt_logodesign.jpg": {
+		"ft": 16384,
+		"iS": 39303,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/2_iwt_logodesign.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/2_iwt_logodesign.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/2_iwt_logodesign.jpg.txt",
+		"oF": 0
+		},
 	"/content/3_referenzen/2_iwt/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -750,18 +833,299 @@
 		"oAP": "/content/3_referenzen/2_iwt/basicpage.txt",
 		"oF": 0
 		},
-	"/content/3_referenzen/2_iwt/kleine-bilder-iwt.jpg": {
+	"/content/3_referenzen/2_iwt/iwt_aussenbeschilderung.jpg": {
 		"ft": 16384,
-		"iS": 25576,
+		"iS": 120465,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/content/3_referenzen/2_iwt/kleine-bilder-iwt.jpg",
+		"oAP": "/content/3_referenzen/2_iwt/iwt_aussenbeschilderung.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/iwt_aussenbeschilderung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/iwt_aussenbeschilderung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/2_iwt/iwt_merch.jpg": {
+		"ft": 16384,
+		"iS": 101040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/iwt_merch.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/iwt_merch.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/iwt_merch.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/2_iwt/iwt_webseite.jpg": {
+		"ft": 16384,
+		"iS": 78575,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/iwt_webseite.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/2_iwt/iwt_webseite.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/2_iwt/iwt_webseite.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 82225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_infomappe-gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 114337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/01_mailing_gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/02_gestaltung_weihnachtsaussendung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg": {
+		"ft": 16384,
+		"iS": 59014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03-konzeption_imagebroschuere.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/03_give_away_gestaltung_a.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg": {
+		"ft": 16384,
+		"iS": 42478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_design-broschre.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg": {
+		"ft": 16384,
+		"iS": 49671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/04_gestaltung_aussendung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 35542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/05_mailings-gestaltung.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg": {
+		"ft": 16384,
+		"iS": 53080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/06_seitenlayout_broschre.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/08_messewand-beleuchtet.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/3_binder-edelstahl/11_messestand-leuchtkubus.jpg.txt",
+		"oF": 0
 		},
 	"/content/3_referenzen/3_binder-edelstahl/basicpage.txt": {
 		"cB": 0,
@@ -792,12 +1156,159 @@
 		"oAP": "/content/3_referenzen/3_binder-edelstahl/web_binder.jpg.txt",
 		"oF": 0
 		},
+	"/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg": {
+		"ft": 16384,
+		"iS": 62050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/1-slid_projektbereiche.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 115871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/2-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 131092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/3-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 87509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/4-slide-infografik.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg": {
+		"ft": 16384,
+		"iS": 98418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/atlab-grafik_2.jpg.txt",
+		"oF": 0
+		},
 	"/content/3_referenzen/4_info-grafiken/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/3_referenzen/4_info-grafiken/basicpage.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg": {
+		"ft": 16384,
+		"iS": 270565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/info-grafik-zahlen.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/infografik-laender.jpg": {
+		"ft": 16384,
+		"iS": 68336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/infografik-laender.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/infografik-laender.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/infografik-laender.jpg.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/4_info-grafiken/k2b_6806_blockgrafik_geo.jpg": {
@@ -819,6 +1330,48 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/3_referenzen/4_info-grafiken/k2b_6806_blockgrafik_geo.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/uebersicht-infografik-zmt.jpg.txt",
+		"oF": 0
+		},
+	"/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/3_referenzen/4_info-grafiken/zmt-akademie.jpg.txt",
 		"oF": 0
 		},
 	"/content/3_referenzen/5_galerie-neuse/basicpage.txt": {
@@ -1052,16 +1605,6 @@
 		"oA": 0,
 		"oAP": "/kirby/.editorconfig",
 		"oF": 0
-		},
-	"/kirby/assets/css/mystyle.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/kirby/assets/css/mystyle-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"/kirby/assets/whoops.css": {
 		"aP": 1,
@@ -1329,6 +1872,158 @@
 		"oAP": "/kirby/config/api/routes/users.php",
 		"oF": 0
 		},
+	"/kirby/config/blocks/code/code.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/code/code.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/code/code.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/code/code.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/gallery/gallery.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/gallery/gallery.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/gallery/gallery.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/gallery/gallery.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/heading/heading.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/heading/heading.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/heading/heading.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/heading/heading.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/image/image.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/image/image.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/image/image.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/image/image.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/list/list.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/list/list.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/list/list.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/list/list.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/markdown/markdown.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/markdown/markdown.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/markdown/markdown.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/markdown/markdown.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/quote/quote.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/quote/quote.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/quote/quote.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/quote/quote.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/table/table.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/table/table.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/text/text.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/text/text.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/text/text.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/text/text.yml",
+		"oF": 0
+		},
+	"/kirby/config/blocks/video/video.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/video/video.php",
+		"oF": 0
+		},
+	"/kirby/config/blocks/video/video.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blocks/video/video.yml",
+		"oF": 0
+		},
 	"/kirby/config/blueprints.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1337,20 +2032,76 @@
 		"oAP": "/kirby/config/blueprints.php",
 		"oF": 0
 		},
-	"/kirby/config/blueprints/file.yml": {
+	"/kirby/config/blueprints/blocks/code.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/kirby/config/blueprints/file.yml",
+		"oAP": "/kirby/config/blueprints/blocks/code.yml",
 		"oF": 0
 		},
-	"/kirby/config/blueprints/page.yml": {
+	"/kirby/config/blueprints/blocks/heading.yml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/kirby/config/blueprints/page.yml",
+		"oAP": "/kirby/config/blueprints/blocks/heading.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/image.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/image.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/quote.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/quote.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/table.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/table.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/text.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/text.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/blocks/video.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/blocks/video.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/files/default.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/files/default.yml",
+		"oF": 0
+		},
+	"/kirby/config/blueprints/pages/default.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/blueprints/pages/default.yml",
 		"oF": 0
 		},
 	"/kirby/config/blueprints/site.yml": {
@@ -1447,6 +2198,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/config/fields/line.php",
+		"oF": 0
+		},
+	"/kirby/config/fields/list.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/list.php",
+		"oF": 0
+		},
+	"/kirby/config/fields/mixins/datetime.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/mixins/datetime.php",
 		"oF": 0
 		},
 	"/kirby/config/fields/mixins/filepicker.php": {
@@ -1625,6 +2392,14 @@
 		"oAP": "/kirby/config/fields/users.php",
 		"oF": 0
 		},
+	"/kirby/config/fields/writer.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/fields/writer.php",
+		"oF": 0
+		},
 	"/kirby/config/helpers.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -1785,12 +2560,44 @@
 		"oAP": "/kirby/config/setup.php",
 		"oF": 0
 		},
+	"/kirby/config/snippets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/snippets.php",
+		"oF": 0
+		},
 	"/kirby/config/tags.php": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/config/tags.php",
+		"oF": 0
+		},
+	"/kirby/config/templates.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates.php",
+		"oF": 0
+		},
+	"/kirby/config/templates/emails/auth/login.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates/emails/auth/login.php",
+		"oF": 0
+		},
+	"/kirby/config/templates/emails/auth/password-reset.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/config/templates/emails/auth/password-reset.php",
 		"oF": 0
 		},
 	"/kirby/config/urls.php": {
@@ -2539,6 +3346,46 @@
 		"oAP": "/kirby/src/Cms/Auth.php",
 		"oF": 0
 		},
+	"/kirby/src/Cms/Auth/Challenge.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Auth/Challenge.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Auth/EmailChallenge.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Auth/EmailChallenge.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Block.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Block.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/BlockConverter.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/BlockConverter.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Blocks.php",
+		"oF": 0
+		},
 	"/kirby/src/Cms/Blueprint.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2625,6 +3472,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Cms/Field.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Fieldset.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Fieldset.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Fieldsets.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Fieldsets.php",
 		"oF": 0
 		},
 	"/kirby/src/Cms/File.php": {
@@ -2771,6 +3634,22 @@
 		"oAP": "/kirby/src/Cms/Ingredients.php",
 		"oF": 0
 		},
+	"/kirby/src/Cms/Item.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Item.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Items.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Items.php",
+		"oF": 0
+		},
 	"/kirby/src/Cms/KirbyTag.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -2825,6 +3704,38 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Cms/Languages.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Layout.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Layout.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/LayoutColumn.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/LayoutColumn.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/LayoutColumns.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/LayoutColumns.php",
+		"oF": 0
+		},
+	"/kirby/src/Cms/Layouts.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Cms/Layouts.php",
 		"oF": 0
 		},
 	"/kirby/src/Cms/Media.php": {
@@ -3427,6 +4338,30 @@
 		"oAP": "/kirby/src/Form/Field.php",
 		"oF": 0
 		},
+	"/kirby/src/Form/Field/BlocksField.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Field/BlocksField.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Field/LayoutField.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Field/LayoutField.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/FieldClass.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/FieldClass.php",
+		"oF": 0
+		},
 	"/kirby/src/Form/Fields.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3441,6 +4376,30 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/src/Form/Form.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/EmptyState.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/EmptyState.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/Max.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/Max.php",
+		"oF": 0
+		},
+	"/kirby/src/Form/Mixin/Min.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Form/Mixin/Min.php",
 		"oF": 0
 		},
 	"/kirby/src/Form/Options.php": {
@@ -3715,6 +4674,54 @@
 		"oAP": "/kirby/src/Image/Location.php",
 		"oF": 0
 		},
+	"/kirby/src/Parsley/Element.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Element.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Inline.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Inline.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Parsley.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Parsley.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema/Blocks.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema/Blocks.php",
+		"oF": 0
+		},
+	"/kirby/src/Parsley/Schema/Plain.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Parsley/Schema/Plain.php",
+		"oF": 0
+		},
 	"/kirby/src/Session/AutoSession.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -3899,6 +4906,14 @@
 		"oAP": "/kirby/src/Toolkit/Iterator.php",
 		"oF": 0
 		},
+	"/kirby/src/Toolkit/Locale.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/src/Toolkit/Locale.php",
+		"oF": 0
+		},
 	"/kirby/src/Toolkit/Mime.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -4057,6 +5072,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/vendor/composer/ClassLoader.php",
+		"oF": 0
+		},
+	"/kirby/vendor/composer/installed.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/composer/installed.php",
+		"oF": 0
+		},
+	"/kirby/vendor/composer/InstalledVersions.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/composer/InstalledVersions.php",
 		"oF": 0
 		},
 	"/kirby/vendor/filp/whoops/src/Whoops/Exception/ErrorException.php": {
@@ -4351,6 +5382,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/kirby/vendor/filp/whoops/src/Whoops/Util/TemplateHelper.php",
+		"oF": 0
+		},
+	"/kirby/vendor/getkirby/composer-installer/composer.lock": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/kirby/vendor/getkirby/composer-installer/composer.lock",
 		"oF": 0
 		},
 	"/kirby/vendor/getkirby/composer-installer/src/ComposerInstaller/CmsInstaller.php": {
@@ -5127,14 +6166,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5162,6 +6193,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2627,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5374,14 +6418,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/home/8b7f4793a6-1608397774/.jobs/gondel-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/home/8b7f4793a6-1608397774/.jobs/gondel-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/home/8b7f4793a6-1608397774/.jobs/gondel-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5409,6 +6445,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/home/8b7f4793a6-1608397774/gondel-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/home/8b7f4793a6-1608397774/gondel-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3874,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/home/8b7f4793a6-1608397774/gondel-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5445,14 +6494,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/home/8be45abbc5-1608397774/.jobs/tulpen-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/home/8be45abbc5-1608397774/.jobs/tulpen-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/home/8be45abbc5-1608397774/.jobs/tulpen-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5467,6 +6508,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/home/8be45abbc5-1608397774/tulpen-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/home/8be45abbc5-1608397774/tulpen-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3710,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/home/8be45abbc5-1608397774/tulpen-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -5527,14 +6581,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/home/93bafd6db6-1608397774/.jobs/amsterdam-5-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/home/93bafd6db6-1608397774/.jobs/amsterdam-5-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/home/93bafd6db6-1608397774/.jobs/amsterdam-5-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -5562,6 +6608,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/home/93bafd6db6-1608397774/amsterdam-5-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/home/93bafd6db6-1608397774/amsterdam-5-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3841,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/home/93bafd6db6-1608397774/amsterdam-5-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6015,14 +7074,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/home/headerbilder/dd0d2cac43-1608397774/.jobs/01-schaufenster-amsterdam-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/home/headerbilder/dd0d2cac43-1608397774/.jobs/01-schaufenster-amsterdam-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/home/headerbilder/dd0d2cac43-1608397774/.jobs/01-schaufenster-amsterdam-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6037,6 +7088,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/home/headerbilder/dd0d2cac43-1608397774/01-schaufenster-amsterdam-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/home/headerbilder/dd0d2cac43-1608397774/01-schaufenster-amsterdam-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3614,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/home/headerbilder/dd0d2cac43-1608397774/01-schaufenster-amsterdam-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6146,6 +7210,26 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/media/pages/portfolio/9fb042839c-1610278317/portfolio_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/9fb042839c-1610278317/portfolio_main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/media/pages/portfolio/c23622baa7-1608397774/.jobs/2-eisbilder-2-ultrahd-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6158,14 +7242,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/c23622baa7-1608397774/.jobs/2-eisbilder-2-ultrahd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/c23622baa7-1608397774/.jobs/2-eisbilder-2-ultrahd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/c23622baa7-1608397774/.jobs/2-eisbilder-2-ultrahd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6197,6 +7273,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/portfolio/c23622baa7-1608397774/2-eisbilder-2-ultrahd-600x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/c23622baa7-1608397774/2-eisbilder-2-ultrahd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 447862,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/c23622baa7-1608397774/2-eisbilder-2-ultrahd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6275,26 +7364,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6306,6 +7379,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-1408x.jpg": {
+		"ft": 16384,
+		"iS": 165830,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-38x38.jpg": {
 		"ft": 16384,
@@ -6333,26 +7419,36 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-1408x.jpg-min.json",
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3546,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-76x76.jpg",
 		"oF": 0,
-		"oO": 0,
-		"oS": 1
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-800x500.jpg": {
+		"ft": 16384,
+		"iS": 129775,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/bild-portfolio-3-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/.jobs/bild-portfolio-1-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6364,6 +7460,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-1408x.jpg": {
+		"ft": 16384,
+		"iS": 102478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-38x38.jpg": {
 		"ft": 16384,
@@ -6391,6 +7500,45 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-800x500.jpg": {
+		"ft": 16384,
+		"iS": 138843,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild-portfolio-1-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild_portfolio_1.jpg": {
+		"ft": 16384,
+		"iS": 65564,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-eins/0a982217b2-1608397774/bild_portfolio_1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/portfolio/portfolio-eins/884df5f966-1607939801/bild-portfolio-1-550x700.jpg": {
 		"ft": 16384,
 		"iS": 92730,
@@ -6404,26 +7552,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/.jobs/bild-portfolio-4-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6435,6 +7567,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-1408x.jpg": {
+		"ft": 16384,
+		"iS": 130092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-38x38.jpg": {
 		"ft": 16384,
@@ -6455,6 +7600,32 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-550x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3914,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-800x500.jpg": {
+		"ft": 16384,
+		"iS": 161573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-800x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6488,26 +7659,10 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/.jobs/bild-portfolio-2-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6519,6 +7674,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-1408x.jpg": {
+		"ft": 16384,
+		"iS": 169573,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-38x38.jpg": {
 		"ft": 16384,
@@ -6539,6 +7707,158 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-550x700.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3570,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-800x500.jpg": {
+		"ft": 16384,
+		"iS": 129311,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/e1435bb0e2-1608397774/bild-portfolio-2-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 61164,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02-gestaltung-weihnachtsaussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/.jobs/01-infomappe-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 71356,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2716,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01-infomappe-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01_infomappe-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 82225,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/19d0fd5712-1610190896/01_infomappe-gestaltung.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6595,14 +7915,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/.jobs/web-binder-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/.jobs/web-binder-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/.jobs/web-binder-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -6745,6 +8057,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/web-binder-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3589,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/web-binder-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/web-binder-800x300.jpg": {
 		"ft": 16384,
 		"iS": 32120,
@@ -6777,6 +8102,221 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/binder-edelstahl/32d631c9be-1608397774/web-binder-800x600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/.jobs/11-messestand-leuchtkubus-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-1408x.jpg": {
+		"ft": 16384,
+		"iS": 76674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-500x500.jpg": {
+		"ft": 16384,
+		"iS": 38599,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-800x500.jpg": {
+		"ft": 16384,
+		"iS": 62706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11_messestand-leuchtkubus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/.jobs/03-give-away-gestaltung-a-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-1408x.jpg": {
+		"ft": 16384,
+		"iS": 27805,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-76x76.jpg": {
+		"ft": 16384,
+		"iS": 1875,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03-give-away-gestaltung-a-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03_give_away_gestaltung_a.jpg": {
+		"ft": 16384,
+		"iS": 22287,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/3da2a53572-1610190897/03_give_away_gestaltung_a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/.jobs/03-konzeption-imagebroschuere-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-1408x.jpg": {
+		"ft": 16384,
+		"iS": 71103,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2779,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption-imagebroschuere-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption_imagebroschuere.jpg": {
+		"ft": 16384,
+		"iS": 59014,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/43b27ba9c3-1610190896/03-konzeption_imagebroschuere.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6963,6 +8503,384 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/.jobs/04-gestaltung-aussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 57128,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2549,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04-gestaltung-aussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04_gestaltung_aussendung.jpg": {
+		"ft": 16384,
+		"iS": 49671,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/9dd5576c98-1610190897/04_gestaltung_aussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/.jobs/06-seitenlayout-broschre-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-1408x.jpg": {
+		"ft": 16384,
+		"iS": 63674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2695,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06-seitenlayout-broschre-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06_seitenlayout_broschre.jpg": {
+		"ft": 16384,
+		"iS": 53080,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/ad68fce128-1610190897/06_seitenlayout_broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/.jobs/08-messewand-beleuchtet-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-1408x.jpg": {
+		"ft": 16384,
+		"iS": 131622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08-messewand-beleuchtet-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/b0967793e8-1610190897/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/.jobs/04-design-broschre-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-1408x.jpg": {
+		"ft": 16384,
+		"iS": 50729,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2475,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04-design-broschre-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04_design-broschre.jpg": {
+		"ft": 16384,
+		"iS": 42478,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/d48f68b188-1610190897/04_design-broschre.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/.jobs/01-mailing-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 103241,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3052,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01-mailing-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01_mailing_gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 114337,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/e3e0151202-1610191295/01_mailing_gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/.jobs/05-mailings-gestaltung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 42485,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2343,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05-mailings-gestaltung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05_mailings-gestaltung.jpg": {
+		"ft": 16384,
+		"iS": 35542,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/fd2bcc4ac5-1610190897/05_mailings-gestaltung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/bremer-box/291bc92195-1608397774/.jobs/e1-bremer-box-composing2-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -7025,14 +8943,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/bremer-box/572cbf478c-1608397774/.jobs/e1-bremer-box-composing2-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/bremer-box/572cbf478c-1608397774/.jobs/e1-bremer-box-composing2-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/bremer-box/572cbf478c-1608397774/.jobs/e1-bremer-box-composing2-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -7168,6 +9078,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/bremer-box/572cbf478c-1608397774/e1-bremer-box-composing2-600x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/bremer-box/572cbf478c-1608397774/e1-bremer-box-composing2-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2713,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/bremer-box/572cbf478c-1608397774/e1-bremer-box-composing2-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -7486,14 +9409,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/frei-werk/25b17211ed-1608397774/.jobs/logogestaltung-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/frei-werk/25b17211ed-1608397774/.jobs/logogestaltung-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/frei-werk/25b17211ed-1608397774/.jobs/logogestaltung-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -7625,6 +9540,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/frei-werk/25b17211ed-1608397774/logogestaltung-600x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/frei-werk/25b17211ed-1608397774/logogestaltung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2933,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/frei-werk/25b17211ed-1608397774/logogestaltung-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8001,14 +9929,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/.jobs/neuse-cd-briefpapier-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/.jobs/neuse-cd-briefpapier-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/.jobs/neuse-cd-briefpapier-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8140,6 +10060,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/neuse-cd-briefpapier-600x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/neuse-cd-briefpapier-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2165,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/galerie-neuse/e3d8fad21e-1608397774/neuse-cd-briefpapier-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8297,14 +10230,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/.jobs/planung-messeauftritt-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/.jobs/planung-messeauftritt-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/.jobs/planung-messeauftritt-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8436,6 +10361,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/planung-messeauftritt-600x300.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/planung-messeauftritt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3515,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/henne-verpackung/68707043eb-1608397774/planung-messeauftritt-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8585,6 +10523,69 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/.jobs/3-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 89601,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3173,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 131092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/05a3c48469-1610277057/3-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/3331e577bf-1608397774/.jobs/k2b-6806-blockgrafik-geo-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8647,14 +10648,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/.jobs/k2b-6806-blockgrafik-geo-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/.jobs/k2b-6806-blockgrafik-geo-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/.jobs/k2b-6806-blockgrafik-geo-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -8797,6 +10790,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b-6806-blockgrafik-geo-76x76.jpg": {
+		"ft": 16384,
+		"iS": 4654197,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b-6806-blockgrafik-geo-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b-6806-blockgrafik-geo-800x300.jpg": {
 		"ft": 16384,
 		"iS": 4654197,
@@ -8829,6 +10835,145 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b-6806-blockgrafik-geo-800x600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b_6806_blockgrafik_geo.jpg": {
+		"ft": 16384,
+		"iS": 4654197,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/538a7de4fd-1608397774/k2b_6806_blockgrafik_geo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/.jobs/uebersicht-infografik-zmt-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-1408x.jpg": {
+		"ft": 16384,
+		"iS": 98378,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2895,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/578fa2f44c-1610277058/uebersicht-infografik-zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/.jobs/zmt-akademie-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-1408x.jpg": {
+		"ft": 16384,
+		"iS": 66147,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/6878f3a87a-1610277058/zmt-akademie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8874,6 +11019,69 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/info-grafiken/77fb066131-1608397774/k2b-6806-blockgrafik-geo-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/.jobs/4-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 75339,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2960,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 87509,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/7b7d2d2012-1610277057/4-slide-infografik.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -8939,6 +11147,69 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/.jobs/atlab-grafik-2-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-1408x.jpg": {
+		"ft": 16384,
+		"iS": 89546,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3043,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik-2-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik_2.jpg": {
+		"ft": 16384,
+		"iS": 98418,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/a6546336d5-1610277057/atlab-grafik_2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/info-grafiken/bb008f5f4c-1607939801/.jobs/k2b-6806-blockgrafik-geo-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -8990,6 +11261,397 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/info-grafiken/bb008f5f4c-1607939801/k2b-6806-blockgrafik-geo-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/.jobs/2-slide-infografik-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-1408x.jpg": {
+		"ft": 16384,
+		"iS": 92580,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3215,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik.jpg": {
+		"ft": 16384,
+		"iS": 115871,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/bcd28ef3c4-1610277057/2-slide-infografik.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/.jobs/infografik-laender-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-1408x.jpg": {
+		"ft": 16384,
+		"iS": 57794,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2483,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender.jpg": {
+		"ft": 16384,
+		"iS": 68336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/d31c6b4740-1610277058/infografik-laender.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/.jobs/1-slid-projektbereiche-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-1408x.jpg": {
+		"ft": 16384,
+		"iS": 49112,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2686,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid-projektbereiche-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid_projektbereiche.jpg": {
+		"ft": 16384,
+		"iS": 62050,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/e3481b98fc-1610277058/1-slid_projektbereiche.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/.jobs/info-grafik-zahlen-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-1408x.jpg": {
+		"ft": 16384,
+		"iS": 195121,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3787,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen.jpg": {
+		"ft": 16384,
+		"iS": 270565,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/info-grafiken/f52530e326-1610277058/info-grafik-zahlen.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/116f8f7ac9-1610141426/1-intro-bild-800x600.jpg": {
+		"ft": 16384,
+		"iS": 56310,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/116f8f7ac9-1610141426/1-intro-bild-800x600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/.jobs/iwt-aussenbeschilderung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt-aussenbeschilderung-1408x.jpg": {
+		"ft": 16384,
+		"iS": 94242,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt-aussenbeschilderung-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt-aussenbeschilderung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2622,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt-aussenbeschilderung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt_aussenbeschilderung.jpg": {
+		"ft": 16384,
+		"iS": 120465,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/15b7e3f8d7-1610139274/iwt_aussenbeschilderung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/.jobs/iwt-webseite-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt-webseite-1408x.jpg": {
+		"ft": 16384,
+		"iS": 65398,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt-webseite-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt-webseite-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt-webseite-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt_webseite.jpg": {
+		"ft": 16384,
+		"iS": 78575,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/2138d65ff2-1610139274/iwt_webseite.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9100,6 +11762,51 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/.jobs/1-kleine-bilder-iwt-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/1-kleine-bilder-iwt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/7e6aa8c6e2-1610141065/1-kleine-bilder-iwt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/iwt/a77b457a72-1608411812/.jobs/kleine-bilder-iwt-1408x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -9203,36 +11910,36 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-352x.jpg.json": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-352x.jpg-min.json",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-352x.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-76x76.jpg.json": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-38x38.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-76x76.jpg-min.json",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-38x38.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-864x.jpg.json": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/.jobs/kleine-bilder-iwt-864x.jpg-min.json",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/.jobs/iwt-merch-864x.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-100x300.jpg": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt-merch-1408x.jpg": {
 		"ft": 16384,
-		"iS": 3416,
+		"iS": 79966,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-100x300.jpg",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt-merch-1408x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9240,12 +11947,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-1408x.jpg": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt-merch-76x76.jpg": {
 		"ft": 16384,
-		"iS": 29443,
+		"iS": 2970,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-1408x.jpg",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt-merch-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9253,12 +11960,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-300x.jpg": {
+	"/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt_merch.jpg": {
 		"ft": 16384,
-		"iS": 14220,
+		"iS": 101040,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-300x.jpg",
+		"oAP": "/media/pages/referenzen/iwt/cd44aef4c7-1610139274/iwt_merch.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9266,12 +11973,36 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-38x38.jpg": {
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/.jobs/1-iwt-logo-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-1408x.jpg": {
 		"ft": 16384,
-		"iS": 1499,
+		"iS": 35771,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-38x38.jpg",
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-1408x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9279,12 +12010,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-400x.jpg": {
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-76x76.jpg": {
 		"ft": 16384,
-		"iS": 20621,
+		"iS": 2007,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-400x.jpg",
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9292,12 +12023,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-400x200.jpg": {
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-800x500.jpg": {
 		"ft": 16384,
-		"iS": 14220,
+		"iS": 23941,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-400x200.jpg",
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-800x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9305,12 +12036,12 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-500x300.jpg": {
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-800x600.jpg": {
 		"ft": 16384,
-		"iS": 23277,
+		"iS": 28659,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-500x300.jpg",
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1-iwt-logo-800x600.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9318,12 +12049,57 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-500x500.jpg": {
+	"/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1_iwt_logo.jpg": {
+		"ft": 16384,
+		"iS": 44100,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/d4e23e3eca-1610139274/1_iwt_logo.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/.jobs/1-intro-bild-iwt-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-500x500.jpg": {
 		"ft": 16384,
 		"iS": 25973,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-500x500.jpg",
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-500x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9331,12 +12107,25 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-600x.jpg": {
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3336,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-800x500.jpg": {
 		"ft": 16384,
 		"iS": 29443,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-600x.jpg",
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-800x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9344,51 +12133,88 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-600x300.jpg": {
-		"ft": 16384,
-		"iS": 23277,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-600x300.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x300.jpg": {
-		"ft": 16384,
-		"iS": 23277,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x300.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x500.jpg": {
-		"ft": 16384,
-		"iS": 29443,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x500.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"ou": "lpckwebp-none",
-		"q": 100,
-		"rq": 75
-		},
-	"/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x600.jpg": {
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-800x600.jpg": {
 		"ft": 16384,
 		"iS": 56310,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/media/pages/referenzen/iwt/fe6126722a-1608411812/kleine-bilder-iwt-800x600.jpg",
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-800x600.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1_intro-bild-iwt.jpg": {
+		"ft": 16384,
+		"iS": 25576,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1_intro-bild-iwt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/.jobs/2-iwt-logodesign-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/2-iwt-logodesign-1408x.jpg": {
+		"ft": 16384,
+		"iS": 29026,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/2-iwt-logodesign-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/2-iwt-logodesign-76x76.jpg": {
+		"ft": 16384,
+		"iS": 1990,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/2-iwt-logodesign-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/iwt/fa25413c72-1610139274/2_iwt_logodesign.jpg": {
+		"ft": 16384,
+		"iS": 39303,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/fa25413c72-1610139274/2_iwt_logodesign.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -9623,14 +12449,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/.jobs/dasbuch-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/.jobs/dasbuch-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/.jobs/dasbuch-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -9769,6 +12587,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/dasbuch-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2874500,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/dasbuch-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/packaging/a0f8ee54f3-1608397774/dasbuch-800x300.jpg": {
 		"ft": 16384,
 		"iS": 2874500,
@@ -9829,14 +12660,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/28f487d340-1609097277/.jobs/zmt-02-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -9871,6 +12694,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/28f487d340-1609097277/zmt-02-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2602,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/28f487d340-1609097277/zmt-02-print-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/28f487d340-1609097277/zmt_02-print.jpg": {
 		"ft": 16384,
 		"iS": 123832,
@@ -9888,14 +12724,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/46aea327f4-1608412328/.jobs/web-zmt-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/46aea327f4-1608412328/.jobs/web-zmt-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/46aea327f4-1608412328/.jobs/web-zmt-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10051,6 +12879,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/46aea327f4-1608412328/web-zmt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3375,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/46aea327f4-1608412328/web-zmt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/46aea327f4-1608412328/web-zmt-800x.jpg": {
 		"ft": 16384,
 		"iS": 146208,
@@ -10137,14 +12978,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/490996ce50-1608816923/.jobs/zmt-02-cd-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10185,6 +13018,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2390,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/490996ce50-1608816923/zmt-02-cd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10263,14 +13109,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/.jobs/zmt-03-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10305,6 +13143,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt-03-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3143,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt-03-print-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/812aee6ca0-1609097277/zmt_03-print.jpg": {
 		"ft": 16384,
 		"iS": 141551,
@@ -10322,14 +13173,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/.jobs/zmt-06-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10374,6 +13217,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2625,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/8fc7ee264a-1608816924/zmt-06-cd-76x76.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10447,14 +13303,6 @@
 		"oO": 0,
 		"oS": 1
 		},
-	"/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-76x76.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/referenzen/zmt/abefb54e84-1609097277/.jobs/zmt-01-print-864x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -10489,6 +13337,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt-01-print-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2717,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt-01-print-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/abefb54e84-1609097277/zmt_01-print.jpg": {
 		"ft": 16384,
 		"iS": 110392,
@@ -10506,14 +13367,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/.jobs/zmt-01-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10565,6 +13418,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/ca49330460-1608816923/zmt-01-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2592,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/ca49330460-1608816923/zmt-01-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/ca49330460-1608816923/zmt_01-cd.jpg": {
 		"ft": 16384,
 		"iS": 76768,
@@ -10582,14 +13448,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/.jobs/zmt-05-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10641,6 +13499,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt-05-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 1998,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt-05-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/d1097231cc-1608816924/zmt_05-cd.jpg": {
 		"ft": 16384,
 		"iS": 50624,
@@ -10658,14 +13529,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/.jobs/zmt-04-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10717,6 +13580,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt-04-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt-04-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/f254798ecc-1608816923/zmt_04-cd.jpg": {
 		"ft": 16384,
 		"iS": 57855,
@@ -10734,14 +13610,6 @@
 		"ft": 524288,
 		"oA": 1,
 		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-352x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
-	"/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-76x76.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/.jobs/zmt-03-cd-76x76.jpg-min.json",
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
@@ -10793,6 +13661,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt-03-cd-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3007,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt-03-cd-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/zmt/f6baac530b-1608816923/zmt_03-cd.jpg": {
 		"ft": 16384,
 		"iS": 97415,
@@ -10806,11 +13687,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png": {
 		"ft": 32768,
 		"iS": 4115,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10819,21 +13700,21 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/css/app.css": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/css/app.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/css/app-min.css",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/css/app-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.png": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.png": {
 		"ft": 32768,
 		"iS": 539,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.png",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -10842,55 +13723,55 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.svg": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/favicon.svg",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/favicon.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/img/icons.svg": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/img/icons.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/img/icons.svg",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/img/icons.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
 		"prP": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/app.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/app.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/app-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/app-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/plugins.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/plugins.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/plugins-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/plugins-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
 		},
-	"/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/vendor.js": {
+	"/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/vendor.js": {
 		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/js/vendor-min.js",
+		"oAP": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/js/vendor-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
@@ -11068,276 +13949,148 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1609104363.6657e9c30b87528db8be.sess": {
+	"/site/sessions/1610486901.672e6670d588fdbcf61b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609104363.6657e9c30b87528db8be.sess",
+		"oAP": "/site/sessions/1610486901.672e6670d588fdbcf61b.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609104363.bc99e337b1425ce4b04a.sess": {
+	"/site/sessions/1610487586.4534f617aecb85b25233.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609104363.bc99e337b1425ce4b04a.sess",
+		"oAP": "/site/sessions/1610487586.4534f617aecb85b25233.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609105255.8ed53a1faac001d3e474.sess": {
+	"/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609105255.8ed53a1faac001d3e474.sess",
+		"oAP": "/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609105255.f47a3cb03e9205447db5.sess": {
+	"/site/sessions/1610493477.77cc0eabdb01284d604b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609105255.f47a3cb03e9205447db5.sess",
+		"oAP": "/site/sessions/1610493477.77cc0eabdb01284d604b.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609109027.4a0ee7e265d4ea100800.sess": {
+	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609109027.4a0ee7e265d4ea100800.sess",
+		"oAP": "/site/sessions/1611348835.c84b1200eda4cf336821.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609112628.e479cdec76fcd156821e.sess": {
+	"/site/sessions/1611348835.dc12f8ef065cc207e2f0.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609112628.e479cdec76fcd156821e.sess",
+		"oAP": "/site/sessions/1611348835.dc12f8ef065cc207e2f0.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609425115.5642fe3ac30f771d5b0b.sess": {
+	"/site/sessions/1611402115.6295460f7b26915199fe.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609425115.5642fe3ac30f771d5b0b.sess",
+		"oAP": "/site/sessions/1611402115.6295460f7b26915199fe.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609425115.ad5b0b68d36988371617.sess": {
+	"/site/sessions/1611402115.e0f9f71a712c1a721499.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609425115.ad5b0b68d36988371617.sess",
+		"oAP": "/site/sessions/1611402115.e0f9f71a712c1a721499.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609428515.1490fcb45b7a3316393e.sess": {
+	"/site/sessions/1611484685.00ee7cb2ba1474db9d7b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609428515.1490fcb45b7a3316393e.sess",
+		"oAP": "/site/sessions/1611484685.00ee7cb2ba1474db9d7b.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609428515.ff3a8e5bc74518528c77.sess": {
+	"/site/sessions/1611484685.d5b9de617ae885770d40.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609428515.ff3a8e5bc74518528c77.sess",
+		"oAP": "/site/sessions/1611484685.d5b9de617ae885770d40.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609428982.5caaa8d4a13544d22dd7.sess": {
+	"/site/sessions/1611485571.700224786dded74c1f4b.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609428982.5caaa8d4a13544d22dd7.sess",
+		"oAP": "/site/sessions/1611485571.700224786dded74c1f4b.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609428982.7ea5a08c4904b716bda1.sess": {
+	"/site/sessions/1611485571.f484fc3236a163fa406d.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609428982.7ea5a08c4904b716bda1.sess",
+		"oAP": "/site/sessions/1611485571.f484fc3236a163fa406d.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609621244.1439704f43ec6565b56e.sess": {
+	"/site/sessions/1611689307.356a413be7ed8258c494.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609621244.1439704f43ec6565b56e.sess",
+		"oAP": "/site/sessions/1611689307.356a413be7ed8258c494.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609621244.a41c7be7ca2215e1a68d.sess": {
+	"/site/sessions/1611689307.7d801bc40b23f86919d3.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609621244.a41c7be7ca2215e1a68d.sess",
+		"oAP": "/site/sessions/1611689307.7d801bc40b23f86919d3.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609766422.42ee4e0cd9c885eb856a.sess": {
+	"/site/sessions/1611690662.98c9fdb1de2481c894fb.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609766422.42ee4e0cd9c885eb856a.sess",
+		"oAP": "/site/sessions/1611690662.98c9fdb1de2481c894fb.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609766422.85f06be5c0277dfc1791.sess": {
+	"/site/sessions/1611690662.eafe5bfa2e3d4f2930d2.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609766422.85f06be5c0277dfc1791.sess",
+		"oAP": "/site/sessions/1611690662.eafe5bfa2e3d4f2930d2.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609774148.c8a01aeded2935a72282.sess": {
+	"/site/sessions/1611692787.4bed37e1a7ae2eba783e.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609774148.c8a01aeded2935a72282.sess",
+		"oAP": "/site/sessions/1611692787.4bed37e1a7ae2eba783e.sess",
 		"oF": 0
 		},
-	"/site/sessions/1609774148.edf842ae50d52cc2e7c2.sess": {
+	"/site/sessions/1611692787.7136c3e5eb7e48ef53e1.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1609774148.edf842ae50d52cc2e7c2.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609776477.2c0c87cb2e4a5cd5aaa5.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609776477.2c0c87cb2e4a5cd5aaa5.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609776477.4f12eff950d629088b98.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609776477.4f12eff950d629088b98.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609863917.66e40be83fbb446f0eb7.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609863917.66e40be83fbb446f0eb7.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609863917.afcd4d4209fe775fa24e.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609863917.afcd4d4209fe775fa24e.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609866401.6a1d886a1e4a0fee8890.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609866401.6a1d886a1e4a0fee8890.sess",
-		"oF": 0
-		},
-	"/site/sessions/1609866401.904ea172b0b2a20b345e.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1609866401.904ea172b0b2a20b345e.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610025342.3b44dd449c20ed50ba37.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610025342.3b44dd449c20ed50ba37.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610025342.60408c238eb184f459d4.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610025342.60408c238eb184f459d4.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610026342.4ca5af2241fbb7641a80.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610026342.4ca5af2241fbb7641a80.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610026342.e53f83ed474c01fc5d49.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610026342.e53f83ed474c01fc5d49.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610028967.3b1cf4ea9192080f7bec.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610028967.3b1cf4ea9192080f7bec.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610028967.5ce8d33f9b7e887bd3bd.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610028967.5ce8d33f9b7e887bd3bd.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610124423.c11263a5e0eb6e28cb5a.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610124423.c11263a5e0eb6e28cb5a.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610124423.e9d40812a11dbc90bb22.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610124423.e9d40812a11dbc90bb22.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610220740.c512c5e23e69078d1621.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610220740.c512c5e23e69078d1621.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610220740.d4c5f824d07856619284.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610220740.d4c5f824d07856619284.sess",
+		"oAP": "/site/sessions/1611692787.7136c3e5eb7e48ef53e1.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {
@@ -11453,7 +14206,7 @@
 	"creationDate": 630090942.86176097,
 	"displayValue": "plainkit-master",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "/media/panel/6c7cf65934d9cb4da34dd7f174cb8bab/apple-touch-icon.png",
+	"iconImageName": "/media/panel/c45454a225fb911ddb8f9c192a897fdd/apple-touch-icon.png",
 	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {

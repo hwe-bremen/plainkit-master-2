@@ -1,0 +1,37 @@
+Title: //03_Webentwicklung
+
+----
+
+Tags: 03_Webentwicklung
+
+----
+
+Headline: 03_Webentwicklung
+
+----
+
+Introtext: Die technische Entwicklung stellt höchste Ansprüche – an Funktionalität, performantem Code und individueller Anwendungsprogrammierung.
+
+----
+
+Cover: - bild_portfolio_3.jpg
+
+----
+
+Haupttext: Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Textarea: <b>Drei disque sapid ut incto</B> bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni.

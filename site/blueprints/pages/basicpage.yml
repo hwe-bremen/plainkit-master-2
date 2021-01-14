@@ -40,6 +40,9 @@ fields:
   Haupttext:
     type: textarea
     label: Haupttext
+  toggle:
+    label: Zusätzliche Daten
+    type: toggle
   gallery:
     type: files
     label: gallery-1
@@ -47,9 +50,13 @@ fields:
     template: gallery
       image:
         cover: true 
+    when:
+      toggle: true
   Abschluss:
     type: textarea
     label: Abschluss
+    when:
+      toggle: true
   gallery_zwei:
     type: files
     label: gallery-2
@@ -57,3 +64,9 @@ fields:
     template: gallery
       image:
         cover: true 
+    when:
+      toggle: true        
+
+
+
+       

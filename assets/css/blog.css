@@ -23,6 +23,7 @@
 }
 
 article h2 {
+  grid-row: 1;
   grid-column: 1 / span 6;
 }
 
@@ -39,11 +40,13 @@ article img {
 
 }
 
-.grid-blog article p {
+.grid_blog--bodytext {
   position: relative;
   grid-row: 4;
-  grid-column: 1 / span 6;
+  grid-column: 1 / span 8;
   align-self: start;
+  display: flex;
+  justify-content: flex-start;
   margin-bottom: 5rem;
   margin-inline-end: 2rem;
 }

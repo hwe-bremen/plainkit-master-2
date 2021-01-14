@@ -1,4 +1,4 @@
-Title: ZMT
+Title: Leibniz Institut für Marine und Tropenforschung
 
 ----
 
@@ -21,6 +21,10 @@ Cover:
 ----
 
 Haupttext: **Ein professioneller Kommunikationsauftritt gehört heute selbstverständlich zur Grundausstattung.** Wie Unternehmen aus der Wirtschaft sind sie gefordert ihre Corporate Identity durch einen starken visuellen Auftritt nach außen zu tragen.<br><br>**Das Leibniz Institut für Marine und Tropenforschung (ZMT) **entschied sich daher 2015 zu einem Redesign seines über 20 Jahre alten Logos. Zeitgleich wurde dies mit der Entwicklung und Umsetzung eines Corporate Designs für das Institut verbunden. Damit zusammenhängend musste der in die Jahre gekommene Internetauftritt neu gestaltet und technologisch auf dem neuesten Stand gebracht werden. **du:**projekt initiierte zu Beginn des Prozesses einen gemeinsamen Workshop mit dem CD-Leitungsteam des ZMT.
+
+----
+
+Toggle: true
 
 ----
 

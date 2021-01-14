@@ -1,12 +1,28 @@
-Title: Leistungen
+Title: //Leistungen
 
 ----
 
-Headline: Portfolio hauptseite
+Headline: Geschwindigkeit ist nicht immer zielführend.
 
 ----
 
-Text: Das wird hier mein erster Versuch im Portfolio.
+Introtext: Wir sind zu lange im Geschäft um nicht zu wissen, dass es häufig besser ist, in eine Karte zu schauen als loszurennen. Gerade wenn die Versuchung groß sein mag.
+
+----
+
+Toggle: true
+
+----
+
+Bodytext:
+
+Daher schätzen wir besonders ein Innehalten vor jedem Start. Die Zeit zu nutzen, um die Frage nach dem warum, wohin, wofür ernsthaft zu stellen und dazu die notwendige Zeit einzufordern. Gerade mit den digitalen Möglichkeiten ist heute schnell eine Kommunikationsbotschaft erstellt aber deswegen noch lange nicht zielführend formuliert und umgesetzt. 
+
+Dennoch geht es im gegenwärtigen Mediengetümmel auch darum mit der schnell umgesetzte Idee einmal vorzupreschen und sich auf ein Wagnis einzulassen. Hier gemeinsam abzuwägen und offen zu sein, verschiedene Geschwindigkeiten zu fahren ist für uns Teil einer guten Beratung und am Ende die Grundlage einer guten Konzeption.
+
+----
+
+Text: 
 
 ----
 
@@ -23,3 +39,27 @@ Cover:
 ----
 
 Titel: Portfolio
+
+----
+
+Tags: 
+
+----
+
+Haupttext: 
+
+----
+
+Gallery: 
+
+----
+
+Abschluss: 
+
+----
+
+Gallery-zwei: 
+
+----
+
+Zusatztext: 1

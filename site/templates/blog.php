@@ -11,9 +11,11 @@
       <h2 class="blog_head"><?= $page->headline()->html() ?></h2>
         <?= $page->image() ?>
         <h3><?= $page->introtext()->html() ?> </h3>
-     
-       <?= $page->textarea()->kirbytext() ?>
-      <a href="<?= url('blog') ?>">Back…</a>
+  
+       <span class="grid_blog--bodytext">
+       <?= $page->blocks()->toBlocks() ?>
+              <a href="<?= url('blog') ?>">Back…</a>
+        </span>
     </article> 
 </section> 
 

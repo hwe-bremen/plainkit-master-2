@@ -5,6 +5,7 @@ options:
     - blog
     - portfolio
     - basicpage
+    - basicpage_main
 
 fields:
   Headline:
