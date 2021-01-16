@@ -1,0 +1,24 @@
+title: blog
+preset: page
+options:
+  changeTemplate:
+    - blog
+    - portfolio
+    - basicpage
+
+fields:
+  blocks:
+    type: blocks
+    label: Blockbereich
+    fieldsets:
+      - heading
+      - text
+      - image
+    
+      
+    
+  cover:
+    type: files 
+    headline: Cover
+    layout: cards
+    template: image

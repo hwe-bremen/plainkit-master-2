@@ -7,21 +7,25 @@ options:
     - basicpage
 
 fields:
-  Headline:
-    type: text
-  Introtext:
-    type: textarea
-  blocks:
-    type: blocks
+  layout:
+    type: layout
+    label: Blockbereich
+    layouts:
+      - "1/1"
+      - "1/2, 1/2"
+      - "2/3, 1/3"
     fieldsets:
       - heading
       - text
-      - image
-    
-      
-    
-  cover:
-    type: files 
-    headline: Cover
-    layout: cards
-    template: image
+      image:
+        extends: blocks/image
+        fields:
+          class:
+            label: class
+            type: text
+    settings:
+      fields:
+        class:
+          type: text
+          width: 1/4
+  

@@ -101,6 +101,16 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/assets/css/blog2.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/blog2-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/assets/css/header_unterseiten-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -1554,6 +1564,35 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/4_blogs/1_blog/iwt_aussenansicht.jpg.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/2_test-2/blog.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/2_test-2/blog.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/2_test-2/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/2_test-2/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/4_blogs/2_test-2/zmt-akademie.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/2_test-2/zmt-akademie.jpg.txt",
 		"oF": 0
 		},
 	"/content/4_blogs/basicpage_main.txt": {
@@ -6340,6 +6379,122 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/blog/e266f806fd-1608397774/iwt-aussenansicht-38x38.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/.jobs/zmt-akademie-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/zmt-akademie-76x76.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/zmt-akademie-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/9d7e9b2a5f-1610830176/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg": {
+		"ft": 16384,
+		"iS": 81469,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -13871,6 +14026,14 @@
 		"oAP": "/site/blueprints/pages/blog.yml",
 		"oF": 0
 		},
+	"/site/blueprints/pages/blog2.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/blueprints/pages/blog2.yml",
+		"oF": 0
+		},
 	"/site/blueprints/pages/default.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -13949,36 +14112,44 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610486901.672e6670d588fdbcf61b.sess": {
+	"/site/sessions/1610835268.a7e9208cd6cab694103d.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610486901.672e6670d588fdbcf61b.sess",
+		"oAP": "/site/sessions/1610835268.a7e9208cd6cab694103d.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610487586.4534f617aecb85b25233.sess": {
+	"/site/sessions/1610835268.fd9f22fefb9324d184e0.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610487586.4534f617aecb85b25233.sess",
+		"oAP": "/site/sessions/1610835268.fd9f22fefb9324d184e0.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess": {
+	"/site/sessions/1610837132.5e8e36bc9c5ada07e2b0.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610490361.b3c4fc75226bd6bc0e77.sess",
+		"oAP": "/site/sessions/1610837132.5e8e36bc9c5ada07e2b0.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610493477.77cc0eabdb01284d604b.sess": {
+	"/site/sessions/1610837132.82e1bd0fee1bdcc92409.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610493477.77cc0eabdb01284d604b.sess",
+		"oAP": "/site/sessions/1610837132.82e1bd0fee1bdcc92409.sess",
+		"oF": 0
+		},
+	"/site/sessions/1610838035.ba51b8e4e4eff6382fe1.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1610838035.ba51b8e4e4eff6382fe1.sess",
 		"oF": 0
 		},
 	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {
@@ -14093,6 +14264,86 @@
 		"oAP": "/site/sessions/1611692787.7136c3e5eb7e48ef53e1.sess",
 		"oF": 0
 		},
+	"/site/sessions/1612021488.57dd6d14740ee14b2108.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612021488.57dd6d14740ee14b2108.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612021488.ef24d0417742f4453f1b.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612021488.ef24d0417742f4453f1b.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612022727.21749f7e4855274e5edb.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612022727.21749f7e4855274e5edb.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612022727.4f123e91cddebd3e47e2.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612022727.4f123e91cddebd3e47e2.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612031149.11912dca0b2187e120a8.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612031149.11912dca0b2187e120a8.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612031149.8bbffa2cea32ccf1bfca.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612031149.8bbffa2cea32ccf1bfca.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612032364.91d6f99d8c45fa753c64.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612032364.91d6f99d8c45fa753c64.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612032364.c533085b9ce561fd40c8.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612032364.c533085b9ce561fd40c8.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612041401.3020515c7e53898441df.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612041401.3020515c7e53898441df.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612041401.38194978ec89a9c62f96.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612041401.38194978ec89a9c62f96.sess",
+		"oF": 0
+		},
 	"/site/sessions/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -14171,6 +14422,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/templates/blog.php",
+		"oF": 0
+		},
+	"/site/templates/blog2.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/blog2.php",
 		"oF": 0
 		},
 	"/site/templates/default.php": {

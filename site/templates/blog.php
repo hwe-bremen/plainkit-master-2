@@ -4,20 +4,37 @@
             <?php snippet('header_unterseiten') ?>
 
 
-<section id="blog" >
+<!-- Bereich BLOG -->  
+<p class="datum"><?= $page->published()->toDate('d.m.Y') ?></p>   
+<?php foreach ($page->layout()->toLayouts() as $layout): ?>
+<section class="grid_blogbeitrag" id="<?= $layout->id() ?>">
+  <?php foreach ($layout->columns() as $column): ?>
+  <div class="column column_spalte" style="--span:<?= $column->span() ?>">
+    <div class="blocks">
+      <?= $column->blocks() ?>
+    </div>
+  </div>
+  <?php endforeach ?>
+</section>
+<?php endforeach ?>
 
-  <article class="grid-blog">
-  <p class="datum"><?= $page->published()->toDate('d.m.Y') ?></p>
-      <h2 class="blog_head"><?= $page->headline()->html() ?></h2>
-        <?= $page->image() ?>
-        <h3><?= $page->introtext()->html() ?> </h3>
-  
-       <span class="grid_blog--bodytext">
-       <?= $page->blocks()->toBlocks() ?>
-              <a href="<?= url('blog') ?>">Back…</a>
-        </span>
-    </article> 
-</section> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 </main>

@@ -37,6 +37,8 @@ h2 {
 h3 {
   font-size: var(--head_drei);
   line-height: var(--head_drei_zeile);
+  text-decoration: underline var( --corporate_color);
+  -webkit-text-decoration: underline var( --corporate_color);
 }
 p {
   font-size: var(--paragraph_zwei);
@@ -233,8 +235,6 @@ h2::after {
 h3.grid-inhalt {
   grid-column: 1 / span 8;
   margin-bottom: 4rem;
-  text-decoration: underline var( --corporate_color);
-  -webkit-text-decoration: underline var( --corporate_color);
 }
 
 /* Home CARDS ___________________________________________*/
