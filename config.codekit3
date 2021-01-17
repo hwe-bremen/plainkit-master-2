@@ -1574,6 +1574,27 @@
 		"oAP": "/content/4_blogs/2_test-2/blog.txt",
 		"oF": 0
 		},
+	"/content/4_blogs/2_test-2/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/2_test-2/uebersicht-infografik-zmt.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/4_blogs/2_test-2/uebersicht-infografik-zmt.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/2_test-2/uebersicht-infografik-zmt.jpg.txt",
+		"oF": 0
+		},
 	"/content/4_blogs/2_test-2/zmt-akademie.jpg": {
 		"ft": 16384,
 		"iS": 81469,
@@ -1595,12 +1616,83 @@
 		"oAP": "/content/4_blogs/2_test-2/zmt-akademie.jpg.txt",
 		"oF": 0
 		},
-	"/content/4_blogs/basicpage_main.txt": {
+	"/content/4_blogs/3_blog-drei/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/4_blogs/3_blog-drei/02_gestaltung_weihnachtsaussendung.jpg.txt": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/content/4_blogs/basicpage_main.txt",
+		"oAP": "/content/4_blogs/3_blog-drei/02_gestaltung_weihnachtsaussendung.jpg.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/3_blog-drei/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/4_blogs/3_blog-drei/08_messewand-beleuchtet.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/08_messewand-beleuchtet.jpg.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/3_blog-drei/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/11_messestand-leuchtkubus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/content/4_blogs/3_blog-drei/11_messestand-leuchtkubus.jpg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/11_messestand-leuchtkubus.jpg.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/3_blog-drei/blog.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/3_blog-drei/blog.txt",
+		"oF": 0
+		},
+	"/content/4_blogs/blog_main.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/blog_main.txt",
 		"oF": 0
 		},
 	"/content/error/error.txt": {
@@ -6197,6 +6289,351 @@
 		"oAP": "/media/index.html",
 		"oF": 0
 		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-1408x.jpg": {
+		"ft": 16384,
+		"iS": 76674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-800x500.jpg": {
+		"ft": 16384,
+		"iS": 62706,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/02-gestaltung-weihnachtsaussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/02-gestaltung-weihnachtsaussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/2cc1f6b116-1610919358/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/.jobs/02-gestaltung-weihnachtsaussendung-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/02-gestaltung-weihnachtsaussendung-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2999,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/02-gestaltung-weihnachtsaussendung-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/2ce09d201e-1610919358/02_gestaltung_weihnachtsaussendung.jpg": {
+		"ft": 16384,
+		"iS": 51719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/2ce09d201e-1610919358/02_gestaltung_weihnachtsaussendung.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/.jobs/08-messewand-beleuchtet-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/08-messewand-beleuchtet-76x76.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/08-messewand-beleuchtet-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/82a160b7ed-1610919367/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/82a160b7ed-1610919367/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/8c053e48d1-1610919379/.jobs/11-messestand-leuchtkubus-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/8c053e48d1-1610919379/11-messestand-leuchtkubus-1408x.jpg": {
+		"ft": 16384,
+		"iS": 76674,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/8c053e48d1-1610919379/11-messestand-leuchtkubus-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/8c053e48d1-1610919379/11-messestand-leuchtkubus-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3092,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/8c053e48d1-1610919379/11-messestand-leuchtkubus-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/.jobs/08-messewand-beleuchtet-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/08-messewand-beleuchtet-76x76.jpg": {
+		"ft": 16384,
+		"iS": 3826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/08-messewand-beleuchtet-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/08_messewand-beleuchtet.jpg": {
+		"ft": 16384,
+		"iS": 123470,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/f968d9f9c9-1610919367/08_messewand-beleuchtet.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/blogs/blog/75d433bbc7-1608397774/.jobs/iwt-aussenansicht-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6245,6 +6682,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-800x500.jpg": {
+		"ft": 16384,
+		"iS": 255741,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog/75d433bbc7-1608397774/iwt-aussenansicht-800x500.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6495,6 +6945,77 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-1408x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-1408x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-352x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-352x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-38x38.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-38x38.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-864x.jpg.json": {
+		"ft": 524288,
+		"oA": 1,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/.jobs/uebersicht-infografik-zmt-864x.jpg-min.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt-76x76.jpg": {
+		"ft": 16384,
+		"iS": 2895,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt-76x76.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt-800x500.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt.jpg": {
+		"ft": 16384,
+		"iS": 125944,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/ffa04e7cab-1610900791/uebersicht-infografik-zmt.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -14034,6 +14555,14 @@
 		"oAP": "/site/blueprints/pages/blog2.yml",
 		"oF": 0
 		},
+	"/site/blueprints/pages/blog_main.yml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/blueprints/pages/blog_main.yml",
+		"oF": 0
+		},
 	"/site/blueprints/pages/default.yml": {
 		"cB": 0,
 		"ft": 8192,
@@ -14088,6 +14617,14 @@
 		"oAP": "/site/models/basicpage.php",
 		"oF": 0
 		},
+	"/site/models/blog.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/models/blog.php",
+		"oF": 0
+		},
 	"/site/models/home.php": {
 		"cB": 0,
 		"ft": 8192,
@@ -14112,44 +14649,20 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610835268.a7e9208cd6cab694103d.sess": {
+	"/site/sessions/1610905382.62eac07d138d1f1e4cad.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610835268.a7e9208cd6cab694103d.sess",
+		"oAP": "/site/sessions/1610905382.62eac07d138d1f1e4cad.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610835268.fd9f22fefb9324d184e0.sess": {
+	"/site/sessions/1610927036.121a4c5facb80b76ff27.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610835268.fd9f22fefb9324d184e0.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610837132.5e8e36bc9c5ada07e2b0.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610837132.5e8e36bc9c5ada07e2b0.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610837132.82e1bd0fee1bdcc92409.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610837132.82e1bd0fee1bdcc92409.sess",
-		"oF": 0
-		},
-	"/site/sessions/1610838035.ba51b8e4e4eff6382fe1.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1610838035.ba51b8e4e4eff6382fe1.sess",
+		"oAP": "/site/sessions/1610927036.121a4c5facb80b76ff27.sess",
 		"oF": 0
 		},
 	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {
@@ -14344,6 +14857,54 @@
 		"oAP": "/site/sessions/1612041401.38194978ec89a9c62f96.sess",
 		"oF": 0
 		},
+	"/site/sessions/1612100170.27ed24bde2f4e69971fd.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612100170.27ed24bde2f4e69971fd.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612100170.7dfa091887389ccc1973.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612100170.7dfa091887389ccc1973.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612110333.c4bd54e49f933134b73e.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612110333.c4bd54e49f933134b73e.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612110333.c762d8e5f9fb3c9ae2d1.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612110333.c762d8e5f9fb3c9ae2d1.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612129441.2f0e56d968e9709ee2ae.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612129441.2f0e56d968e9709ee2ae.sess",
+		"oF": 0
+		},
+	"/site/sessions/1612129441.c895c6a023308484c749.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1612129441.c895c6a023308484c749.sess",
+		"oF": 0
+		},
 	"/site/sessions/index.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -14430,6 +14991,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/templates/blog2.php",
+		"oF": 0
+		},
+	"/site/templates/blog_main.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/blog_main.php",
 		"oF": 0
 		},
 	"/site/templates/default.php": {

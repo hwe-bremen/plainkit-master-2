@@ -1,0 +1,21 @@
+Title: :BLOG
+
+----
+
+Headline: Was zu berichten wäre
+
+----
+
+Introtext: blaaaaaaaa
+
+----
+
+Toggle: false
+
+----
+
+Bodytext: 
+
+----
+
+Text: Oberseite

@@ -2,7 +2,25 @@ Title: du:BLOG
 
 ----
 
-Layout: [{"attrs":{"class":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Designkonzept f\u00fcrs das IWT fertig gestellt!"},"id":"bb8291bd-a3d6-4b94-b29a-5d2c192b7420","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt."},"id":"17fecf2f-1549-4ede-a576-e45b4a79d798","isHidden":false,"type":"heading"}],"id":"cea28e97-5c48-41c1-98e4-280e733a3952","width":"1\/2"},{"blocks":[{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr<\/p>"},"id":"3dfde8b8-53a2-4582-ac09-fc6579bcecd3","isHidden":false,"type":"text"}],"id":"e0b3c2cf-ab5f-4feb-8f29-925220bc6476","width":"1\/2"}],"id":"e1636807-0688-49a6-9ea6-668c54650be9"}]
+Tags: Corporate Design
+
+----
+
+Headline: Corporate Design Prozess
+
+----
+
+Introtext: **du projekt hat den kompletten Corporate Design Prozess für das **<br>Bremer Institut für Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.
+
+----
+
+Cover:
+
+- iwt_aussenansicht.jpg
+
+----
+
+Layout: [{"attrs":{"class":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Designkonzept f\u00fcrs das IWT fertig gestellt!"},"id":"83c09e5a-d2eb-4abe-8f07-db853937ea9a","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt."},"id":"df3d86f2-cea6-4427-bfdb-166e459603e8","isHidden":false,"type":"heading"},{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.<\/p>"},"id":"f3274aab-e53e-4800-b31a-ddf46e505eb5","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["iwt_aussenansicht.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false","class":""},"id":"518d4587-7df6-438b-905d-00e03cfacd4a","isHidden":false,"type":"image"},{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr<\/p>"},"id":"000fb0c5-b4c6-4f97-a7b7-57292734f363","isHidden":false,"type":"text"}],"id":"fec5afe3-a0e1-472c-ba48-250c4f9f6942","width":"2\/3"},{"blocks":[{"content":{"location":"kirby","image":["iwt_aussenansicht.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false","class":""},"id":"0b0f3aab-176e-4074-bde8-fa9fb0831790","isHidden":false,"type":"image"}],"id":"b12e3e3c-c533-43b9-98a9-95225d7ecb5e","width":"1\/3"}],"id":"bb3f3c2e-1287-4cb5-b50f-03e0f2571bce"}]
 
 ----
 

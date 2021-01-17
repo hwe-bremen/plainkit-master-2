@@ -1,7 +1,7 @@
 <?php
 
 
-class BasicpagePage extends Page
+class BlogPage extends Page
 {
     public function cover()
 {
@@ -9,4 +9,5 @@ class BasicpagePage extends Page
 
 }
 }
+
 ?>

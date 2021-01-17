@@ -13,10 +13,13 @@
     <div class="blocks">
       <?= $column->blocks() ?>
     </div>
+
   </div>
   <?php endforeach ?>
+  <a href="<?= url('blogs') ?>">Back…</a>
 </section>
 <?php endforeach ?>
+             
 
 
 
