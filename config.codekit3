@@ -1687,6 +1687,26 @@
 		"oAP": "/content/4_blogs/3_blog-drei/blog.txt",
 		"oF": 0
 		},
+	"/content/4_blogs/blog_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/blog_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/content/4_blogs/blog_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/content/4_blogs/blog_main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/content/4_blogs/blog_main.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -6289,6 +6309,26 @@
 		"oAP": "/media/index.html",
 		"oF": 0
 		},
+	"/media/pages/blogs/72e0af2eac-1611263247/blog_main-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/72e0af2eac-1611263247/blog_main-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/media/pages/blogs/834084230b-1611263246/blog_main.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/834084230b-1611263246/blog_main-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/.jobs/11-messestand-leuchtkubus-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6345,6 +6385,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11-messestand-leuchtkubus-800x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11_messestand-leuchtkubus.jpg": {
+		"ft": 16384,
+		"iS": 64429,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/blog-drei/1d3db2d3fa-1610919379/11_messestand-leuchtkubus.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -6894,14 +6947,6 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-1408x.jpg.json": {
-		"ft": 524288,
-		"oA": 1,
-		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-1408x.jpg-min.json",
-		"oF": 0,
-		"oO": 0,
-		"oS": 1
-		},
 	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/.jobs/zmt-akademie-352x.jpg.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -6925,6 +6970,19 @@
 		"oF": 0,
 		"oO": 0,
 		"oS": 1
+		},
+	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-1408x.jpg": {
+		"ft": 16384,
+		"iS": 66147,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-1408x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
 		},
 	"/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-76x76.jpg": {
 		"ft": 16384,
@@ -14649,20 +14707,44 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1610905382.62eac07d138d1f1e4cad.sess": {
+	"/site/sessions/1611267516.ff89de575e514e1578a3.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610905382.62eac07d138d1f1e4cad.sess",
+		"oAP": "/site/sessions/1611267516.ff89de575e514e1578a3.sess",
 		"oF": 0
 		},
-	"/site/sessions/1610927036.121a4c5facb80b76ff27.sess": {
+	"/site/sessions/1611268417.310502d2af48a57ab560.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1610927036.121a4c5facb80b76ff27.sess",
+		"oAP": "/site/sessions/1611268417.310502d2af48a57ab560.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611268417.82fac3139af889e8114c.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611268417.82fac3139af889e8114c.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611272023.35ab40d9e4eda40676a4.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611272023.35ab40d9e4eda40676a4.sess",
+		"oF": 0
+		},
+	"/site/sessions/1611272023.685bdc25c9e10c13bbd5.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1611272023.685bdc25c9e10c13bbd5.sess",
 		"oF": 0
 		},
 	"/site/sessions/1611348835.c84b1200eda4cf336821.sess": {

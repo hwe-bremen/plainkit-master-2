@@ -18,15 +18,22 @@ fields:
   Headline:
       type: text
       width: 2/3
-  Introtext:
-      type: textarea
-  cover:
-      type: files 
-      headline: Cover
-      layout: cards
-      template: image
-      image:
-          cover: true 
+  blocks:
+      type: blocks
+      width: 1/2
+      label: Card
+      fieldsets:
+        - image
+        text:
+          fields:
+            info:
+              label: Info
+              type: info
+              text: |
+                Bitte nicht mehr als 250 Zeichen verwenden.
+            text: 
+              type: text
+              maxlength: 250     
   layout:
     type: layout
     label: Blockbereich

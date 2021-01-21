@@ -10,7 +10,6 @@
   
 
 <!-- custom css -->
-<?= css($page->files()->filterBy('extension', 'css')->pluck('url')) ?>
 
 <?= css([
         'assets/css/mystyle-min.css',
@@ -20,6 +19,9 @@
         'assets/css/basicpage-min.css', 
         'assets/css/slick-min.css',  
  ])  ?> 
+
+<?= css($page->files()->filterBy('extension', 'css')->pluck('url')) ?>
+
 
 <link rel="stylesheet" href="https://use.typekit.net/nct2ili.css">
 

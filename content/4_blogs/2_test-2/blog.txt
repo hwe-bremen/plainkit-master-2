@@ -10,12 +10,79 @@ Headline: du projekt hat den kompletten Corporate
 
 ----
 
-Introtext: **du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.**<br>du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.
-
-----
-
-Cover: 
+Blocks: [{"content":{"location":"kirby","image":["zmt-akademie.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"7914cdcf-8d25-4649-8c60-8dead1408463","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>du projekt hat den kompletten Corporate<\/strong><\/p><p>Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt. du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut ...<\/p>"},"id":"3a01a27c-2aea-41ea-b235-d3fafdd393f5","isHidden":false,"type":"text"}]
 
 ----
 
 Layout: [{"attrs":{"class":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Designkonzept f\u00fcrs das IWT fertig gestellt!"},"id":"8172e681-2785-43fa-8829-144c93752a84","isHidden":false,"type":"heading"},{"content":{"level":"h3","text":"du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt."},"id":"f9f21f6a-f46d-4496-b1b4-29b017f5af46","isHidden":false,"type":"heading"},{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt. du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.<\/p>"},"id":"76f8a915-12c7-4fee-834e-d7d527ad60e5","isHidden":false,"type":"text"},{"content":{"location":"kirby","image":["zmt-akademie.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false","class":"test"},"id":"736b45fc-6d30-428a-9207-7dc696d9f7bf","isHidden":false,"type":"image"},{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt.<\/p>"},"id":"97d3101e-334b-4945-9282-bf9366d3741a","isHidden":false,"type":"text"}],"id":"06fb0648-1c60-412e-9c59-c9809d33527e","width":"1\/2"},{"blocks":[{"content":{"location":"kirby","image":["uebersicht-infografik-zmt.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false","class":""},"id":"2fcbfb2b-a97a-458e-a704-154adb82cf51","isHidden":false,"type":"image"}],"id":"6b88149e-17c4-4b36-ab87-60e8b2a0fb25","width":"1\/2"}],"id":"2a8f9c51-62d3-4462-81c6-d8624f60fc6b"}]
+
+----
+
+Introtext: **du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.**<br>du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.
+
+----
+
+Cover:
+
+- 
+  filename: zmt-akademie.jpg
+  dragText: '(image: zmt-akademie.jpg)'
+  icon:
+    type: file-image
+    ratio: 3/2
+    back: pattern
+    color: '#de935f'
+    cover: true
+    url: >
+      http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-352x.jpg
+        352w,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-864x.jpg
+        864w,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-38x38.jpg
+        1x,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-76x76.jpg
+        2x
+  id: blogs/test-2/zmt-akademie.jpg
+  image:
+    ratio: 3/2
+    back: pattern
+    cover: true
+    url: >
+      http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg
+    cards:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-352x.jpg
+        352w,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-864x.jpg
+        864w,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-1408x.jpg
+        1408w
+    list:
+      url: >
+        data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw
+      srcset: >
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-38x38.jpg
+        1x,
+        http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie-76x76.jpg
+        2x
+  info: ""
+  link: >
+    /pages/blogs+test-2/files/zmt-akademie.jpg
+  text: zmt-akademie.jpg
+  type: image
+  url: >
+    http://du-projekt:8888/media/pages/blogs/test-2/c4f2c868e2-1610830176/zmt-akademie.jpg
+  uuid: zmt-akademie.jpg

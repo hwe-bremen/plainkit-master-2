@@ -23,11 +23,12 @@
                         <h2 class="hero_head"><?= $page->headline()->html() ?></h2>
                 <span class="zierbalken-gruen"></span>
         </div>
-        <h3 class="grid-inhalt"><?= $page->introtext()->html() ?></h3>
-        <span class="grid-body"><?= $page->bodytext()->kirbytext() ?></span>
+       
+
        
 </section> 
 
+<!-- Blog-Schlagwörter-->
 
 <nav class="nav_filter">
         <a href="<?= $page->url() ?>">All</a>
@@ -36,24 +37,19 @@
         <?php endforeach ?>
 </nav>
 
-
+<!-- Blog-Cards-->
 <section id="card_liste">
          <?php foreach ($blog as $blog): ?>
-<article>
-
-         <?php if ($cover = $blog->cover()): ?><?= $cover->resize(800, 500) ?>
-         <?php endif ?>
-            <p><?= $blog->headline()->html() ?></p>
-               <p class="card_text--groesse"><?= $blog->introtext()->html()->excerpt(250) ?></p>
-               <small><?= $blog->tags()->html() ?></small>
-                
-  <button class="button_standard"> <a class="button_standard--link" href="<?= $blog->url() ?>"> mehr </a> </button>
-    
-</article> 
-
-
+                <a href="<?= $blog->url() ?>">
+        <article class="blog_liste--style">
+                <?= $blog->blocks()->toBlocks() ?>
+                        <small><?= $blog->tags()->html() ?></small>         
+                        
+                               
+                        
+        </article> 
+        </a> 
         <?php endforeach ?>
-
 </section>
 
 
