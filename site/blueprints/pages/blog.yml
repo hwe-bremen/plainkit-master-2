@@ -15,12 +15,15 @@ fields:
         - Corporate Design
         - Workshop
         - Webentwicklung
-  Headline:
-      type: text
-      width: 2/3
+  published:
+      type: date
+      display: DD.MM.YYYY
+      label: Published on
+      default: today
+      width: 1/3
   blocks:
       type: blocks
-      width: 1/2
+      width: 1/3
       label: Card
       fieldsets:
         - image

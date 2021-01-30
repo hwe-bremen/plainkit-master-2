@@ -71,6 +71,12 @@ transform: scale(1.02);
   width: 100%;
 }
 
+#card_liste article time:nth-child(5) {
+  align-self: flex-start;
+  font-size: 0.9rem;
+  margin: 0.3rem 0 0 0;
+  width: 100%;
+}
 
 #card_liste article .button_standard:last-child  {
   margin: 1.5rem 0 0 0;

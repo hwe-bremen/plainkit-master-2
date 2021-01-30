@@ -22,12 +22,4 @@ Cover: - iwt_aussenansicht.jpg
 
 ----
 
-Introtext: **du projekt hat den kompletten Corporate Design Prozess für das **<br>Bremer Institut für Werkstofforientierte Technologien umgesetzt.du projekt hat den kompletten Corporate Design Prozess für das Bremer Institut für Werkstofforientierte Technologien umgesetzt.
-
-----
-
-Text: [{"content":{"text":"<p>du projekt hat den kompletten Corporate Design Prozess f\u00fcr das <strong>Bremer Leibniz Institut f\u00fcr Werkstofforientierte Technologien<\/strong> umgesetzt. Vom Re-Design des neuen Logos \u00fcber die Website bis hin zur Gestaltung des Au\u00dfen- und Eingangsbereiches haben wir das Institut bei allen wichtigen Schritten begleitet. Wir bedanken uns f\u00fcr die tolle Zusammenarbeit und freuen uns auf viel weitere spannende Projekte. du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt. Vom Re-Design des neuen Logos \u00fcber die Website bis hin zur Gestaltung des Au\u00dfen- und Eingangsbereiches haben wir das Institut bei allen wichtigen Schritten begleitet. Wir bedanken uns f\u00fcr die tolle Zusammenarbeit und freuen uns auf viel weitere spannende Projekte.<\/p>"},"id":"5a793ea8-23b6-4517-8e20-d3b62e904ad9","isHidden":false,"type":"text"}]
-
-----
-
 Published: 2020-12-17

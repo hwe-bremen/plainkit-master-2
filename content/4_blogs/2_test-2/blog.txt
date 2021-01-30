@@ -6,11 +6,11 @@ Tags: Infografik
 
 ----
 
-Headline: du projekt hat den kompletten Corporate
+Published: 2020-12-28
 
 ----
 
-Blocks: [{"content":{"location":"kirby","image":["zmt-akademie.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"7914cdcf-8d25-4649-8c60-8dead1408463","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>du projekt hat den kompletten Corporate<\/strong><\/p><p>Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt. du projekt hat den kompletten Corporate Design Prozess f\u00fcr das Bremer Institut ...<\/p>"},"id":"3a01a27c-2aea-41ea-b235-d3fafdd393f5","isHidden":false,"type":"text"}]
+Blocks: [{"content":{"location":"kirby","image":["zmt-akademie.jpg"],"src":"","alt":"","caption":null,"link":"","ratio":"","crop":"false"},"id":"7914cdcf-8d25-4649-8c60-8dead1408463","isHidden":false,"type":"image"},{"content":{"text":"<p><strong>du projekt hat den kompletten Corporate<\/strong><\/p><p>Design Prozess f\u00fcr das Bremer Institut f\u00fcr Werkstofforientierte Technologien umgesetzt. du projekt hat den kompletten Corporate Design Prozess ...<\/p>"},"id":"3a01a27c-2aea-41ea-b235-d3fafdd393f5","isHidden":false,"type":"text"}]
 
 ----
 

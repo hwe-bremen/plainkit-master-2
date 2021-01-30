@@ -5,7 +5,7 @@
 
 
 <!-- Bereich BLOG -->  
-<p class="datum"><?= $page->published()->toDate('d.m.Y') ?></p>   
+<time><p class="datum"><?= $page->published()->toDate('d-m-y') ?></p></time>   
 <?php foreach ($page->layout()->toLayouts() as $layout): ?>
 <section class="grid_blogbeitrag" id="<?= $layout->id() ?>">
   <?php foreach ($layout->columns() as $column): ?>

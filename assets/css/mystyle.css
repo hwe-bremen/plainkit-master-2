@@ -195,7 +195,7 @@ nav li:last-child a {
   grid-template-columns: repeat(12, minmax(50px, 1fr));
 }
 #inhalt {
-  margin-top: 65%;
+  margin-top: 62%;
   margin-bottom: 15%;
   background-color: white;
   z-index: 5;
@@ -388,6 +388,7 @@ opacity: 0.95;
   width: 100%;
   object-fit: cover;
   object-position: left;
+  margin: 0rem;
 }
 .grid-3 .referenzen-card--figure {
   position: relative;
@@ -421,6 +422,9 @@ opacity: 0.95;
 #referenzen_card--link a:link {
   text-decoration: none;
   color: white;
+}
+#referenzen_card--link h3 {
+  text-align: center;
 }
 
 .grid-3 .referenzen-card--figure {
