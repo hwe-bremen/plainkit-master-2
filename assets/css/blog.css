@@ -36,6 +36,19 @@ div.blocks figure img {
   height: unset;
 }
 
+.blog_pagination {
+  display: flex;
+  flex-direction: row;
+  grid-column: 1 / span 6;
+  border-top: 1px black solid;
+}
+
+.pagination {
+  font-size: 1rem;
+  margin-right: 2rem;
+  color: var(--corporate_color);
+}
+
 @media screen and (max-width: 840px) {
 
   /* Zusätzliche Regeln für kleinere Monitore  */
@@ -56,6 +69,15 @@ div.blocks figure img {
 .column:nth-child(3) {
   grid-row: 3;
   margin-top: 2rem;
+}
+.blog_pagination {
+  grid-column: 1;
+}
+
+.pagination {
+  font-size: 0.8rem;
+  margin-right: 1rem;
+  color: var(--corporate_color);
 }
 
 }

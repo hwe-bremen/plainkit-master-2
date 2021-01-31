@@ -13,10 +13,13 @@
     <div class="blocks">
       <?= $column->blocks() ?>
     </div>
-
   </div>
   <?php endforeach ?>
-  <a href="<?= url('blogs') ?>">Back…</a>
+
+  <div class="blog_pagination"><a class="pagination" href="<?= url('blogs') ?>">Back…</a>
+    <?php snippet('prevnext') ?>
+  </div>
+
 </section>
 <?php endforeach ?>
              

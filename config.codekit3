@@ -14856,6 +14856,14 @@
 		"oAP": "/site/snippets/menu.php",
 		"oF": 0
 		},
+	"/site/snippets/prevnext.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/snippets/prevnext.php",
+		"oF": 0
+		},
 	"/site/tags/slider.php": {
 		"cB": 0,
 		"ft": 8192,
