@@ -73,6 +73,20 @@
      </article>
 </section>
 
+<!-- Bereich BLOG -->
+
+<section id="section_blog">
+<div class="cards" id="grid1">
+        <?php foreach (page('blogs')->children()->listed() as $blog): ?>     
+                <a href="<?= $blog->url() ?>">
+        <article class="blog_liste--style">
+                <?= $blog->blocks()->toBlocks() ?>                      
+        </article> 
+        </a> 
+        <?php endforeach ?>
+    </div>
+</section>
+
 </main>
 
 <footer class="footer"> Hier steht noch nichts</footer>

@@ -44,10 +44,7 @@
         <article class="blog_liste--style">
                 <?= $blog->blocks()->toBlocks() ?>
                         <small><?= $blog->tags()->html() ?></small> 
-                        <time><small><?= $blog->published()->toDate('d-m-y') ?></small></time>           
-                        
-                               
-                        
+                        <time><small><?= $blog->published()->toDate('d-m-y') ?></small></time>                         
         </article> 
         </a> 
         <?php endforeach ?>

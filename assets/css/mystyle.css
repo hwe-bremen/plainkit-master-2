@@ -506,6 +506,35 @@ opacity: 0.95;
   grid-row: 2 / 3;
 }
 
+/* Inhalt BLOG ___________________________________________*/
+
+/*#section_blog {
+  background-color: var(--corporate_color);
+}*/
+ 
+#section_blog .blog_liste--style {
+  border: 1px solid var(--corporate_color);
+  padding: 0.5rem;
+  transition: transform 0.5s ease-in-out;
+}
+
+#section_blog .blog_liste--style:hover {
+  transform: scale(1.02);
+}
+
+
+#section_blog .blog_liste--style figure {
+  display: none;
+}
+
+#section_blog .blog_liste--style p {
+  color: black;
+  font-size: 1rem;
+}
+
+#section_blog .cards a {
+  text-decoration: none;
+}
 
 /* Inhalt Footer ___________________________________________*/
 
