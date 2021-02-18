@@ -131,6 +131,26 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"/assets/css/leistungen-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/leistungen-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/assets/css/leistungen.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/assets/css/leistungen-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/assets/css/mystyle-min.css": {
 		"aP": 1,
 		"bl": 0,
@@ -434,6 +454,24 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/content/2_portfolio/1_portfolio-eins/corperate-concept.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/content/2_portfolio/1_portfolio-eins/corperate-concept.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/content/2_portfolio/1_portfolio-eins/corperate-concept.svg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/1_portfolio-eins/corperate-concept.svg.txt",
+		"oF": 0
+		},
 	"/content/2_portfolio/2_Eisbilder-2_ultraHD.jpg": {
 		"ft": 16384,
 		"iS": 447862,
@@ -474,6 +512,24 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/content/2_portfolio/2_portfolio-zwei/bild_portfolio_2.jpg.txt",
+		"oF": 0
+		},
+	"/content/2_portfolio/2_portfolio-zwei/web-design.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/content/2_portfolio/2_portfolio-zwei/web-design.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/content/2_portfolio/2_portfolio-zwei/web-design.svg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/2_portfolio-zwei/web-design.svg.txt",
 		"oF": 0
 		},
 	"/content/2_portfolio/3_portfolio-drei/basicpage.txt": {
@@ -8294,6 +8350,16 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/portfolio-eins/2a27b08df8-1613683107/corperate-concept.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/media/pages/portfolio/portfolio-eins/2a27b08df8-1613683107/corperate-concept.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/media/pages/portfolio/portfolio-eins/884df5f966-1607939801/bild-portfolio-1-550x700.jpg": {
 		"ft": 16384,
 		"iS": 92730,
@@ -8494,6 +8560,16 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613684987/web-design.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613684987/web-design.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/media/pages/referenzen/binder-edelstahl/10ae83537b-1610190896/.jobs/02-gestaltung-weihnachtsaussendung-352x.jpg.json": {
 		"ft": 524288,
@@ -14728,84 +14804,36 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1612043927.0b44d7090462f3c86fbe.sess": {
+	"/site/sessions/1613690259.adb8c853008e8d45597a.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1612043927.0b44d7090462f3c86fbe.sess",
+		"oAP": "/site/sessions/1613690259.adb8c853008e8d45597a.sess",
 		"oF": 0
 		},
-	"/site/sessions/1612047529.91c55045d225c5700bee.sess": {
+	"/site/sessions/1613690259.ba46da64aab98c7babb5.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1612047529.91c55045d225c5700bee.sess",
+		"oAP": "/site/sessions/1613690259.ba46da64aab98c7babb5.sess",
 		"oF": 0
 		},
-	"/site/sessions/1612051130.3d40a27c8ae1c80fc674.sess": {
+	"/site/sessions/1613690613.0569d112a91de9507c92.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1612051130.3d40a27c8ae1c80fc674.sess",
+		"oAP": "/site/sessions/1613690613.0569d112a91de9507c92.sess",
 		"oF": 0
 		},
-	"/site/sessions/1612054731.6ec91b2b72e7ec71470a.sess": {
+	"/site/sessions/1613690613.178d3f2a2d4d93564b62.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1612054731.6ec91b2b72e7ec71470a.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612100170.27ed24bde2f4e69971fd.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612100170.27ed24bde2f4e69971fd.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612100170.7dfa091887389ccc1973.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612100170.7dfa091887389ccc1973.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612110333.c4bd54e49f933134b73e.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612110333.c4bd54e49f933134b73e.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612110333.c762d8e5f9fb3c9ae2d1.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612110333.c762d8e5f9fb3c9ae2d1.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612129441.2f0e56d968e9709ee2ae.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612129441.2f0e56d968e9709ee2ae.sess",
-		"oF": 0
-		},
-	"/site/sessions/1612129441.c895c6a023308484c749.sess": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/site/sessions/1612129441.c895c6a023308484c749.sess",
+		"oAP": "/site/sessions/1613690613.178d3f2a2d4d93564b62.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {
@@ -14846,6 +14874,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/snippets/index.html",
+		"oF": 0
+		},
+	"/site/snippets/leistungen.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/snippets/leistungen.php",
 		"oF": 0
 		},
 	"/site/snippets/menu.php": {
@@ -14918,6 +14954,14 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/templates/default.php",
+		"oF": 0
+		},
+	"/site/templates/home copy.php": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/templates/home copy.php",
 		"oF": 0
 		},
 	"/site/templates/home.php": {

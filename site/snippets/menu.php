@@ -13,6 +13,7 @@
 
 <?= css([
         'assets/css/mystyle-min.css',
+        'assets/css/leistungen.css',
         'assets/css/header_unterseiten-min.css', 
         'assets/css/blog-min.css', 
         'assets/css/basicpage_main-min.css',
