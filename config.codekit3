@@ -561,6 +561,24 @@
 		"oAP": "/content/2_portfolio/3_portfolio-drei/bild_portfolio_3.jpg.txt",
 		"oF": 0
 		},
+	"/content/2_portfolio/3_portfolio-drei/web-development.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/content/2_portfolio/3_portfolio-drei/web-development.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/content/2_portfolio/3_portfolio-drei/web-development.svg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/3_portfolio-drei/web-development.svg.txt",
+		"oF": 0
+		},
 	"/content/2_portfolio/4_portfolio-vier/basicpage.txt": {
 		"cB": 0,
 		"ft": 8192,
@@ -581,6 +599,24 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/content/2_portfolio/4_portfolio-vier/media.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/content/2_portfolio/4_portfolio-vier/media.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
+	"/content/2_portfolio/4_portfolio-vier/media.svg.txt": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/content/2_portfolio/4_portfolio-vier/media.svg.txt",
+		"oF": 0
 		},
 	"/content/2_portfolio/basicpage_main.txt": {
 		"cB": 0,
@@ -8021,23 +8057,23 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min.css": {
+	"/media/pages/portfolio/7f5a9ed9e0-1613846318/portfolio_main-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1610278318/portfolio_main-min-min.css",
+		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1613846318/portfolio_main-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/media/pages/portfolio/9fb042839c-1610278317/portfolio_main.css": {
+	"/media/pages/portfolio/9fb042839c-1613846317/portfolio_main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/9fb042839c-1610278317/portfolio_main-min.css",
+		"oAP": "/media/pages/portfolio/9fb042839c-1613846317/portfolio_main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -8174,6 +8210,16 @@
 		"ou": "lpckwebp-none",
 		"q": 100,
 		"rq": 75
+		},
+	"/media/pages/portfolio/portfolio-drei/958cf7e86c-1613846651/web-development.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/media/pages/portfolio/portfolio-drei/958cf7e86c-1613846651/web-development.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
 		},
 	"/media/pages/portfolio/portfolio-drei/d06054ea51-1608397774/.jobs/bild-portfolio-3-352x.jpg.json": {
 		"ft": 524288,
@@ -8467,6 +8513,16 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/portfolio-vier/fa00997d23-1613846724/media.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "/media/pages/portfolio/portfolio-vier/fa00997d23-1613846724/media.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 52780316221407,
+		"prP": 0
+		},
 	"/media/pages/portfolio/portfolio-zwei/422db427c5-1607939801/bild-portfolio-2-550x700.jpg": {
 		"ft": 16384,
 		"iS": 85153,
@@ -8561,11 +8617,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613684987/web-design.svg": {
+	"/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613846519/web-design.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613684987/web-design.svg",
+		"oAP": "/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613846519/web-design.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
@@ -8983,6 +9039,19 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-500x500.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
+	"/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-600x.jpg": {
+		"ft": 16384,
+		"iS": 48956,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/binder-edelstahl/33f2229594-1610190897/11-messestand-leuchtkubus-600x.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -12938,6 +13007,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-600x.jpg": {
+		"ft": 16384,
+		"iS": 29443,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-600x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/referenzen/iwt/f5a7394763-1610141566/1-intro-bild-iwt-76x76.jpg": {
 		"ft": 16384,
 		"iS": 3336,
@@ -14804,36 +14886,60 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1613690259.adb8c853008e8d45597a.sess": {
+	"/site/sessions/1613858339.1b1f424b76542765bd24.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613690259.adb8c853008e8d45597a.sess",
+		"oAP": "/site/sessions/1613858339.1b1f424b76542765bd24.sess",
 		"oF": 0
 		},
-	"/site/sessions/1613690259.ba46da64aab98c7babb5.sess": {
+	"/site/sessions/1613861944.2f087ee8e63fb078dbb8.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613690259.ba46da64aab98c7babb5.sess",
+		"oAP": "/site/sessions/1613861944.2f087ee8e63fb078dbb8.sess",
 		"oF": 0
 		},
-	"/site/sessions/1613690613.0569d112a91de9507c92.sess": {
+	"/site/sessions/1613865549.f4dec771a23b6359a34a.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613690613.0569d112a91de9507c92.sess",
+		"oAP": "/site/sessions/1613865549.f4dec771a23b6359a34a.sess",
 		"oF": 0
 		},
-	"/site/sessions/1613690613.178d3f2a2d4d93564b62.sess": {
+	"/site/sessions/1615046200.683e53a8a8a07a45207a.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613690613.178d3f2a2d4d93564b62.sess",
+		"oAP": "/site/sessions/1615046200.683e53a8a8a07a45207a.sess",
+		"oF": 0
+		},
+	"/site/sessions/1615046200.73d05756aac4715f1747.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1615046200.73d05756aac4715f1747.sess",
+		"oF": 0
+		},
+	"/site/sessions/1615050515.60cd4744e92f3ccf5713.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1615050515.60cd4744e92f3ccf5713.sess",
+		"oF": 0
+		},
+	"/site/sessions/1615050515.bb451e140b3552115d30.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1615050515.bb451e140b3552115d30.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {

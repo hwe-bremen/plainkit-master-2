@@ -821,7 +821,7 @@ li a {
 }
 
 .grid-0 {
-    grid-template-columns: repeat(12, minmax(10px, 1fr));
+    grid-template-columns: repeat(10, minmax(10px, 1fr));
 }
 
 #inhalt {
@@ -933,6 +933,12 @@ li a {
 
   .grid-3 .referenzen-card--figure:last-child {
     grid-column: span 3;
+  }
+
+  #grid1b {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-gap: 5%;
   }
 }
 @media (orientation: portrait) {

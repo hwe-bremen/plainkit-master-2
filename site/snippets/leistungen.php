@@ -23,9 +23,9 @@
 
             <div class="card_text cards_inhalt">
                 <h2 class="card_text--groesse"><?= $portfolio->headline() ?></h2>
-                    <div class="button-standard--abstand"><p class="card_text--groesse"><?= $portfolio->introtext()->html()->excerpt(180) ?><p>
+                    <div class="button-standard--abstand"><p class="card_text--groesse"><?= $portfolio->introtext()->html()->excerpt(300) ?><p>
                     </div>
-              <button class="button_standard"> <a class="button_standard--link" href="<?= $portfolio->url() ?>"> mehr </a> </button>
+              <button class="button_standard button_standard--leis"> <a class="button_standard--link" href="<?= $portfolio->url() ?>"> mehr </a> </button>
             </div> 
         </article> 
                 <?php endforeach ?>

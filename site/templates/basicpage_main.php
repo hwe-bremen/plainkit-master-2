@@ -41,7 +41,7 @@
                         <?php foreach ($referenzen as $referenzen): ?>
 <article>
 
-         <?php if ($cover = $referenzen->cover()): ?><?= $cover->resize(800, 500) ?>
+         <?php if ($cover = $referenzen->cover()): ?><?= $cover->resize(600) ?>
          <?php endif ?>
             <p><?= $referenzen->headline()->html() ?></p>
                <p class="card_text--groesse"><?= $referenzen->introtext()->html()->excerpt(250) ?></p>

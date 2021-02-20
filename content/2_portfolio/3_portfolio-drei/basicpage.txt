@@ -14,11 +14,17 @@ Introtext: Die technische Entwicklung stellt höchste Ansprüche – an Funktion
 
 ----
 
-Cover: - bild_portfolio_3.jpg
+Cover:
+
+- web-development.svg
 
 ----
 
 Haupttext: Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.Drei disque sapid ut incto bea aborrum fugit ium con con nobis vid quam autatem. Mod ut as samus eturest quaspieni doluptat enistiati ut ad mil magni simo od molupta turerch ilisquam ut eosam, esto ipitiatiur? Quia quost voluptatios rerunto is ad ut excepud anditia doluptae alia vellam.
+
+----
+
+Toggle: false
 
 ----
 

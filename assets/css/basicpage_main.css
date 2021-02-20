@@ -25,7 +25,7 @@
 
 #card_liste {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
     grid-column-gap: 3%;
     column-gap: 3%;
     row-gap: 5%;
@@ -86,12 +86,12 @@ transform: scale(1.02);
 
 
 
-@media screen and (max-width: 780px) {
+@media screen and (max-width: 900px) {
 
   /* Zusätzliche Regeln für kleinere Monitore  */
 
   #card_liste {
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-row-gap: 2%;
     row-gap: 2%;
 
