@@ -8057,23 +8057,23 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/7f5a9ed9e0-1613846318/portfolio_main-min.css": {
+	"/media/pages/portfolio/7f5a9ed9e0-1613925672/portfolio_main-min.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1613846318/portfolio_main-min-min.css",
+		"oAP": "/media/pages/portfolio/7f5a9ed9e0-1613925672/portfolio_main-min-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/media/pages/portfolio/9fb042839c-1613846317/portfolio_main.css": {
+	"/media/pages/portfolio/9fb042839c-1613925671/portfolio_main.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/media/pages/portfolio/9fb042839c-1613846317/portfolio_main-min.css",
+		"oAP": "/media/pages/portfolio/9fb042839c-1613925671/portfolio_main-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -8211,11 +8211,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-drei/958cf7e86c-1613846651/web-development.svg": {
+	"/media/pages/portfolio/portfolio-drei/958cf7e86c-1613923130/web-development.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/pages/portfolio/portfolio-drei/958cf7e86c-1613846651/web-development.svg",
+		"oAP": "/media/pages/portfolio/portfolio-drei/958cf7e86c-1613923130/web-development.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
@@ -8396,11 +8396,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-eins/2a27b08df8-1613683107/corperate-concept.svg": {
+	"/media/pages/portfolio/portfolio-eins/2a27b08df8-1613923419/corperate-concept.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/pages/portfolio/portfolio-eins/2a27b08df8-1613683107/corperate-concept.svg",
+		"oAP": "/media/pages/portfolio/portfolio-eins/2a27b08df8-1613923419/corperate-concept.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
@@ -8474,6 +8474,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-600x.jpg": {
+		"ft": 16384,
+		"iS": 128709,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-600x.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/media/pages/portfolio/portfolio-vier/8af698b572-1608397774/bild-portfolio-4-76x76.jpg": {
 		"ft": 16384,
 		"iS": 3914,
@@ -8513,11 +8526,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-vier/fa00997d23-1613846724/media.svg": {
+	"/media/pages/portfolio/portfolio-vier/fa00997d23-1613921885/media.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/pages/portfolio/portfolio-vier/fa00997d23-1613846724/media.svg",
+		"oAP": "/media/pages/portfolio/portfolio-vier/fa00997d23-1613921885/media.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
@@ -8617,11 +8630,11 @@
 		"q": 100,
 		"rq": 75
 		},
-	"/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613846519/web-design.svg": {
+	"/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613923350/web-design.svg": {
 		"ft": 2097152,
 		"miP": 0,
 		"oA": 2,
-		"oAP": "/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613846519/web-design.svg",
+		"oAP": "/media/pages/portfolio/portfolio-zwei/f9d40626ab-1613923350/web-design.svg",
 		"oF": 0,
 		"opt": 0,
 		"plM": 52780316221407,
@@ -14886,28 +14899,44 @@
 		"oAP": "/site/models/referenzen.php",
 		"oF": 0
 		},
-	"/site/sessions/1613858339.1b1f424b76542765bd24.sess": {
+	"/site/sessions/1613937026.2a4230cbd7baf907a478.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613858339.1b1f424b76542765bd24.sess",
+		"oAP": "/site/sessions/1613937026.2a4230cbd7baf907a478.sess",
 		"oF": 0
 		},
-	"/site/sessions/1613861944.2f087ee8e63fb078dbb8.sess": {
+	"/site/sessions/1613940631.f8b4c71056a15035cd5a.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613861944.2f087ee8e63fb078dbb8.sess",
+		"oAP": "/site/sessions/1613940631.f8b4c71056a15035cd5a.sess",
 		"oF": 0
 		},
-	"/site/sessions/1613865549.f4dec771a23b6359a34a.sess": {
+	"/site/sessions/1613941232.d3981976a927a8f3b8f6.sess": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/site/sessions/1613865549.f4dec771a23b6359a34a.sess",
+		"oAP": "/site/sessions/1613941232.d3981976a927a8f3b8f6.sess",
+		"oF": 0
+		},
+	"/site/sessions/1613944837.8f122a5e6e29534ab181.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1613944837.8f122a5e6e29534ab181.sess",
+		"oF": 0
+		},
+	"/site/sessions/1613948442.8f1a8a0efa76235c5534.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1613948442.8f1a8a0efa76235c5534.sess",
 		"oF": 0
 		},
 	"/site/sessions/1615046200.683e53a8a8a07a45207a.sess": {
@@ -14940,6 +14969,22 @@
 		"hM": 0,
 		"oA": 0,
 		"oAP": "/site/sessions/1615050515.bb451e140b3552115d30.sess",
+		"oF": 0
+		},
+	"/site/sessions/1615131538.2f6e61116d86232d7545.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1615131538.2f6e61116d86232d7545.sess",
+		"oF": 0
+		},
+	"/site/sessions/1615131538.4da8cf46218bfe6f33d6.sess": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/site/sessions/1615131538.4da8cf46218bfe6f33d6.sess",
 		"oF": 0
 		},
 	"/site/sessions/index.html": {

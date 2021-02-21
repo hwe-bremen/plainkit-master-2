@@ -2,6 +2,12 @@
     grid-column: 1 / span 8;
 }
 
+
+#card_liste article {
+    max-width: 400px;
+}
+
+
 .card_text--groesse {
     display: none;
 }
@@ -15,12 +21,9 @@
 }
 
 #card_liste article img {
-    background-color: var(--corporate_color);
-    padding: 10%;
-    width: 80%;
-    height: 30rem;
-    max-height: 35rem;
-
+    background-image: radial-gradient(  circle at top left, rgb(110, 212, 26) 5%,  rgb(33, 189, 12) 55%, rgb(25, 139, 25) 90%);
+    padding: 2%;
+    width: 96%;
 }
 
 small {

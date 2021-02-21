@@ -17,7 +17,7 @@
                 <?php foreach (page('portfolio')->children()->listed() as $portfolio): ?> 
          <article class="card"> 
             <figure class="cards_inhalt"> 
-                <?php if ($cover = $portfolio->cover()): ?><?= $cover->resize(550, 700) ?>
+                <?php if ($cover = $portfolio->cover()): ?><?= $cover->resize(550) ?>
             </figure> 
                  <?php endif ?>
 

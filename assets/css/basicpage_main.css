@@ -1,5 +1,5 @@
 #basic-page-main {
-    margin-top: 20%;
+    margin-top: 30%;
     margin-bottom: 5%;
 }
   
@@ -94,8 +94,19 @@ transform: scale(1.02);
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
     grid-row-gap: 2%;
     row-gap: 2%;
-
+}
 }
 
+@media screen and (max-width: 768px) {
 
+  #basic-page-main {
+    margin-top: 50%;
+   }
+}
+
+@media screen and (max-width: 500px) {
+
+  #basic-page-main {
+    margin-top: 75vh;
+   }
 }

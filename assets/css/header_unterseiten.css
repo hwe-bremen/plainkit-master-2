@@ -2,10 +2,10 @@
 
  #header_bereich-unterseiten {
    display: flex;
-   height: 10vw;
+   height: 25vw;
    /*background-color: var(--corporate_color);
    background-image: linear-gradient(135deg, rgb(74, 240, 74) 5%, rgb(98, 203, 98) 40%, var(--corporate_color) 85%);*/
-   background-image: linear-gradient(135deg, rgb(66, 172, 66) 5%, var(--corporate_color) 85%);
+   background-image: radial-gradient(  circle at top left, rgb(110, 212, 26) 5%,  rgb(33, 189, 12) 55%, rgb(25, 139, 25) 90%);
    position: relative;
    grid-row: 2 / span 1;
    grid-column: 2 /span 1;
@@ -16,9 +16,6 @@
    display: flex;
    align-self: center;
    position: absolute;
-  /* background-color: rgba(255, 255, 255, 0.9);
-   color: black;
-   mix-blend-mode: screen;*/
    padding: 1%;
    align-items: center;
  }
@@ -28,9 +25,25 @@
   font-size: 3vw;
   margin: 0 auto;
 }
-/* #head_header-unterseiten {
-   color: black;
-   font-size: 7vw;
-   text-shadow: rgb(3, 36, 36) 0.2rem 0.2rem 0.2rem, teal 0.5rem 0.5rem 0.5rem;
-   margin: 0 auto;
- }*/
+
+
+ /* Zusätzliche Regeln für kleinere Monitore  */
+
+
+ @media screen and (max-width: 768px) {
+
+  #header_bereich-unterseiten {
+    height: 40vw;
+   }
+
+
+}
+
+@media screen and (max-width: 500px) {
+
+  #header_bereich-unterseiten {
+    height: 70vh;
+   }
+
+
+}
