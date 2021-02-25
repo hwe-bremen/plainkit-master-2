@@ -4,8 +4,8 @@
     grid-template-columns: repeat(12, minmax(50px, 1fr));
   }
   #inhalt {
-    margin-top: 62%;
-    margin-bottom: 15%;
+ margin-top: 5%;
+  /* margin-bottom: 15%;*/
     background-color: white;
     z-index: 5;
   }
@@ -39,7 +39,7 @@
   .card {
     display: flex;
     flex-flow: row ;
-    align-items: start;
+    align-items: flex-start;
     background-image: linear-gradient(135deg, rgb(98, 203, 98) 10%, var(--corporate_color) 70%);
     padding: 2rem;
     margin-bottom: 5rem;
@@ -124,3 +124,4 @@ p.card_text--groesse{
 
 
 }
+

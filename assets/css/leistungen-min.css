@@ -1,1 +1,128 @@
-.grid-0{display:grid;grid-template-columns:repeat(12, minmax(50px, 1fr))}#inhalt{margin-top:62%;margin-bottom:15%;background-color:white;z-index:5}.grid-inhalt{grid-column:1 / span 7}.zierbalken-gruen{display:inline-block;background-color:var(--corporate_color);height:calc(5px + (100vw - 99.6vw));width:calc(80px + (100vw - 95vw))}.hero_head{margin-top:4%;margin-bottom:5%}h3.grid-inhalt{grid-column:1 / span 8;margin-bottom:4rem}#grid1{display:flex;flex-direction:column}.card{display:flex;flex-flow:row;align-items:start;background-image:linear-gradient(135deg, #62cb62 10%, var(--corporate_color) 70%);padding:2rem;margin-bottom:5rem}.card:nth-child(even){flex-flow:row-reverse;background-image:linear-gradient(135deg, var(--corporate_color) 10%, #62cb62 70%)}.cards_inhalt{display:flex}.card>figure{margin:3rem;width:25%;height:auto;overflow:hidden}.card>figure img{object-fit:cover;height:auto}.button-standard--abstand{width:100%;overflow:hidden}.card_text{margin:0;padding:3% 3% 3% 3%;flex-flow:column;width:75%;color:white;text-shadow:1px 1px 3px #3e6a2c}.button-standard--abstand{margin-bottom:0}.button_standard--leis{font-size:2rem;align-self:flex-start;background-color:rgba(0,0,0,0);border:1px solid white;box-shadow:3px 3px 5px rgba(0,0,0,0.3)}.button_standard--leis:hover{transform:scale(1.05, 1.05) translate(8px, 0px)}button{margin-top:1.5rem}.card_text--groesse{margin:0 0 0.5em 0}p.card_text--groesse{font-size:var(--paragraph_zwei)}@media screen and (max-width: 768px){.grid-0{display:grid;grid-template-columns:repeat(12, minmax(10px, 1fr))}.card{flex-flow:row wrap;padding:0.5rem}.card:nth-child(even){flex-flow:row wrap}}
+
+.grid-0 {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(50px, 1fr));
+  }
+  #inhalt {
+ margin-top: 5%;
+  /* margin-bottom: 15%;*/
+    background-color: white;
+    z-index: 5;
+  }
+  .grid-inhalt {
+    grid-column: 1 / span 7;
+  }
+  
+  .zierbalken-gruen {
+    display: inline-block;
+    background-color: var( --corporate_color);
+    height: calc(5px + (100vw - 99.6vw));
+    width: calc(80px + (100vw - 95vw));
+  }
+  
+  .hero_head {
+    margin-top: 4%;
+    margin-bottom: 5%;
+  }
+
+  h3.grid-inhalt {
+    grid-column: 1 / span 8;
+    margin-bottom: 4rem;
+  }
+  
+  /* Home CARDS ___________________________________________*/
+  
+  #grid1 {
+    display: flex;
+    flex-direction: column;
+  }
+  .card {
+    display: flex;
+    flex-flow: row ;
+    align-items: flex-start;
+    background-image: linear-gradient(135deg, rgb(98, 203, 98) 10%, var(--corporate_color) 70%);
+    padding: 2rem;
+    margin-bottom: 5rem;
+  }
+
+  .card:nth-child(even) {
+   flex-flow: row-reverse;
+   background-image: linear-gradient(135deg, var(--corporate_color) 10%, rgb(98, 203, 98) 70%);
+  }
+
+  .cards_inhalt {
+      display: flex;
+  }
+  
+  .card>figure {
+    margin: 3rem;
+    width: 25%;
+    height: auto;
+    overflow: hidden;
+  }
+  .card>figure img {
+    -o-object-fit: cover;
+    object-fit: cover;
+    height: auto;
+  }
+  .button-standard--abstand {
+    width: 100%;
+    overflow: hidden;
+  }
+  .card_text {
+    margin: 0;
+    padding: 3% 3% 3% 3%;
+    flex-flow: column;
+    width:75%;
+    color: white;
+    text-shadow: 1px 1px 3px rgb(62, 106, 44);
+  }
+  .button-standard--abstand {
+    margin-bottom: 0;
+}
+.button_standard--leis {
+    font-size: 2rem;
+    align-self: flex-start;
+    background-color: rgba(0, 0, 0, 0);
+    border: 1px solid white;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.button_standard--leis:hover {
+  transform: scale(1.05, 1.05) translate(8px, 0px)
+}
+
+button {
+  margin-top: 1.5rem;
+}
+
+.card_text--groesse{
+    margin: 0 0 0.5em 0;
+}
+p.card_text--groesse{
+    font-size: var( --paragraph_zwei);
+}
+
+
+
+ /* Zusätzliche Regeln für kleinere Monitore  */
+
+
+@media screen and (max-width: 768px) {
+
+  .grid-0 {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(10px, 1fr));
+  }
+
+  .card {
+    flex-flow: row wrap;
+    padding: 0.5rem;
+  }
+  .card:nth-child(even) {
+    flex-flow: row wrap;
+   }
+
+
+}
+

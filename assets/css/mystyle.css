@@ -23,12 +23,13 @@ body {
   box-sizing: border-box;
 }
 .main {
-  grid-row: 2 / span 1;
+  grid-row: 3 / span 1;
   grid-column: 2 / span 1;
   position: relative;
   box-sizing: border-box;
   margin-bottom: 8rem;
 }
+
 h2 {
   position: relative;
   font-size: var(--head_zwei);
@@ -532,7 +533,7 @@ h3.grid-inhalt {
 
 
 .footer {
-  grid-row: 3 / 4;
+  grid-row: 4 / 5;
   grid-column: 1 / span 3;
   background-color: black;
 }
@@ -572,9 +573,9 @@ h3.grid-inhalt {
     grid-column-end: 10;
   }
 
-  #inhalt {
+ /* #inhalt {
     margin-bottom: 25%;
-  }
+  }*/
 
   .card {
     margin-bottom: 15rem;
@@ -617,7 +618,7 @@ h3.grid-inhalt {
   /* Zusätzliche Regeln für kleinere Monitore  */
 
   body {
-    grid-template-rows: 1fr;
+    grid-template-rows: 1fr auto;
     grid-template-columns: minmax(1rem, min-content) minmax(calc(100vw - 2rem), min-content) minmax(1rem, min-content);
   }
 
@@ -684,7 +685,10 @@ li a {
  @media screen and (max-width: 750px) {
 
   /* Zusätzliche Regeln für kleinere Monitore  */
+  #header_bereich {
+    height:  calc(60vh - 8rem);
 
+}
   #header_bereich img {
     object-position: bottom;
     height: 100%;
@@ -704,9 +708,9 @@ li a {
   #grid1 {
     grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   }
-  #inhalt {
+ /* #inhalt {
     margin-top: 55vh;
-  }
+  }*/
 
   .grid-inhalt {
     grid-column-start: 2;
@@ -738,7 +742,7 @@ li a {
 
   #section_home_selbstdarstellung {
     margin-bottom: 10%;
-    margin-top: 45%;
+    /*margin-top: 45%;*/
   }
 
   .section_container--home {
@@ -825,7 +829,7 @@ li a {
 }
 
 #inhalt {
-  margin-top: 68vh;
+ /* margin-top: 68vh;*/
   padding-top: 2rem;
 }
   .grid-inhalt {
@@ -849,7 +853,7 @@ li a {
   }
   #section_home_selbstdarstellung {
     margin-bottom: 10%;
-    margin-top: 70%;
+  /*  margin-top: 70%;*/
   }
 
   .section_container--home {
@@ -942,6 +946,11 @@ li a {
   }
 }
 @media (orientation: portrait) {
+
+  #header_bereich {
+    height:  calc(60vh - 8rem);
+  }
+
   .grid-3 {
     grid-template-rows: repeat(3, 15vh);
   } 
@@ -955,3 +964,9 @@ li a {
   }
 
 }
+@media (orientation: portrait)   and (min-width: 840px) {
+
+  .main {
+    margin-top: -40rem;
+  }
+  }
